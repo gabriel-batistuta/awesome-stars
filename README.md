@@ -118,10 +118,10 @@
 
 ## HTML 
 
+- [pdf2htmlEX/pdf2htmlEX](https://github.com/pdf2htmlEX/pdf2htmlEX) - Convert PDF to HTML without losing text or format.
 - [docker/docs](https://github.com/docker/docs) - Source repo for Docker's Documentation
 - [UniversalDependencies/docs](https://github.com/UniversalDependencies/docs) - Universal Dependencies online documentation
 - [filipedeschamps/tabnews.com.br](https://github.com/filipedeschamps/tabnews.com.br) - Conteúdos para quem trabalha com Programação e Tecnologia.
-- [WagnerMarcuci/OProgramadorW](https://github.com/WagnerMarcuci/OProgramadorW) - Código Fonte
 - [720kb/angular-datepicker](https://github.com/720kb/angular-datepicker) - Angularjs datepicker module, generate a datepicker on your input element -  https://720kb.github.io/angular-datepicker
 - [SergioPereira79/Curso-Front-End](https://github.com/SergioPereira79/Curso-Front-End) - Um projeto de Front End.
 - [iuricode/recursos-gratuitos](https://github.com/iuricode/recursos-gratuitos) - 🌈 Uma coleção com links de recursos gratuitos para desenvolvimentos e estudos.
@@ -230,6 +230,8 @@
 
 ## Python 
 
+- [vgalin/html2image](https://github.com/vgalin/html2image) - A package acting as a wrapper around the headless mode of existing web browsers to generate images from URLs and from HTML+CSS strings or files.
+- [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [xhtml2pdf/xhtml2pdf](https://github.com/xhtml2pdf/xhtml2pdf) - A library for converting HTML into PDFs using ReportLab
 - [akapne01/translator](https://github.com/akapne01/translator) - 
 - [JazzCore/python-pdfkit](https://github.com/JazzCore/python-pdfkit) - Wkhtmltopdf python wrapper to convert html to pdf
