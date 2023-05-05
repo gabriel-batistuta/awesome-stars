@@ -262,6 +262,7 @@
 
 ## cpp 
 
+- [cemu-project/Cemu](https://github.com/cemu-project/Cemu) - Cemu - Wii U emulator
 - [PCSX2/pcsx2](https://github.com/PCSX2/pcsx2) - PCSX2 - The Playstation 2 Emulator
 - [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
 
@@ -352,6 +353,7 @@
 
 ## emulator 
 
+- [cemu-project/Cemu](https://github.com/cemu-project/Cemu) - Cemu - Wii U emulator
 - [PCSX2/pcsx2](https://github.com/PCSX2/pcsx2) - PCSX2 - The Playstation 2 Emulator
 
 ## es6 
@@ -707,6 +709,7 @@
 
 ## others 
 
+- [AnuoF/TranslateTool](https://github.com/AnuoF/TranslateTool) - Translate documents such as word, pdf, and txt from English to Chinese,written with Python.
 - [akapne01/translator](https://github.com/akapne01/translator) - 
 - [apple/swift](https://github.com/apple/swift) - The Swift Programming Language
 - [JazzCore/python-pdfkit](https://github.com/JazzCore/python-pdfkit) - Wkhtmltopdf python wrapper to convert html to pdf
