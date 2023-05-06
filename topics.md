@@ -5,6 +5,7 @@
 
 ## Contents
 
+- [ai](#ai)
 - [algorithm](#algorithm)
 - [android](#android)
 - [angular](#angular)
@@ -62,6 +63,7 @@
 - [go](#go)
 - [godot](#godot)
 - [golang](#golang)
+- [google](#google)
 - [graphql](#graphql)
 - [hacking](#hacking)
 - [hacktoberfest](#hacktoberfest)
@@ -131,6 +133,10 @@
 - [web](#web)
 - [website](#website)
 - [windows](#windows)
+
+## ai 
+
+- [google-research/google-research](https://github.com/google-research/google-research) - Google Research
 
 ## algorithm 
 
@@ -471,6 +477,10 @@
 - [giongto35/cloud-game](https://github.com/giongto35/cloud-game) - Web-based Cloud Gaming service for Retro Game
 - [arthurspk/guiadobackend](https://github.com/arthurspk/guiadobackend) - Nesse guia você encontrará tudo para se torna um desenvolvedor back-end, dessa maneira, encontrará mapas mentais, cursos, trilhas e outras ferramentas para poder praticar o conhecimento adquirido.
 
+## google 
+
+- [UlionTse/translators](https://github.com/UlionTse/translators) - 🌏🌍🌎Translators🌎🌍🌏 is a library which aims to bring free, multiple, enjoyable translation to individuals and students in Python.  Translators是一个旨在用Python为个人和学生带来免费、多样、愉快翻译的库。
+
 ## graphql 
 
 - [Kong/insomnia](https://github.com/Kong/insomnia) - The open-source, cross-platform API client for GraphQL, REST, WebSockets and gRPC.
@@ -638,6 +648,7 @@
 
 ## machine-learning 
 
+- [google-research/google-research](https://github.com/google-research/google-research) - Google Research
 - [ErdemOzgen/Data-Engineering-Roadmap](https://github.com/ErdemOzgen/Data-Engineering-Roadmap) - Roadmap for Data Engineering
 - [JuliaLang/julia](https://github.com/JuliaLang/julia) - The Julia Programming Language
 - [microsoft/recommenders](https://github.com/microsoft/recommenders) - Best Practices on Recommendation Systems
@@ -709,6 +720,8 @@
 
 ## others 
 
+- [gutenbergtools/ebookmaker](https://github.com/gutenbergtools/ebookmaker) - The Project Gutenberg tool to generate EPUBs and other ebook formats.
+- [egonSchiele/grokking_algorithms](https://github.com/egonSchiele/grokking_algorithms) - Code for the book Grokking Algorithms (https://amzn.to/29rVyHf)
 - [AnuoF/TranslateTool](https://github.com/AnuoF/TranslateTool) - Translate documents such as word, pdf, and txt from English to Chinese,written with Python.
 - [akapne01/translator](https://github.com/akapne01/translator) - 
 - [apple/swift](https://github.com/apple/swift) - The Swift Programming Language
