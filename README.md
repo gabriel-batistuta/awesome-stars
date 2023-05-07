@@ -131,6 +131,7 @@
 
 ## Java 
 
+- [antlr/antlr4](https://github.com/antlr/antlr4) - ANTLR (ANother Tool for Language Recognition) is a powerful parser generator for reading, processing, executing, or translating structured text or binary files.
 - [code4craft/webmagic](https://github.com/code4craft/webmagic) - A scalable web crawler framework for Java.
 - [calvinaquino/LNReader-Android](https://github.com/calvinaquino/LNReader-Android) - Light novel reader for android test project collab
 - [ErdemOzgen/Data-Engineering-Roadmap](https://github.com/ErdemOzgen/Data-Engineering-Roadmap) - Roadmap for Data Engineering
@@ -233,6 +234,7 @@
 
 ## Python 
 
+- [python/cpython](https://github.com/python/cpython) - The Python programming language
 - [gutenbergtools/ebookmaker](https://github.com/gutenbergtools/ebookmaker) - The Project Gutenberg tool to generate EPUBs and other ebook formats.
 - [UlionTse/translators](https://github.com/UlionTse/translators) - 🌏🌍🌎Translators🌎🌍🌏 is a library which aims to bring free, multiple, enjoyable translation to individuals and students in Python.  Translators是一个旨在用Python为个人和学生带来免费、多样、愉快翻译的库。
 - [AnuoF/TranslateTool](https://github.com/AnuoF/TranslateTool) - Translate documents such as word, pdf, and txt from English to Chinese,written with Python.
@@ -307,6 +309,7 @@
 
 ## Rust 
 
+- [pop-os/pop](https://github.com/pop-os/pop) - A project for managing all Pop!_OS sources
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
 
 ## Scala 
@@ -335,6 +338,7 @@
 
 ## TypeScript 
 
+- [pop-os/shell](https://github.com/pop-os/shell) - Pop!_OS Shell
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
 - [formulahendry/vscode-code-runner](https://github.com/formulahendry/vscode-code-runner) - Code Runner for Visual Studio Code
 - [angular/angular-cli](https://github.com/angular/angular-cli) - CLI tool for Angular
