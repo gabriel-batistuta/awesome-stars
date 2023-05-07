@@ -97,6 +97,7 @@
 - [open-source](#open-source)
 - [others](#others)
 - [package-manager](#package-manager)
+- [parsing](#parsing)
 - [penetration-testing](#penetration-testing)
 - [php](#php)
 - [pico-8](#pico-8)
@@ -122,6 +123,7 @@
 - [shell](#shell)
 - [software](#software)
 - [sql](#sql)
+- [swift](#swift)
 - [telegram](#telegram)
 - [terminal](#terminal)
 - [testing](#testing)
@@ -268,12 +270,14 @@
 
 ## cpp 
 
+- [antlr/antlr4](https://github.com/antlr/antlr4) - ANTLR (ANother Tool for Language Recognition) is a powerful parser generator for reading, processing, executing, or translating structured text or binary files.
 - [cemu-project/Cemu](https://github.com/cemu-project/Cemu) - Cemu - Wii U emulator
 - [PCSX2/pcsx2](https://github.com/PCSX2/pcsx2) - PCSX2 - The Playstation 2 Emulator
 - [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
 
 ## csharp 
 
+- [antlr/antlr4](https://github.com/antlr/antlr4) - ANTLR (ANother Tool for Language Recognition) is a powerful parser generator for reading, processing, executing, or translating structured text or binary files.
 - [arthurspk/guiadobackend](https://github.com/arthurspk/guiadobackend) - Nesse guia você encontrará tudo para se torna um desenvolvedor back-end, dessa maneira, encontrará mapas mentais, cursos, trilhas e outras ferramentas para poder praticar o conhecimento adquirido.
 - [arthurspk/guiadevbrasil](https://github.com/arthurspk/guiadevbrasil) - Um guia extenso de informações com um vasto conteúdo de várias áreas para ajudar, agregar conhecimento e retirar dúvidas, nesse guia você encontrará tudo que necessário para qualquer carreira relacion
 
@@ -291,6 +295,7 @@
 
 ## dart 
 
+- [antlr/antlr4](https://github.com/antlr/antlr4) - ANTLR (ANother Tool for Language Recognition) is a powerful parser generator for reading, processing, executing, or translating structured text or binary files.
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
 
 ## data-science 
@@ -470,6 +475,7 @@
 
 ## golang 
 
+- [antlr/antlr4](https://github.com/antlr/antlr4) - ANTLR (ANother Tool for Language Recognition) is a powerful parser generator for reading, processing, executing, or translating structured text or binary files.
 - [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
 - [anaskhan96/soup](https://github.com/anaskhan96/soup) - Web Scraper in Go, similar to BeautifulSoup
 - [golang/go](https://github.com/golang/go) - The Go programming language
@@ -561,6 +567,7 @@
 
 ## java 
 
+- [antlr/antlr4](https://github.com/antlr/antlr4) - ANTLR (ANother Tool for Language Recognition) is a powerful parser generator for reading, processing, executing, or translating structured text or binary files.
 - [code4craft/webmagic](https://github.com/code4craft/webmagic) - A scalable web crawler framework for Java.
 - [apache/nifi](https://github.com/apache/nifi) - Apache NiFi
 - [apache/spark](https://github.com/apache/spark) - Apache Spark - A unified analytics engine for large-scale data processing
@@ -569,6 +576,7 @@
 
 ## javascript 
 
+- [antlr/antlr4](https://github.com/antlr/antlr4) - ANTLR (ANother Tool for Language Recognition) is a powerful parser generator for reading, processing, executing, or translating structured text or binary files.
 - [twbs/bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
 - [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime :sparkles::turtle::rocket::sparkles:
@@ -720,6 +728,9 @@
 
 ## others 
 
+- [pop-os/pop](https://github.com/pop-os/pop) - A project for managing all Pop!_OS sources
+- [pop-os/shell](https://github.com/pop-os/shell) - Pop!_OS Shell
+- [python/cpython](https://github.com/python/cpython) - The Python programming language
 - [gutenbergtools/ebookmaker](https://github.com/gutenbergtools/ebookmaker) - The Project Gutenberg tool to generate EPUBs and other ebook formats.
 - [egonSchiele/grokking_algorithms](https://github.com/egonSchiele/grokking_algorithms) - Code for the book Grokking Algorithms (https://amzn.to/29rVyHf)
 - [AnuoF/TranslateTool](https://github.com/AnuoF/TranslateTool) - Translate documents such as word, pdf, and txt from English to Chinese,written with Python.
@@ -812,12 +823,17 @@
 - [rubygems/rubygems](https://github.com/rubygems/rubygems) - Library packaging and distribution for Ruby.
 - [npm/cli](https://github.com/npm/cli) - the package manager for JavaScript
 
+## parsing 
+
+- [antlr/antlr4](https://github.com/antlr/antlr4) - ANTLR (ANother Tool for Language Recognition) is a powerful parser generator for reading, processing, executing, or translating structured text or binary files.
+
 ## penetration-testing 
 
 - [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers
 
 ## php 
 
+- [antlr/antlr4](https://github.com/antlr/antlr4) - ANTLR (ANother Tool for Language Recognition) is a powerful parser generator for reading, processing, executing, or translating structured text or binary files.
 - [skoro/php-tkui](https://github.com/skoro/php-tkui) - Build native desktop applications with PHP only
 - [arthurspk/guiadobackend](https://github.com/arthurspk/guiadobackend) - Nesse guia você encontrará tudo para se torna um desenvolvedor back-end, dessa maneira, encontrará mapas mentais, cursos, trilhas e outras ferramentas para poder praticar o conhecimento adquirido.
 - [arthurspk/guiadevbrasil](https://github.com/arthurspk/guiadevbrasil) - Um guia extenso de informações com um vasto conteúdo de várias áreas para ajudar, agregar conhecimento e retirar dúvidas, nesse guia você encontrará tudo que necessário para qualquer carreira relacion
@@ -843,6 +859,7 @@
 
 ## python 
 
+- [antlr/antlr4](https://github.com/antlr/antlr4) - ANTLR (ANother Tool for Language Recognition) is a powerful parser generator for reading, processing, executing, or translating structured text or binary files.
 - [vgalin/html2image](https://github.com/vgalin/html2image) - A package acting as a wrapper around the headless mode of existing web browsers to generate images from URLs and from HTML+CSS strings or files.
 - [xhtml2pdf/xhtml2pdf](https://github.com/xhtml2pdf/xhtml2pdf) - A library for converting HTML into PDFs using ReportLab
 - [lorien/grab](https://github.com/lorien/grab) - Web Scraping Framework
@@ -979,6 +996,10 @@
 ## sql 
 
 - [apache/spark](https://github.com/apache/spark) - Apache Spark - A unified analytics engine for large-scale data processing
+
+## swift 
+
+- [antlr/antlr4](https://github.com/antlr/antlr4) - ANTLR (ANother Tool for Language Recognition) is a powerful parser generator for reading, processing, executing, or translating structured text or binary files.
 
 ## telegram 
 
