@@ -728,6 +728,7 @@
 
 ## others 
 
+- [cat-milk/Anime-Girls-Holding-Programming-Books](https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books) - Anime Girls Holding Programming Books
 - [pop-os/pop](https://github.com/pop-os/pop) - A project for managing all Pop!_OS sources
 - [pop-os/shell](https://github.com/pop-os/shell) - Pop!_OS Shell
 - [python/cpython](https://github.com/python/cpython) - The Python programming language
