@@ -135,6 +135,7 @@
 - [web](#web)
 - [website](#website)
 - [windows](#windows)
+- [xml](#xml)
 
 ## ai 
 
@@ -189,6 +190,7 @@
 
 ## awesome 
 
+- [soruly/awesome-acg](https://github.com/soruly/awesome-acg) - A curated list of awesome technologies related to Anime, Comic and Games
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [ErdemOzgen/Data-Engineering-Roadmap](https://github.com/ErdemOzgen/Data-Engineering-Roadmap) - Roadmap for Data Engineering
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
@@ -198,6 +200,7 @@
 
 ## awesome-list 
 
+- [soruly/awesome-acg](https://github.com/soruly/awesome-acg) - A curated list of awesome technologies related to Anime, Comic and Games
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [ErdemOzgen/Data-Engineering-Roadmap](https://github.com/ErdemOzgen/Data-Engineering-Roadmap) - Roadmap for Data Engineering
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
@@ -246,6 +249,7 @@
 
 ## chrome-extension 
 
+- [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
 - [SteamDatabase/BrowserExtension](https://github.com/SteamDatabase/BrowserExtension) - 💻 SteamDB's extension for Steam websites
 
 ## cli 
@@ -452,6 +456,7 @@
 
 ## github 
 
+- [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
 - [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) - 🚀 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI.
 - [arthurspk/guiadobackend](https://github.com/arthurspk/guiadobackend) - Nesse guia você encontrará tudo para se torna um desenvolvedor back-end, dessa maneira, encontrará mapas mentais, cursos, trilhas e outras ferramentas para poder praticar o conhecimento adquirido.
 - [rafaballerini/rafaballerini](https://github.com/rafaballerini/rafaballerini) - 
@@ -500,6 +505,7 @@
 
 ## hacktoberfest 
 
+- [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim) - 🌙 LunarVim is an IDE layer for Neovim. Completely free and community driven.
 - [2pai-dev/animoji](https://github.com/2pai-dev/animoji) - Describe your favorite anime with emoji ✨
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
 - [godotengine/godot-docs](https://github.com/godotengine/godot-docs) - Godot Engine official documentation
@@ -652,6 +658,7 @@
 
 ## lua 
 
+- [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim) - 🌙 LunarVim is an IDE layer for Neovim. Completely free and community driven.
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 
 ## machine-learning 
@@ -687,6 +694,7 @@
 
 ## neovim 
 
+- [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim) - 🌙 LunarVim is an IDE layer for Neovim. Completely free and community driven.
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
 - [marcosfnsc/setups](https://github.com/marcosfnsc/setups) - my dotfiles and other configs
@@ -953,6 +961,7 @@
 
 ## ruby 
 
+- [sparklemotion/nokogiri](https://github.com/sparklemotion/nokogiri) - Nokogiri (鋸) makes it easy and painless to work with XML and HTML from Ruby.
 - [rbenv/rbenv](https://github.com/rbenv/rbenv) - Manage your app's Ruby environment
 - [rubygems/rubygems](https://github.com/rubygems/rubygems) - Library packaging and distribution for Ruby.
 - [rails/rails](https://github.com/rails/rails) - Ruby on Rails
@@ -1035,6 +1044,7 @@
 
 ## vim 
 
+- [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim) - 🌙 LunarVim is an IDE layer for Neovim. Completely free and community driven.
 - [vim/vim](https://github.com/vim/vim) - The official Vim repository
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
@@ -1066,6 +1076,10 @@
 - [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime :sparkles::turtle::rocket::sparkles:
 - [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “Keepass Password Safe”.
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
+
+## xml 
+
+- [sparklemotion/nokogiri](https://github.com/sparklemotion/nokogiri) - Nokogiri (鋸) makes it easy and painless to work with XML and HTML from Ruby.
 
 
 ## License
