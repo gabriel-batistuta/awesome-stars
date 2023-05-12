@@ -59,6 +59,7 @@
 
 ## C 
 
+- [Plankiton/CParaSeresHumanos](https://github.com/Plankiton/CParaSeresHumanos) - Livro para iniciantes na linguagem C
 - [sparklemotion/nokogiri](https://github.com/sparklemotion/nokogiri) - Nokogiri (鋸) makes it easy and painless to work with XML and HTML from Ruby.
 - [pygame/pygame](https://github.com/pygame/pygame) - 🐍🎮 pygame (the library) is a Free and Open Source python programming language library for making multimedia applications like games built on top of the excellent SDL library. C, Python, Native, OpenGL
 - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
@@ -134,6 +135,7 @@
 
 ## Java 
 
+- [iBotPeaches/Apktool](https://github.com/iBotPeaches/Apktool) - A tool for reverse engineering Android apk files
 - [antlr/antlr4](https://github.com/antlr/antlr4) - ANTLR (ANother Tool for Language Recognition) is a powerful parser generator for reading, processing, executing, or translating structured text or binary files.
 - [code4craft/webmagic](https://github.com/code4craft/webmagic) - A scalable web crawler framework for Java.
 - [calvinaquino/LNReader-Android](https://github.com/calvinaquino/LNReader-Android) - Light novel reader for android test project collab
@@ -147,6 +149,7 @@
 
 ## JavaScript 
 
+- [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) - A list of semi to fully remote-friendly companies (jobs) in tech.
 - [egonSchiele/grokking_algorithms](https://github.com/egonSchiele/grokking_algorithms) - Code for the book Grokking Algorithms (https://amzn.to/29rVyHf)
 - [twbs/bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
@@ -202,6 +205,8 @@
 
 ## Others 
 
+- [brexhq/prompt-engineering](https://github.com/brexhq/prompt-engineering) - Tips and tricks for working with Large Language Models like OpenAI's GPT-4.
+- [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
 - [soruly/awesome-acg](https://github.com/soruly/awesome-acg) - A curated list of awesome technologies related to Anime, Comic and Games
 - [cat-milk/Anime-Girls-Holding-Programming-Books](https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books) - Anime Girls Holding Programming Books
 - [igorbarinov/awesome-data-engineering](https://github.com/igorbarinov/awesome-data-engineering) - A curated list of data engineering tools for software developers
