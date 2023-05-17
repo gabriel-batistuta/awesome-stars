@@ -245,6 +245,8 @@
 
 ## Python 
 
+- [pallets/flask](https://github.com/pallets/flask) - The Python micro framework for building web applications.
+- [django/django](https://github.com/django/django) - The Web framework for perfectionists with deadlines.
 - [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) - A curated list of awesome Machine Learning frameworks, libraries and software.
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A youtube-dl fork with additional features and fixes
 - [yasoob/torrents-crawler](https://github.com/yasoob/torrents-crawler) - This is a scrapy project in which I have implemented several crawlers for different torrent and direct link websites.
@@ -352,6 +354,7 @@
 
 ## TypeScript 
 
+- [loiane/curso-angular](https://github.com/loiane/curso-angular) - :mortar_board: [PT-BR] Curso de Angular gratuito - loiane.training [EN] Source code of my free Angular training.
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
 - [pop-os/shell](https://github.com/pop-os/shell) - Pop!_OS Shell
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
