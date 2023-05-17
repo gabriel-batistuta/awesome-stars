@@ -172,6 +172,7 @@
 
 ## angular 
 
+- [loiane/curso-angular](https://github.com/loiane/curso-angular) - :mortar_board: [PT-BR] Curso de Angular gratuito - loiane.training [EN] Source code of my free Angular training.
 - [angular/angular-cli](https://github.com/angular/angular-cli) - CLI tool for Angular
 - [720kb/angular-datepicker](https://github.com/720kb/angular-datepicker) - Angularjs datepicker module, generate a datepicker on your input element -  https://720kb.github.io/angular-datepicker
 - [angular/angular](https://github.com/angular/angular) - The modern web developer’s platform
@@ -354,6 +355,7 @@
 
 ## django 
 
+- [django/django](https://github.com/django/django) - The Web framework for perfectionists with deadlines.
 - [grupyrn/jararaca](https://github.com/grupyrn/jararaca) - GruPy-RN Event and Check-in System
 
 ## documentation 
@@ -416,6 +418,7 @@
 
 ## flask 
 
+- [pallets/flask](https://github.com/pallets/flask) - The Python micro framework for building web applications.
 - [plotly/dash](https://github.com/plotly/dash) - Data Apps & Dashboards for Python. No JavaScript Required.
 
 ## flutter 
@@ -428,6 +431,7 @@
 
 ## framework 
 
+- [django/django](https://github.com/django/django) - The Web framework for perfectionists with deadlines.
 - [gocolly/colly](https://github.com/gocolly/colly) - Elegant Scraper and Crawler Framework for Golang
 - [code4craft/webmagic](https://github.com/code4craft/webmagic) - A scalable web crawler framework for Java.
 - [lorien/grab](https://github.com/lorien/grab) - Web Scraping Framework
@@ -918,6 +922,8 @@
 
 ## python 
 
+- [pallets/flask](https://github.com/pallets/flask) - The Python micro framework for building web applications.
+- [django/django](https://github.com/django/django) - The Web framework for perfectionists with deadlines.
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A youtube-dl fork with additional features and fixes
 - [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
 - [openai/openai-python](https://github.com/openai/openai-python) - The OpenAI Python library provides convenient access to the OpenAI API from applications written in the Python language.
@@ -1117,6 +1123,7 @@
 
 ## web 
 
+- [django/django](https://github.com/django/django) - The Web framework for perfectionists with deadlines.
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
 - [flet-dev/flet](https://github.com/flet-dev/flet) - Flet enables developers to easily build realtime web, mobile and desktop apps in Python. No frontend experience required.
 - [Xonshiz/anime-dl](https://github.com/Xonshiz/anime-dl) - Anime-dl is a command-line program to download anime from CrunchyRoll and Funimation.
