@@ -780,6 +780,7 @@
 
 ## others 
 
+- [Flutterando/roadmap](https://github.com/Flutterando/roadmap) - Flutter roadmap pt-BR
 - [WebAssembly/wabt](https://github.com/WebAssembly/wabt) - The WebAssembly Binary Toolkit
 - [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) - A curated list of awesome Machine Learning frameworks, libraries and software.
 - [asdf-vm/asdf-erlang](https://github.com/asdf-vm/asdf-erlang) - Erlang plugin for asdf version manager
