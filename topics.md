@@ -42,7 +42,6 @@
 - [education](#education)
 - [electron](#electron)
 - [elixir](#elixir)
-- [emoji](#emoji)
 - [emulator](#emulator)
 - [es6](#es6)
 - [eslint](#eslint)
@@ -380,10 +379,6 @@
 
 - [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
 
-## emoji 
-
-- [iuricode/padroes-de-commits](https://github.com/iuricode/padroes-de-commits) - 📄 Padrão de commits para repositórios.
-
 ## emulator 
 
 - [enieber/open-avd](https://github.com/enieber/open-avd) - cli to open emulator without open android studio
@@ -473,7 +468,7 @@
 
 - [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
 - [arthurspk/guiadobackend](https://github.com/arthurspk/guiadobackend) - Nesse guia você encontrará tudo para se torna um desenvolvedor back-end, dessa maneira, encontrará mapas mentais, cursos, trilhas e outras ferramentas para poder praticar o conhecimento adquirido.
-- [iuricode/padroes-de-commits](https://github.com/iuricode/padroes-de-commits) - 📄 Padrão de commits para repositórios.
+- [iuricode/padroes-de-commits](https://github.com/iuricode/padroes-de-commits) - Padrões de commits
 - [arthurspk/guiadevbrasil](https://github.com/arthurspk/guiadevbrasil) - Um guia extenso de informações com um vasto conteúdo de várias áreas para ajudar, agregar conhecimento e retirar dúvidas, nesse guia você encontrará tudo que necessário para qualquer carreira relacion
 
 ## github 
@@ -780,6 +775,7 @@
 
 ## others 
 
+- [schodet/nxt-python](https://github.com/schodet/nxt-python) - NXT-Python is a python driver/interface for the Lego Mindstorms NXT robot based on NXT_python.
 - [Flutterando/roadmap](https://github.com/Flutterando/roadmap) - Flutter roadmap pt-BR
 - [WebAssembly/wabt](https://github.com/WebAssembly/wabt) - The WebAssembly Binary Toolkit
 - [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) - A curated list of awesome Machine Learning frameworks, libraries and software.
@@ -867,8 +863,8 @@
 - [cursoemvideo/cursoemvideo-python](https://github.com/cursoemvideo/cursoemvideo-python) - Curso de Python do CursoemVideo
 - [chromium/chromium](https://github.com/chromium/chromium) - The official GitHub mirror of the Chromium source
 - [apsantos-dev/modelo-de-contrato](https://github.com/apsantos-dev/modelo-de-contrato) - Modelo de contrato de prestação de serviços [ Desenvolvedor Freelancer ].
-- [iuricode/readme-template](https://github.com/iuricode/readme-template) - 📜 Modelos readme para qualquer pessoa copiar e usar em seu GitHub.
-- [iuricode/recursos-gratuitos](https://github.com/iuricode/recursos-gratuitos) - 🌈 Uma coleção com links de recursos gratuitos para desenvolvimentos e estudos.
+- [iuricode/readme-template](https://github.com/iuricode/readme-template) - Modelos readmes
+- [iuricode/recursos-gratuitos](https://github.com/iuricode/recursos-gratuitos) - Coleção com links para desenvolvimentos e estudos
 - [jsitor/jsitor](https://github.com/jsitor/jsitor) - Online JS, CSS and HTML editor
 - [microsoft/vscode-docs](https://github.com/microsoft/vscode-docs) - Public documentation for Visual Studio Code
 - [TeamVanced/VancedManager](https://github.com/TeamVanced/VancedManager) - Vanced Installer
