@@ -91,6 +91,7 @@
 - [maven](#maven)
 - [mobile](#mobile)
 - [music](#music)
+- [mysql](#mysql)
 - [neovim](#neovim)
 - [nextjs](#nextjs)
 - [nlp](#nlp)
@@ -104,6 +105,7 @@
 - [penetration-testing](#penetration-testing)
 - [php](#php)
 - [pico-8](#pico-8)
+- [postgresql](#postgresql)
 - [powershell](#powershell)
 - [programming](#programming)
 - [project-management](#project-management)
@@ -331,6 +333,8 @@
 
 ## database 
 
+- [mkleehammer/pyodbc](https://github.com/mkleehammer/pyodbc) - Python ODBC bridge
+- [psycopg/psycopg2](https://github.com/psycopg/psycopg2) - PostgreSQL database adapter for the Python programming language
 - [ErdemOzgen/Data-Engineering-Roadmap](https://github.com/ErdemOzgen/Data-Engineering-Roadmap) - Roadmap for Data Engineering
 
 ## deep-learning 
@@ -730,6 +734,10 @@
 
 - [microsoft/muzic](https://github.com/microsoft/muzic) - Muzic: Music Understanding and Generation with Artificial Intelligence
 
+## mysql 
+
+- [PyMySQL/PyMySQL](https://github.com/PyMySQL/PyMySQL) - MySQL client library for Python
+
 ## neovim 
 
 - [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim) - 🌙 LunarVim is an IDE layer for Neovim. Completely free and community driven.
@@ -899,6 +907,10 @@
 - [helpcomputer/nydd](https://github.com/helpcomputer/nydd) - A dark mini-platform/RPG/adventure game using Pyxel engine.
 - [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
 
+## postgresql 
+
+- [psycopg/psycopg2](https://github.com/psycopg/psycopg2) - PostgreSQL database adapter for the Python programming language
+
 ## powershell 
 
 - [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
@@ -919,6 +931,10 @@
 
 ## python 
 
+- [mkleehammer/pyodbc](https://github.com/mkleehammer/pyodbc) - Python ODBC bridge
+- [PyMySQL/PyMySQL](https://github.com/PyMySQL/PyMySQL) - MySQL client library for Python
+- [kennethreitz/records](https://github.com/kennethreitz/records) - SQL for Humans™
+- [psycopg/psycopg2](https://github.com/psycopg/psycopg2) - PostgreSQL database adapter for the Python programming language
 - [pallets/flask](https://github.com/pallets/flask) - The Python micro framework for building web applications.
 - [django/django](https://github.com/django/django) - The Web framework for perfectionists with deadlines.
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A youtube-dl fork with additional features and fixes
@@ -1065,6 +1081,7 @@
 
 ## sql 
 
+- [kennethreitz/records](https://github.com/kennethreitz/records) - SQL for Humans™
 - [apache/spark](https://github.com/apache/spark) - Apache Spark - A unified analytics engine for large-scale data processing
 
 ## swift 
