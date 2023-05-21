@@ -7,7 +7,6 @@
 
 - [ASL](#asl)
 - [Assembly](#assembly)
-- [Astro](#astro)
 - [Batchfile](#batchfile)
 - [C](#c)
 - [C#](#c#)
@@ -46,10 +45,6 @@
 
 - [FrancisBFTC/KiddieOS_Development](https://github.com/FrancisBFTC/KiddieOS_Development) - O KiddieOS é um sistema operacional open-source básico em desenvolvimento pelo curso gratuito D.S.O.S [Desenvolvendo Sistemas Operacionais Simples]. A intenção deste sistema será: Criar, editar ou exc
 - [chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11) - Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.
-
-## Astro 
-
-- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 
 ## Batchfile 
 
@@ -150,6 +145,8 @@
 
 ## JavaScript 
 
+- [dreampuf/GraphvizOnline](https://github.com/dreampuf/GraphvizOnline) - Let's Graphviz it online
+- [AdguardTeam/AdguardBrowserExtension](https://github.com/AdguardTeam/AdguardBrowserExtension) - AdGuard browser extension
 - [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) - A list of semi to fully remote-friendly companies (jobs) in tech.
 - [egonSchiele/grokking_algorithms](https://github.com/egonSchiele/grokking_algorithms) - Code for the book Grokking Algorithms (https://amzn.to/29rVyHf)
 - [twbs/bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
@@ -252,6 +249,8 @@
 
 ## Python 
 
+- [mapio/GraphvizAnim](https://github.com/mapio/GraphvizAnim) - A tool to create animated graph visualizations, based on graphviz.
+- [xflr6/graphviz](https://github.com/xflr6/graphviz) - Simple Python interface for Graphviz
 - [mkleehammer/pyodbc](https://github.com/mkleehammer/pyodbc) - Python ODBC bridge
 - [PyMySQL/PyMySQL](https://github.com/PyMySQL/PyMySQL) - MySQL client library for Python
 - [kennethreitz/records](https://github.com/kennethreitz/records) - SQL for Humans™
@@ -376,6 +375,7 @@
 - [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 - [firebase/firebase-js-sdk](https://github.com/firebase/firebase-js-sdk) - Firebase Javascript SDK
 - [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab) - JupyterLab computational environment.
+- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [loiane/javascript-datastructures-algorithms](https://github.com/loiane/javascript-datastructures-algorithms) - :books: collection of JavaScript and TypeScript data structures and algorithms for education purposes. Source code bundle of JavaScript algorithms and data structures book
 - [angular/angular](https://github.com/angular/angular) - The modern web developer’s platform
 - [jacksongomesbr/angular-escola](https://github.com/jacksongomesbr/angular-escola) - 
