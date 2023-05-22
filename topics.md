@@ -10,6 +10,7 @@
 - [android](#android)
 - [angular](#angular)
 - [api](#api)
+- [arduino](#arduino)
 - [artificial-intelligence](#artificial-intelligence)
 - [automation](#automation)
 - [awesome](#awesome)
@@ -90,6 +91,7 @@
 - [material-design](#material-design)
 - [maven](#maven)
 - [mobile](#mobile)
+- [mongodb](#mongodb)
 - [music](#music)
 - [mysql](#mysql)
 - [neovim](#neovim)
@@ -97,6 +99,7 @@
 - [nlp](#nlp)
 - [node](#node)
 - [nodejs](#nodejs)
+- [nosql](#nosql)
 - [npm](#npm)
 - [open-source](#open-source)
 - [others](#others)
@@ -187,6 +190,10 @@
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [arthurspk/guiadobackend](https://github.com/arthurspk/guiadobackend) - Nesse guia você encontrará tudo para se torna um desenvolvedor back-end, dessa maneira, encontrará mapas mentais, cursos, trilhas e outras ferramentas para poder praticar o conhecimento adquirido.
 
+## arduino 
+
+- [samdenty/Wi-PWN](https://github.com/samdenty/Wi-PWN) - ESP8266 firmware for performing deauthentication attacks, with ease.
+
 ## artificial-intelligence 
 
 - [microsoft/recommenders](https://github.com/microsoft/recommenders) - Best Practices on Recommendation Systems
@@ -266,6 +273,7 @@
 
 ## cli 
 
+- [sdaqo/anipy-cli](https://github.com/sdaqo/anipy-cli) - Little tool in python to watch and download anime from the terminal  (the better way to watch anime). Also applicable as an API
 - [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
 - [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
 - [tqdm/tqdm](https://github.com/tqdm/tqdm) - A Fast, Extensible Progress Bar for Python and CLI
@@ -334,6 +342,7 @@
 
 ## database 
 
+- [sqlmapproject/sqlmap](https://github.com/sqlmapproject/sqlmap) - Automatic SQL injection and database takeover tool
 - [mkleehammer/pyodbc](https://github.com/mkleehammer/pyodbc) - Python ODBC bridge
 - [psycopg/psycopg2](https://github.com/psycopg/psycopg2) - PostgreSQL database adapter for the Python programming language
 - [ErdemOzgen/Data-Engineering-Roadmap](https://github.com/ErdemOzgen/Data-Engineering-Roadmap) - Roadmap for Data Engineering
@@ -529,12 +538,14 @@
 
 ## hacking 
 
+- [codingo/NoSQLMap](https://github.com/codingo/NoSQLMap) - Automated NoSQL database enumeration and web application exploitation tool.
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 - [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) - ALL IN ONE Hacking Tool For Hackers
 - [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers
 
 ## hacktoberfest 
 
+- [codingo/NoSQLMap](https://github.com/codingo/NoSQLMap) - Automated NoSQL database enumeration and web application exploitation tool.
 - [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) - A list of semi to fully remote-friendly companies (jobs) in tech.
 - [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim) - 🌙 LunarVim is an IDE layer for Neovim. Completely free and community driven.
 - [2pai-dev/animoji](https://github.com/2pai-dev/animoji) - Describe your favorite anime with emoji ✨
@@ -722,6 +733,7 @@
 
 ## material-design 
 
+- [samdenty/Wi-PWN](https://github.com/samdenty/Wi-PWN) - ESP8266 firmware for performing deauthentication attacks, with ease.
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
 
 ## maven 
@@ -732,6 +744,10 @@
 
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
 - [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native applications using React
+
+## mongodb 
+
+- [codingo/NoSQLMap](https://github.com/codingo/NoSQLMap) - Automated NoSQL database enumeration and web application exploitation tool.
 
 ## music 
 
@@ -771,6 +787,10 @@
 - [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (May 2023)
 - [npm/cli](https://github.com/npm/cli) - the package manager for JavaScript
 
+## nosql 
+
+- [codingo/NoSQLMap](https://github.com/codingo/NoSQLMap) - Automated NoSQL database enumeration and web application exploitation tool.
+
 ## npm 
 
 - [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (May 2023)
@@ -787,6 +807,11 @@
 
 ## others 
 
+- [dbisu/pico-ducky](https://github.com/dbisu/pico-ducky) - Create a USB Rubber Ducky like device using a Raspberry PI Pico
+- [flipperdevices/flipperzero-firmware](https://github.com/flipperdevices/flipperzero-firmware) - Flipper Zero firmware source code
+- [hak5/usbrubberducky-payloads](https://github.com/hak5/usbrubberducky-payloads) - The Official USB Rubber Ducky Payload Repository
+- [penegui/Get-Chrome80Dump](https://github.com/penegui/Get-Chrome80Dump) - Demonstração de um Rubber Duck que captura algumas informações do navegador.
+- [TNTwise/Rife-ESRGAN-App-Linux](https://github.com/TNTwise/Rife-ESRGAN-App-Linux) - A simple GUI for Rife Vulkan on Linux.
 - [mapio/GraphvizAnim](https://github.com/mapio/GraphvizAnim) - A tool to create animated graph visualizations, based on graphviz.
 - [dreampuf/GraphvizOnline](https://github.com/dreampuf/GraphvizOnline) - Let's Graphviz it online
 - [xflr6/graphviz](https://github.com/xflr6/graphviz) - Simple Python interface for Graphviz
@@ -900,6 +925,7 @@
 
 ## penetration-testing 
 
+- [codingo/NoSQLMap](https://github.com/codingo/NoSQLMap) - Automated NoSQL database enumeration and web application exploitation tool.
 - [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers
 
 ## php 
@@ -938,6 +964,8 @@
 
 ## python 
 
+- [sdaqo/anipy-cli](https://github.com/sdaqo/anipy-cli) - Little tool in python to watch and download anime from the terminal  (the better way to watch anime). Also applicable as an API
+- [sqlmapproject/sqlmap](https://github.com/sqlmapproject/sqlmap) - Automatic SQL injection and database takeover tool
 - [mkleehammer/pyodbc](https://github.com/mkleehammer/pyodbc) - Python ODBC bridge
 - [PyMySQL/PyMySQL](https://github.com/PyMySQL/PyMySQL) - MySQL client library for Python
 - [kennethreitz/records](https://github.com/kennethreitz/records) - SQL for Humans™
@@ -988,6 +1016,7 @@
 
 ## python3 
 
+- [sdaqo/anipy-cli](https://github.com/sdaqo/anipy-cli) - Little tool in python to watch and download anime from the terminal  (the better way to watch anime). Also applicable as an API
 - [vgalin/html2image](https://github.com/vgalin/html2image) - A package acting as a wrapper around the headless mode of existing web browsers to generate images from URLs and from HTML+CSS strings or files.
 - [lorien/grab](https://github.com/lorien/grab) - Web Scraping Framework
 - [archlinux/archinstall](https://github.com/archlinux/archinstall) - Arch Linux installer - guided, templates etc.
