@@ -276,6 +276,7 @@
 - [UlionTse/translators](https://github.com/UlionTse/translators) - 🌏🌍🌎Translators🌎🌍🌏 is a library which aims to bring free, multiple, enjoyable translation to individuals and students in Python.  Translators是一个旨在用Python为个人和学生带来免费、多样、愉快翻译的库。
 - [AnuoF/TranslateTool](https://github.com/AnuoF/TranslateTool) - Translate documents such as word, pdf, and txt from English to Chinese,written with Python.
 - [vgalin/html2image](https://github.com/vgalin/html2image) - A package acting as a wrapper around the headless mode of existing web browsers to generate images from URLs and from HTML+CSS strings or files.
+- [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [xhtml2pdf/xhtml2pdf](https://github.com/xhtml2pdf/xhtml2pdf) - A library for converting HTML into PDFs using ReportLab
 - [akapne01/translator](https://github.com/akapne01/translator) - 
 - [JazzCore/python-pdfkit](https://github.com/JazzCore/python-pdfkit) - Wkhtmltopdf python wrapper to convert html to pdf
@@ -359,6 +360,7 @@
 
 ## Shell 
 
+- [soruly/trace.moe](https://github.com/soruly/trace.moe) - Anime Scene Search by Image
 - [enieber/open-avd](https://github.com/enieber/open-avd) - cli to open emulator without open android studio
 - [asdf-vm/asdf-erlang](https://github.com/asdf-vm/asdf-erlang) - Erlang plugin for asdf version manager
 - [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
