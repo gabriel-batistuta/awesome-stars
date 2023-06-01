@@ -150,6 +150,7 @@
 
 ## ai 
 
+- [s0md3v/roop](https://github.com/s0md3v/roop) - one-click deepfake (face swap)
 - [google-research/google-research](https://github.com/google-research/google-research) - Google Research
 
 ## algorithm 
@@ -834,6 +835,7 @@
 
 ## others 
 
+- [EniasCailliau/GirlfriendGPT](https://github.com/EniasCailliau/GirlfriendGPT) - Girlfriend GPT is a Python project to build your own AI girlfriend using ChatGPT4.0
 - [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
 - [dbisu/pico-ducky](https://github.com/dbisu/pico-ducky) - Create a USB Rubber Ducky like device using a Raspberry PI Pico
 - [flipperdevices/flipperzero-firmware](https://github.com/flipperdevices/flipperzero-firmware) - Flipper Zero firmware source code
@@ -949,6 +951,7 @@
 
 ## parsing 
 
+- [jstockwin/py-pdf-parser](https://github.com/jstockwin/py-pdf-parser) - A Python tool to help extracting information from structured PDFs.
 - [antlr/antlr4](https://github.com/antlr/antlr4) - ANTLR (ANother Tool for Language Recognition) is a powerful parser generator for reading, processing, executing, or translating structured text or binary files.
 
 ## penetration-testing 
@@ -993,6 +996,7 @@
 
 ## python 
 
+- [pdfminer/pdfminer.six](https://github.com/pdfminer/pdfminer.six) - Community maintained fork of pdfminer - we fathom PDF
 - [Pycord-Development/pycord](https://github.com/Pycord-Development/pycord) - Pycord, a maintained fork of discord.py, is a python wrapper for the Discord API
 - [3ddelano/gogoanime-batch-downloader](https://github.com/3ddelano/gogoanime-batch-downloader) - A python program to download anime episode in any quality from Gogoanime.
 - [Nachtalb/reverse_image_search_bot](https://github.com/Nachtalb/reverse_image_search_bot) - Image Reverse Search Bot🕵️‍♂️🔍: A handy Telegram bot for reverse image searches on images, videos, and GIFs, supporting multiple search engines. Unleash the power of reverse searching! 🚀🤖
