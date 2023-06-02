@@ -144,6 +144,7 @@
 - [visual-studio-code](#visual-studio-code)
 - [vuejs](#vuejs)
 - [web](#web)
+- [webpack](#webpack)
 - [website](#website)
 - [windows](#windows)
 - [xml](#xml)
@@ -301,6 +302,7 @@
 
 ## coding 
 
+- [qrac/minista](https://github.com/qrac/minista) - Static site generator with 100% static export from React and Vite.
 - [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas) - A Collection of application ideas which can be used to improve your coding skills.
 
 ## compiler 
@@ -835,6 +837,7 @@
 
 ## others 
 
+- [hikaruAi/FacebookBot](https://github.com/hikaruAi/FacebookBot) - A facebook bot to scrap, post, spam and more without the facebook API
 - [EniasCailliau/GirlfriendGPT](https://github.com/EniasCailliau/GirlfriendGPT) - Girlfriend GPT is a Python project to build your own AI girlfriend using ChatGPT4.0
 - [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
 - [dbisu/pico-ducky](https://github.com/dbisu/pico-ducky) - Create a USB Rubber Ducky like device using a Raspberry PI Pico
@@ -996,6 +999,7 @@
 
 ## python 
 
+- [python/pyperformance](https://github.com/python/pyperformance) - Python Performance Benchmark Suite
 - [pdfminer/pdfminer.six](https://github.com/pdfminer/pdfminer.six) - Community maintained fork of pdfminer - we fathom PDF
 - [Pycord-Development/pycord](https://github.com/Pycord-Development/pycord) - Pycord, a maintained fork of discord.py, is a python wrapper for the Discord API
 - [3ddelano/gogoanime-batch-downloader](https://github.com/3ddelano/gogoanime-batch-downloader) - A python program to download anime episode in any quality from Gogoanime.
@@ -1080,6 +1084,7 @@
 
 ## react 
 
+- [qrac/minista](https://github.com/qrac/minista) - Static site generator with 100% static export from React and Vite.
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
 - [plotly/dash](https://github.com/plotly/dash) - Data Apps & Dashboards for Python. No JavaScript Required.
@@ -1190,6 +1195,7 @@
 
 ## typescript 
 
+- [qrac/minista](https://github.com/qrac/minista) - Static site generator with 100% static export from React and Vite.
 - [formulahendry/vscode-code-runner](https://github.com/formulahendry/vscode-code-runner) - Code Runner for Visual Studio Code
 - [angular/angular-cli](https://github.com/angular/angular-cli) - CLI tool for Angular
 - [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
@@ -1222,6 +1228,10 @@
 - [Xonshiz/anime-dl](https://github.com/Xonshiz/anime-dl) - Anime-dl is a command-line program to download anime from CrunchyRoll and Funimation.
 - [angular/angular](https://github.com/angular/angular) - The modern web developer’s platform
 - [google/WebFundamentals](https://github.com/google/WebFundamentals) - Former git repo for WebFundamentals on developers.google.com
+
+## webpack 
+
+- [qrac/minista](https://github.com/qrac/minista) - Static site generator with 100% static export from React and Vite.
 
 ## website 
 
