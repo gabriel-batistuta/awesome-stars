@@ -256,6 +256,8 @@
 
 ## Python 
 
+- [hikaruAi/FacebookBot](https://github.com/hikaruAi/FacebookBot) - A facebook bot to scrap, post, spam and more without the facebook API
+- [python/pyperformance](https://github.com/python/pyperformance) - Python Performance Benchmark Suite
 - [EniasCailliau/GirlfriendGPT](https://github.com/EniasCailliau/GirlfriendGPT) - Girlfriend GPT is a Python project to build your own AI girlfriend using ChatGPT4.0
 - [pdfminer/pdfminer.six](https://github.com/pdfminer/pdfminer.six) - Community maintained fork of pdfminer - we fathom PDF
 - [jstockwin/py-pdf-parser](https://github.com/jstockwin/py-pdf-parser) - A Python tool to help extracting information from structured PDFs.
@@ -387,6 +389,7 @@
 
 ## TypeScript 
 
+- [qrac/minista](https://github.com/qrac/minista) - Static site generator with 100% static export from React and Vite.
 - [loiane/curso-angular](https://github.com/loiane/curso-angular) - :mortar_board: [PT-BR] Curso de Angular gratuito - loiane.training [EN] Source code of my free Angular training.
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
 - [pop-os/shell](https://github.com/pop-os/shell) - Pop!_OS Shell
