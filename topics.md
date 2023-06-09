@@ -21,6 +21,7 @@
 - [bootstrap](#bootstrap)
 - [bot](#bot)
 - [c](#c)
+- [chatgpt](#chatgpt)
 - [chrome](#chrome)
 - [chrome-extension](#chrome-extension)
 - [cli](#cli)
@@ -273,6 +274,10 @@
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 - [arthurspk/guiadobackend](https://github.com/arthurspk/guiadobackend) - Nesse guia você encontrará tudo para se torna um desenvolvedor back-end, dessa maneira, encontrará mapas mentais, cursos, trilhas e outras ferramentas para poder praticar o conhecimento adquirido.
 - [arthurspk/guiadevbrasil](https://github.com/arthurspk/guiadevbrasil) - Um guia extenso de informações com um vasto conteúdo de várias áreas para ajudar, agregar conhecimento e retirar dúvidas, nesse guia você encontrará tudo que necessário para qualquer carreira relacion
+
+## chatgpt 
+
+- [openai/chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin) - The ChatGPT Retrieval Plugin lets you easily find personal or work documents by asking questions in natural language.
 
 ## chrome 
 
@@ -837,6 +842,12 @@
 
 ## others 
 
+- [openai/generating-reviews-discovering-sentiment](https://github.com/openai/generating-reviews-discovering-sentiment) - Code for "Learning to Generate Reviews and Discovering Sentiment"
+- [openai/pixel-cnn](https://github.com/openai/pixel-cnn) - Code for the paper "PixelCNN++: A PixelCNN Implementation with Discretized Logistic Mixture Likelihood and Other Modifications"
+- [openai/finetune-transformer-lm](https://github.com/openai/finetune-transformer-lm) - Code and model for the paper "Improving Language Understanding by Generative Pre-Training"
+- [openai/maddpg](https://github.com/openai/maddpg) - Code for the MADDPG algorithm from the paper "Multi-Agent Actor-Critic for Mixed Cooperative-Competitive Environments"
+- [openai/gpt-2](https://github.com/openai/gpt-2) - Code for the paper "Language Models are Unsupervised Multitask Learners"
+- [ValveSoftware/Proton](https://github.com/ValveSoftware/Proton) - Compatibility tool for Steam Play based on Wine and additional components
 - [romhackersbr/romhackersbr.github.io](https://github.com/romhackersbr/romhackersbr.github.io) - Site do PO.BR.E - Portal Brasileiro de ROMHacking e Emulação
 - [romhackersbr/romhackersbr-db](https://github.com/romhackersbr/romhackersbr-db) - Banco de Dados do PO.B.R.E
 - [hansenhahn/mmbn-2](https://github.com/hansenhahn/mmbn-2) - Projeto de tradução do jogo MegaMan Battle Network 2, para GBA
