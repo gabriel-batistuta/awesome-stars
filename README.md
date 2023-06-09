@@ -77,6 +77,7 @@
 
 ## C++ 
 
+- [ValveSoftware/Proton](https://github.com/ValveSoftware/Proton) - Compatibility tool for Steam Play based on Wine and additional components
 - [WebAssembly/wabt](https://github.com/WebAssembly/wabt) - The WebAssembly Binary Toolkit
 - [cemu-project/Cemu](https://github.com/cemu-project/Cemu) - Cemu - Wii U emulator
 - [apple/swift](https://github.com/apple/swift) - The Swift Programming Language
@@ -260,6 +261,12 @@
 
 ## Python 
 
+- [openai/generating-reviews-discovering-sentiment](https://github.com/openai/generating-reviews-discovering-sentiment) - Code for "Learning to Generate Reviews and Discovering Sentiment"
+- [openai/pixel-cnn](https://github.com/openai/pixel-cnn) - Code for the paper "PixelCNN++: A PixelCNN Implementation with Discretized Logistic Mixture Likelihood and Other Modifications"
+- [openai/finetune-transformer-lm](https://github.com/openai/finetune-transformer-lm) - Code and model for the paper "Improving Language Understanding by Generative Pre-Training"
+- [openai/maddpg](https://github.com/openai/maddpg) - Code for the MADDPG algorithm from the paper "Multi-Agent Actor-Critic for Mixed Cooperative-Competitive Environments"
+- [openai/chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin) - The ChatGPT Retrieval Plugin lets you easily find personal or work documents by asking questions in natural language.
+- [openai/gpt-2](https://github.com/openai/gpt-2) - Code for the paper "Language Models are Unsupervised Multitask Learners"
 - [hikaruAi/FacebookBot](https://github.com/hikaruAi/FacebookBot) - A facebook bot to scrap, post, spam and more without the facebook API
 - [python/pyperformance](https://github.com/python/pyperformance) - Python Performance Benchmark Suite
 - [EniasCailliau/GirlfriendGPT](https://github.com/EniasCailliau/GirlfriendGPT) - Girlfriend GPT is a Python project to build your own AI girlfriend using ChatGPT4.0
