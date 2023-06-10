@@ -261,7 +261,7 @@
 ## bot 
 
 - [Nachtalb/reverse_image_search_bot](https://github.com/Nachtalb/reverse_image_search_bot) - Image Reverse Search Bot🕵️‍♂️🔍: A handy Telegram bot for reverse image searches on images, videos, and GIFs, supporting multiple search engines. Unleash the power of reverse searching! 🚀🤖
-- [marcosfnsc/Feed_UERN](https://github.com/marcosfnsc/Feed_UERN) - Um canal de noticias da UERN no telegram
+- [marcosfnsc/feed_uern](https://github.com/marcosfnsc/feed_uern) - Um canal de noticias da UERN no telegram
 
 ## c 
 
@@ -1061,7 +1061,7 @@
 - [thisbejim/Pyrebase](https://github.com/thisbejim/Pyrebase) - A simple python wrapper for the Firebase API.
 - [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
 - [cirospaciari/socketify.py](https://github.com/cirospaciari/socketify.py) - Bringing Http/Https and WebSockets High Performance servers for PyPy3 and Python3
-- [marcosfnsc/Feed_UERN](https://github.com/marcosfnsc/Feed_UERN) - Um canal de noticias da UERN no telegram
+- [marcosfnsc/feed_uern](https://github.com/marcosfnsc/feed_uern) - Um canal de noticias da UERN no telegram
 - [apache/spark](https://github.com/apache/spark) - Apache Spark - A unified analytics engine for large-scale data processing
 - [walissonsilva/web-scraping-python](https://github.com/walissonsilva/web-scraping-python) - 🌐 Repositório com o conteúdo (slides, exemplos, códigos) da série de vídeos no YouTube sobre Web Scraping com Python.
 - [arthurspk/guiadobackend](https://github.com/arthurspk/guiadobackend) - Nesse guia você encontrará tudo para se torna um desenvolvedor back-end, dessa maneira, encontrará mapas mentais, cursos, trilhas e outras ferramentas para poder praticar o conhecimento adquirido.
@@ -1190,7 +1190,7 @@
 
 - [Nachtalb/reverse_image_search_bot](https://github.com/Nachtalb/reverse_image_search_bot) - Image Reverse Search Bot🕵️‍♂️🔍: A handy Telegram bot for reverse image searches on images, videos, and GIFs, supporting multiple search engines. Unleash the power of reverse searching! 🚀🤖
 - [tqdm/tqdm](https://github.com/tqdm/tqdm) - A Fast, Extensible Progress Bar for Python and CLI
-- [marcosfnsc/Feed_UERN](https://github.com/marcosfnsc/Feed_UERN) - Um canal de noticias da UERN no telegram
+- [marcosfnsc/feed_uern](https://github.com/marcosfnsc/feed_uern) - Um canal de noticias da UERN no telegram
 
 ## terminal 
 
