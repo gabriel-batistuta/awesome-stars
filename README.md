@@ -349,7 +349,7 @@
 - [thisbejim/Pyrebase](https://github.com/thisbejim/Pyrebase) - A simple python wrapper for the Firebase API.
 - [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
 - [cirospaciari/socketify.py](https://github.com/cirospaciari/socketify.py) - Bringing Http/Https and WebSockets High Performance servers for PyPy3 and Python3
-- [marcosfnsc/Feed_UERN](https://github.com/marcosfnsc/Feed_UERN) - Um canal de noticias da UERN no telegram
+- [marcosfnsc/feed_uern](https://github.com/marcosfnsc/feed_uern) - Um canal de noticias da UERN no telegram
 - [Y-Matos/GoldenMangaScraper](https://github.com/Y-Matos/GoldenMangaScraper) - 
 - [walissonsilva/web-scraping-python](https://github.com/walissonsilva/web-scraping-python) - 🌐 Repositório com o conteúdo (slides, exemplos, códigos) da série de vídeos no YouTube sobre Web Scraping com Python.
 - [B-Salinas/YGO-Duel-Academy-Deck-Builder](https://github.com/B-Salinas/YGO-Duel-Academy-Deck-Builder) - YGO Duel Academy Deck Builder is a clone of Yu-Gi-Oh! GX: Duel Academy's in-game Deck Builder for the Gameboy Advanced.
