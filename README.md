@@ -195,6 +195,7 @@
 
 ## Kotlin 
 
+- [jmir1/aniyomi](https://github.com/jmir1/aniyomi) - Unofficial fork of Tachiyomi for anime
 - [chaquo/chaquopy-matplotlib](https://github.com/chaquo/chaquopy-matplotlib) - Chaquopy Matplotlib example
 - [JetBrains/kotlin](https://github.com/JetBrains/kotlin) - The Kotlin Programming Language.
 - [duckduckgo/Android](https://github.com/duckduckgo/Android) - DuckDuckGo Android App
