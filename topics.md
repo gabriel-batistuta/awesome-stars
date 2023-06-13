@@ -592,7 +592,6 @@
 - [chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11) - Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.
 - [giongto35/cloud-game](https://github.com/giongto35/cloud-game) - Web-based Cloud Gaming service for Retro Game
 - [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) - 🚀 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI.
-- [wei/pull](https://github.com/wei/pull) - 🤖 Keep your forks up-to-date via automated PRs
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 - [Suwayomi/Tachidesk-Server](https://github.com/Suwayomi/Tachidesk-Server) - A rewrite of Tachiyomi for the Desktop
 - [docker-library/docs](https://github.com/docker-library/docs) - Documentation for Docker Official Images in docker-library
