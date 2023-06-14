@@ -170,6 +170,7 @@
 - [riimuru/gogoanime-api](https://github.com/riimuru/gogoanime-api) - Anime Streaming, Discovery API made with Cheerio and Express. Uses data from Gogoanime
 - [maierfelix/pokemon-emerald-rom-hacking](https://github.com/maierfelix/pokemon-emerald-rom-hacking) - ROM hacking kit for Pokemon Emerald
 - [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) - 🚀 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI.
+- [wei/pull](https://github.com/wei/pull) - 🤖 Keep your forks up-to-date via automated PRs
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 - [phoboslab/Impact](https://github.com/phoboslab/Impact) - HTML5 Game Engine
 - [lukas102000/chatbot-conversation-v1.5](https://github.com/lukas102000/chatbot-conversation-v1.5) - 
