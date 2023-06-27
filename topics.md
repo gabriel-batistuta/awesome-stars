@@ -58,6 +58,7 @@
 - [game](#game)
 - [game-development](#game-development)
 - [game-engine](#game-engine)
+- [gamedev](#gamedev)
 - [games](#games)
 - [git](#git)
 - [github](#github)
@@ -498,6 +499,13 @@
 
 - [godotengine/godot-docs](https://github.com/godotengine/godot-docs) - Godot Engine official documentation
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
+- [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
+
+## gamedev 
+
+- [godotengine/godot-docs](https://github.com/godotengine/godot-docs) - Godot Engine official documentation
+- [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
+- [pygame/pygame](https://github.com/pygame/pygame) - 🐍🎮 pygame (the library) is a Free and Open Source python programming language library for making multimedia applications like games built on top of the excellent SDL library. C, Python, Native, OpenGL
 - [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
 
 ## games 
