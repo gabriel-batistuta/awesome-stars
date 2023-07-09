@@ -163,6 +163,7 @@
 - [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime :sparkles::turtle::rocket::sparkles:
 - [Kong/insomnia](https://github.com/Kong/insomnia) - The open-source, cross-platform API client for GraphQL, REST, WebSockets and gRPC.
 - [github/docs](https://github.com/github/docs) - The open-source repo for docs.github.com
+- [tachiyomiorg/user-agents](https://github.com/tachiyomiorg/user-agents) - Latest user agent strings for major browsers and OSs
 - [dannyfan/crunchyroll-playback-speed](https://github.com/dannyfan/crunchyroll-playback-speed) - A google extension to control crunchyroll video speed
 - [ryanmcdermott/clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) - :bathtub: Clean Code concepts adapted for JavaScript
 - [felipe-augusto/clean-code-javascript](https://github.com/felipe-augusto/clean-code-javascript) - Conceitos de Código Limpo adaptados em JavaScript (Tradução PT-BR)
@@ -325,7 +326,6 @@
 - [microsoft/vscode-isort](https://github.com/microsoft/vscode-isort) - Import sorting for python using the isort library.
 - [microsoft/pyright](https://github.com/microsoft/pyright) - Static Type Checker for Python
 - [googleapis/google-api-python-client](https://github.com/googleapis/google-api-python-client) - 🐍 The official Python client library for Google's discovery based APIs.
-- [tachiyomiorg/user-agents](https://github.com/tachiyomiorg/user-agents) - Latest user agent strings for major browsers and OSs
 - [google/python-fire](https://github.com/google/python-fire) - Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.
 - [google/corpuscrawler](https://github.com/google/corpuscrawler) - Crawler for linguistic corpora
 - [twitterdev/getting-started-with-the-twitter-api-v2-for-academic-research](https://github.com/twitterdev/getting-started-with-the-twitter-api-v2-for-academic-research) - A course on getting started with the Twitter API v2 for academic research
