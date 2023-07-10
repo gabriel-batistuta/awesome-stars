@@ -833,6 +833,7 @@
 
 ## nodejs 
 
+- [GeovaneSchmitz/sigaa-api](https://github.com/GeovaneSchmitz/sigaa-api) - Unofficial high performance API for SIGAA (Sistema Integrado de Gestão de Atividades Acadêmicas) using web scraping.
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
 - [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime :sparkles::turtle::rocket::sparkles:
 - [riimuru/gogoanime-api](https://github.com/riimuru/gogoanime-api) - Anime Streaming, Discovery API made with Cheerio and Express. Uses data from Gogoanime
@@ -864,6 +865,8 @@
 
 ## others 
 
+- [0xCyberY/Sequential-allocation](https://github.com/0xCyberY/Sequential-allocation) - a C program to simulate Sequential file allocation strategy.
+- [sosolidkk/sigaa-api](https://github.com/sosolidkk/sigaa-api) - API feita a partir do scraping do sistema sigaa da UFPI
 - [tody411/MemoryAllocationSimulator](https://github.com/tody411/MemoryAllocationSimulator) - Simple Memory Allocation Simulator. (Python)
 - [scrapinghub/portia](https://github.com/scrapinghub/portia) - Visual scraping for Scrapy
 - [openai/generating-reviews-discovering-sentiment](https://github.com/openai/generating-reviews-discovering-sentiment) - Code for "Learning to Generate Reviews and Discovering Sentiment"
