@@ -981,7 +981,7 @@
 - [chromium/chromium](https://github.com/chromium/chromium) - The official GitHub mirror of the Chromium source
 - [apsantos-dev/modelo-de-contrato](https://github.com/apsantos-dev/modelo-de-contrato) - Modelo de contrato de prestação de serviços [ Desenvolvedor Freelancer ].
 - [iuricode/readme-template](https://github.com/iuricode/readme-template) - Modelos readmes
-- [iuricode/recursos-gratuitos](https://github.com/iuricode/recursos-gratuitos) - Coleção com links para desenvolvimentos e estudos
+- [iuricode/recursos-gratuitos](https://github.com/iuricode/recursos-gratuitos) - Coleção com links para desenvolvimento
 - [jsitor/jsitor](https://github.com/jsitor/jsitor) - Online JS, CSS and HTML editor
 - [microsoft/vscode-docs](https://github.com/microsoft/vscode-docs) - Public documentation for Visual Studio Code
 - [TeamVanced/VancedManager](https://github.com/TeamVanced/VancedManager) - Vanced Installer
