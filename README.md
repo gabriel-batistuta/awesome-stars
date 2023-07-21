@@ -105,7 +105,7 @@
 
 ## Dockerfile 
 
-- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (May 2023)
+- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (July 2023)
 
 ## Elixir 
 
@@ -132,7 +132,7 @@
 - [filipedeschamps/tabnews.com.br](https://github.com/filipedeschamps/tabnews.com.br) - Conteúdos para quem trabalha com Programação e Tecnologia.
 - [720kb/angular-datepicker](https://github.com/720kb/angular-datepicker) - Angularjs datepicker module, generate a datepicker on your input element -  https://720kb.github.io/angular-datepicker
 - [SergioPereira79/Curso-Front-End](https://github.com/SergioPereira79/Curso-Front-End) - Um projeto de Front End.
-- [iuricode/recursos-gratuitos](https://github.com/iuricode/recursos-gratuitos) - Coleção com links para desenvolvimentos e estudos
+- [iuricode/recursos-gratuitos](https://github.com/iuricode/recursos-gratuitos) - Coleção com links para desenvolvimento
 - [gustavoguanabara/javascript](https://github.com/gustavoguanabara/javascript) - Curso de JavaScript
 - [gustavoguanabara/html-css](https://github.com/gustavoguanabara/html-css) - Curso de HTML5 e CSS3
 
