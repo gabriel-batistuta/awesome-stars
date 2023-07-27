@@ -126,6 +126,7 @@
 
 ## HTML 
 
+- [TheSunBoys/calculadora-de-media-uern-js](https://github.com/TheSunBoys/calculadora-de-media-uern-js) - Site para calcular notas na UERN
 - [pdf2htmlEX/pdf2htmlEX](https://github.com/pdf2htmlEX/pdf2htmlEX) - Convert PDF to HTML without losing text or format.
 - [docker/docs](https://github.com/docker/docs) - Source repo for Docker's Documentation
 - [UniversalDependencies/docs](https://github.com/UniversalDependencies/docs) - Universal Dependencies online documentation
@@ -152,6 +153,7 @@
 
 ## JavaScript 
 
+- [nakaharan5/CALCULADORA-DE-IMC](https://github.com/nakaharan5/CALCULADORA-DE-IMC) - Calculadora de IMC responsiva
 - [Novik/ruTorrent](https://github.com/Novik/ruTorrent) - Yet another web front-end for rTorrent
 - [maxogden/torrent](https://github.com/maxogden/torrent) - download torrents with node from the CLI
 - [webtorrent/webtorrent](https://github.com/webtorrent/webtorrent) - ⚡️ Streaming torrent client for the web
