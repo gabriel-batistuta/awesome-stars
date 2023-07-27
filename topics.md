@@ -873,6 +873,8 @@
 
 ## others 
 
+- [nakaharan5/CALCULADORA-DE-IMC](https://github.com/nakaharan5/CALCULADORA-DE-IMC) - Calculadora de IMC responsiva
+- [TheSunBoys/calculadora-de-media-uern-js](https://github.com/TheSunBoys/calculadora-de-media-uern-js) - Site para calcular notas na UERN
 - [Novik/ruTorrent](https://github.com/Novik/ruTorrent) - Yet another web front-end for rTorrent
 - [maxogden/torrent](https://github.com/maxogden/torrent) - download torrents with node from the CLI
 - [Ryuk-me/Torrent-Api-py](https://github.com/Ryuk-me/Torrent-Api-py) - An Unofficial API for 1337x, Piratebay, Nyaasi, Torlock, Torrent Galaxy, Zooqle, Kickass, Bitsearch, MagnetDL,Libgen, YTS, Limetorrent, TorrentFunk, Glodls, TorrentProject and YourBittorrent
