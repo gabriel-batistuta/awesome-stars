@@ -141,6 +141,7 @@
 - [swift](#swift)
 - [telegram](#telegram)
 - [terminal](#terminal)
+- [termux](#termux)
 - [testing](#testing)
 - [twitter](#twitter)
 - [typescript](#typescript)
@@ -1244,6 +1245,12 @@
 - [tqdm/tqdm](https://github.com/tqdm/tqdm) - A Fast, Extensible Progress Bar for Python and CLI
 - [lxgr-linux/pokete](https://github.com/lxgr-linux/pokete) - A terminal based Pokemon like game
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,100+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
+- [htr-tech/nexphisher](https://github.com/htr-tech/nexphisher) - Advanced Phishing tool
+- [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
+
+## termux 
+
+- [termux/termux-packages](https://github.com/termux/termux-packages) - A package build system for Termux.
 - [htr-tech/nexphisher](https://github.com/htr-tech/nexphisher) - Advanced Phishing tool
 - [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
 
