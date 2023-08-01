@@ -272,6 +272,7 @@
 
 ## Python 
 
+- [ramonvc/freegpt-webui](https://github.com/ramonvc/freegpt-webui) - GPT 3.5/4 with a Chat Web UI. No API key required.
 - [Ryuk-me/Torrent-Api-py](https://github.com/Ryuk-me/Torrent-Api-py) - An Unofficial API for 1337x, Piratebay, Nyaasi, Torlock, Torrent Galaxy, Zooqle, Kickass, Bitsearch, MagnetDL,Libgen, YTS, Limetorrent, TorrentFunk, Glodls, TorrentProject and YourBittorrent
 - [sosolidkk/sigaa-api](https://github.com/sosolidkk/sigaa-api) - API feita a partir do scraping do sistema sigaa da UFPI
 - [tody411/MemoryAllocationSimulator](https://github.com/tody411/MemoryAllocationSimulator) - Simple Memory Allocation Simulator. (Python)
