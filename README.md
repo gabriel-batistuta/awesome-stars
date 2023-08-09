@@ -155,6 +155,7 @@
 
 ## JavaScript 
 
+- [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
 - [jondot/awesome-react-native](https://github.com/jondot/awesome-react-native) - Awesome React Native components, news, tools, and learning material!
 - [nakaharan5/CALCULADORA-DE-IMC](https://github.com/nakaharan5/CALCULADORA-DE-IMC) - Calculadora de IMC responsiva
 - [Novik/ruTorrent](https://github.com/Novik/ruTorrent) - Yet another web front-end for rTorrent
@@ -327,7 +328,7 @@
 - [JazzCore/python-pdfkit](https://github.com/JazzCore/python-pdfkit) - Wkhtmltopdf python wrapper to convert html to pdf
 - [lorien/grab](https://github.com/lorien/grab) - Web Scraping Framework
 - [MontFerret/pyfer](https://github.com/MontFerret/pyfer) - Python wrapper for Ferret
-- [tqdm/tqdm](https://github.com/tqdm/tqdm) - A Fast, Extensible Progress Bar for Python and CLI
+- [tqdm/tqdm](https://github.com/tqdm/tqdm) - :zap: A Fast, Extensible Progress Bar for Python and CLI
 - [helpcomputer/nydd](https://github.com/helpcomputer/nydd) - A dark mini-platform/RPG/adventure game using Pyxel engine.
 - [glomatico/manga-livre-dl](https://github.com/glomatico/manga-livre-dl) - Manga Livre DL is a Manga Livre Downloader
 - [scrapy/scrapy](https://github.com/scrapy/scrapy) - Scrapy, a fast high-level web crawling & scraping framework for Python.
