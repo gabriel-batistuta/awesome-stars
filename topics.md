@@ -313,7 +313,7 @@
 - [sdaqo/anipy-cli](https://github.com/sdaqo/anipy-cli) - Little tool in python to watch and download anime from the terminal  (the better way to watch anime). Also applicable as an API
 - [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
 - [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
-- [tqdm/tqdm](https://github.com/tqdm/tqdm) - A Fast, Extensible Progress Bar for Python and CLI
+- [tqdm/tqdm](https://github.com/tqdm/tqdm) - :zap: A Fast, Extensible Progress Bar for Python and CLI
 - [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
 - [angular/angular-cli](https://github.com/angular/angular-cli) - CLI tool for Angular
 - [google/python-fire](https://github.com/google/python-fire) - Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.
@@ -404,7 +404,7 @@
 ## discord 
 
 - [Pycord-Development/pycord](https://github.com/Pycord-Development/pycord) - Pycord, a maintained fork of discord.py, is a python wrapper for the Discord API
-- [tqdm/tqdm](https://github.com/tqdm/tqdm) - A Fast, Extensible Progress Bar for Python and CLI
+- [tqdm/tqdm](https://github.com/tqdm/tqdm) - :zap: A Fast, Extensible Progress Bar for Python and CLI
 
 ## django 
 
@@ -464,6 +464,7 @@
 
 ## firefox 
 
+- [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
 - [AdguardTeam/AdguardBrowserExtension](https://github.com/AdguardTeam/AdguardBrowserExtension) - AdGuard browser extension
 - [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
 
@@ -688,6 +689,7 @@
 
 ## javascript 
 
+- [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
 - [webtorrent/webtorrent](https://github.com/webtorrent/webtorrent) - ⚡️ Streaming torrent client for the web
 - [AdguardTeam/AdguardBrowserExtension](https://github.com/AdguardTeam/AdguardBrowserExtension) - AdGuard browser extension
 - [antlr/antlr4](https://github.com/antlr/antlr4) - ANTLR (ANother Tool for Language Recognition) is a powerful parser generator for reading, processing, executing, or translating structured text or binary files.
@@ -1096,7 +1098,7 @@
 - [vgalin/html2image](https://github.com/vgalin/html2image) - A package acting as a wrapper around the headless mode of existing web browsers to generate images from URLs and from HTML+CSS strings or files.
 - [xhtml2pdf/xhtml2pdf](https://github.com/xhtml2pdf/xhtml2pdf) - A library for converting HTML into PDFs using ReportLab
 - [lorien/grab](https://github.com/lorien/grab) - Web Scraping Framework
-- [tqdm/tqdm](https://github.com/tqdm/tqdm) - A Fast, Extensible Progress Bar for Python and CLI
+- [tqdm/tqdm](https://github.com/tqdm/tqdm) - :zap: A Fast, Extensible Progress Bar for Python and CLI
 - [helpcomputer/nydd](https://github.com/helpcomputer/nydd) - A dark mini-platform/RPG/adventure game using Pyxel engine.
 - [glomatico/manga-livre-dl](https://github.com/glomatico/manga-livre-dl) - Manga Livre DL is a Manga Livre Downloader
 - [scrapy/scrapy](https://github.com/scrapy/scrapy) - Scrapy, a fast high-level web crawling & scraping framework for Python.
@@ -1255,12 +1257,12 @@
 ## telegram 
 
 - [Nachtalb/reverse_image_search_bot](https://github.com/Nachtalb/reverse_image_search_bot) - Image Reverse Search Bot🕵️‍♂️🔍: A handy Telegram bot for reverse image searches on images, videos, and GIFs, supporting multiple search engines. Unleash the power of reverse searching! 🚀🤖
-- [tqdm/tqdm](https://github.com/tqdm/tqdm) - A Fast, Extensible Progress Bar for Python and CLI
+- [tqdm/tqdm](https://github.com/tqdm/tqdm) - :zap: A Fast, Extensible Progress Bar for Python and CLI
 - [TheSunBoys/feed_uern](https://github.com/TheSunBoys/feed_uern) - Um canal de noticias da UERN no telegram
 
 ## terminal 
 
-- [tqdm/tqdm](https://github.com/tqdm/tqdm) - A Fast, Extensible Progress Bar for Python and CLI
+- [tqdm/tqdm](https://github.com/tqdm/tqdm) - :zap: A Fast, Extensible Progress Bar for Python and CLI
 - [lxgr-linux/pokete](https://github.com/lxgr-linux/pokete) - A terminal based Pokemon like game
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,100+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [htr-tech/nexphisher](https://github.com/htr-tech/nexphisher) - Advanced Phishing tool
