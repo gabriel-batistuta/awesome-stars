@@ -224,6 +224,7 @@
 
 ## Others 
 
+- [aristidesneto/modelo-contratos](https://github.com/aristidesneto/modelo-contratos) - Contratos de sites, prestação de serviços, etc
 - [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
 - [romhackersbr/romhackersbr-db](https://github.com/romhackersbr/romhackersbr-db) - Banco de Dados do PO.B.R.E
 - [akullpp/awesome-java](https://github.com/akullpp/awesome-java) - A curated list of awesome frameworks, libraries and software for the Java programming language.
