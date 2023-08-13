@@ -385,6 +385,7 @@
 
 ## Ruby 
 
+- [morinoko/agile-dev-rails6](https://github.com/morinoko/agile-dev-rails6) - Based on Agile Web Development With Rails 6
 - [github/brasil](https://github.com/github/brasil) - Recursos e informações do GitHub para a comunidade de desenvolvedores no Brasil.
 - [skwp/dotfiles](https://github.com/skwp/dotfiles) - YADR - The best vim,git,zsh plugins and the cleanest vimrc you've ever seen
 - [github-linguist/linguist](https://github.com/github-linguist/linguist) - Language Savant. If your repository's language is being reported incorrectly, send us a pull request!
@@ -394,6 +395,7 @@
 
 ## Rust 
 
+- [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
 - [pop-os/pop](https://github.com/pop-os/pop) - A project for managing all Pop!_OS sources
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
 
