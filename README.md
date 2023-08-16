@@ -207,6 +207,7 @@
 
 ## Kotlin 
 
+- [fork-maintainers/iceraven-browser](https://github.com/fork-maintainers/iceraven-browser) - Iceraven Browser
 - [tasomaniac/OpenLinkWith](https://github.com/tasomaniac/OpenLinkWith) - Open the current webpage you have in another app. Magic! 🔮
 - [aniyomiorg/aniyomi](https://github.com/aniyomiorg/aniyomi) - Unofficial fork of Tachiyomi for anime
 - [chaquo/chaquopy-matplotlib](https://github.com/chaquo/chaquopy-matplotlib) - Chaquopy Matplotlib example
