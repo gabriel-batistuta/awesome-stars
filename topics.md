@@ -1335,6 +1335,7 @@
 
 ## web 
 
+- [vintasoftware/playbook](https://github.com/vintasoftware/playbook) - Vinta's Best Moves Compiled
 - [django/django](https://github.com/django/django) - The Web framework for perfectionists with deadlines.
 - [Suwayomi/Tachidesk-Sorayomi](https://github.com/Suwayomi/Tachidesk-Sorayomi) - A free and open source manga reader app to read manga from a Tachidesk-Server instance.
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
