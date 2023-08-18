@@ -342,7 +342,7 @@
 - [lxgr-linux/pokete](https://github.com/lxgr-linux/pokete) - A terminal based Pokemon like game
 - [microsoft/vscode-python-tools-extension-template](https://github.com/microsoft/vscode-python-tools-extension-template) - Template for creating VS Code extensions for python tools.
 - [microsoft/vscode-black-formatter](https://github.com/microsoft/vscode-black-formatter) - Formatting support for Python using the Black formatter
-- [microsoft/recommenders](https://github.com/microsoft/recommenders) - Best Practices on Recommendation Systems
+- [recommenders-team/recommenders](https://github.com/recommenders-team/recommenders) - Best Practices on Recommendation Systems
 - [microsoft/muzic](https://github.com/microsoft/muzic) - Muzic: Music Understanding and Generation with Artificial Intelligence
 - [microsoft/vscode-isort](https://github.com/microsoft/vscode-isort) - Import sorting for python using the isort library.
 - [microsoft/pyright](https://github.com/microsoft/pyright) - Static Type Checker for Python
