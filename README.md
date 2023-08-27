@@ -80,6 +80,7 @@
 ## C++ 
 
 - [ValveSoftware/Proton](https://github.com/ValveSoftware/Proton) - Compatibility tool for Steam Play based on Wine and additional components
+- [mkleehammer/pyodbc](https://github.com/mkleehammer/pyodbc) - Python ODBC bridge
 - [WebAssembly/wabt](https://github.com/WebAssembly/wabt) - The WebAssembly Binary Toolkit
 - [cemu-project/Cemu](https://github.com/cemu-project/Cemu) - Cemu - Wii U emulator
 - [apple/swift](https://github.com/apple/swift) - The Swift Programming Language
@@ -312,7 +313,6 @@
 - [TNTwise/Rife-ESRGAN-App-Linux](https://github.com/TNTwise/Rife-ESRGAN-App-Linux) - A simple GUI for Rife Vulkan on Linux.
 - [mapio/GraphvizAnim](https://github.com/mapio/GraphvizAnim) - A tool to create animated graph visualizations, based on graphviz.
 - [xflr6/graphviz](https://github.com/xflr6/graphviz) - Simple Python interface for Graphviz
-- [mkleehammer/pyodbc](https://github.com/mkleehammer/pyodbc) - Python ODBC bridge
 - [PyMySQL/PyMySQL](https://github.com/PyMySQL/PyMySQL) - MySQL client library for Python
 - [kennethreitz/records](https://github.com/kennethreitz/records) - SQL for Humans™
 - [schodet/nxt-python](https://github.com/schodet/nxt-python) - NXT-Python is a python driver/interface for the Lego Mindstorms NXT robot based on NXT_python.
