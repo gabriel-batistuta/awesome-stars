@@ -472,7 +472,7 @@
 ## Vue 
 
 - [2pai-dev/animoji](https://github.com/2pai-dev/animoji) - Describe your favorite anime with emoji ✨
-- [tehcneko/nekogram-files](https://github.com/tehcneko/nekogram-files) - Websites for Nekogram.
+- [Nekogram/files](https://github.com/Nekogram/files) - Websites for Nekogram.
 
 ## reStructuredText 
 
