@@ -1008,7 +1008,7 @@
 - [acidanthera/OpenCorePkg](https://github.com/acidanthera/OpenCorePkg) - OpenCore bootloader
 - [yeoman/yeoman](https://github.com/yeoman/yeoman) - Yeoman - a set of tools for automating development workflow
 - [edk2-porting/edk2-msm](https://github.com/edk2-porting/edk2-msm) - Broken edk2 port for Qualcomm platforms xD
-- [tehcneko/nekogram-files](https://github.com/tehcneko/nekogram-files) - Websites for Nekogram.
+- [Nekogram/files](https://github.com/Nekogram/files) - Websites for Nekogram.
 - [Y-Matos/GoldenMangaScraper](https://github.com/Y-Matos/GoldenMangaScraper) - 
 - [WordPress/WordPress](https://github.com/WordPress/WordPress) - WordPress, Git-ified. This repository is just a mirror of the WordPress subversion repository. Please do not send pull requests. Submit pull requests to https://github.com/WordPress/wordpress-develop 
 - [openssl/openssl](https://github.com/openssl/openssl) - TLS/SSL and crypto library
