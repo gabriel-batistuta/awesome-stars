@@ -238,6 +238,7 @@
 
 ## awesome-list 
 
+- [gunnarmorling/awesome-opensource-data-engineering](https://github.com/gunnarmorling/awesome-opensource-data-engineering) - An Awesome List of Open-Source Data Engineering Projects
 - [jondot/awesome-react-native](https://github.com/jondot/awesome-react-native) - Awesome React Native components, news, tools, and learning material!
 - [akullpp/awesome-java](https://github.com/akullpp/awesome-java) - A curated list of awesome frameworks, libraries and software for the Java programming language.
 - [Solido/awesome-flutter](https://github.com/Solido/awesome-flutter) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
@@ -430,6 +431,7 @@
 ## education 
 
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
+- [kelvins/Algoritmos-e-Estruturas-de-Dados](https://github.com/kelvins/Algoritmos-e-Estruturas-de-Dados) - :abacus: Algoritmos e estruturas de dados em diferentes linguagens de programação
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
 
 ## electron 
@@ -625,6 +627,7 @@
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
 - [ruippeixotog/scala-scraper](https://github.com/ruippeixotog/scala-scraper) - A Scala library for scraping content from HTML pages
 - [scrapy/scrapy](https://github.com/scrapy/scrapy) - Scrapy, a fast high-level web crawling & scraping framework for Python.
+- [kelvins/Algoritmos-e-Estruturas-de-Dados](https://github.com/kelvins/Algoritmos-e-Estruturas-de-Dados) - :abacus: Algoritmos e estruturas de dados em diferentes linguagens de programação
 - [JuliaLang/julia](https://github.com/JuliaLang/julia) - The Julia Programming Language
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [github/docs](https://github.com/github/docs) - The open-source repo for docs.github.com
@@ -761,6 +764,7 @@
 ## learning 
 
 - [Plankiton/CParaSeresHumanos](https://github.com/Plankiton/CParaSeresHumanos) - Livro para iniciantes na linguagem C
+- [kelvins/Algoritmos-e-Estruturas-de-Dados](https://github.com/kelvins/Algoritmos-e-Estruturas-de-Dados) - :abacus: Algoritmos e estruturas de dados em diferentes linguagens de programação
 
 ## library 
 
@@ -902,6 +906,7 @@
 
 ## others 
 
+- [MuhammadKhizerJaved/Insecure-Firebase-Exploit](https://github.com/MuhammadKhizerJaved/Insecure-Firebase-Exploit) - A simple Python Exploit to Write Data to Insecure/vulnerable firebase databases! Commonly found inside Mobile Apps. If the owner of the app have set the security rules as true for both "read" & "write
 - [andrfranklin/sigaa-tasks](https://github.com/andrfranklin/sigaa-tasks) - API robot to get the tasks from UFRN sigaa system.
 - [fork-maintainers/iceraven-browser](https://github.com/fork-maintainers/iceraven-browser) - Iceraven Browser
 - [morinoko/agile-dev-rails6](https://github.com/morinoko/agile-dev-rails6) - Based on Agile Web Development With Rails 6
@@ -967,7 +972,6 @@
 - [twitter-archive/flockdb](https://github.com/twitter-archive/flockdb) - A distributed, fault-tolerant graph database
 - [twitter/cassovary](https://github.com/twitter/cassovary) - Cassovary is a simple big graph processing library for the JVM
 - [twitter/GraphJet](https://github.com/twitter/GraphJet) - GraphJet is a real-time graph processing library.
-- [kelvins/Algoritmos-e-Estruturas-de-Dados](https://github.com/kelvins/Algoritmos-e-Estruturas-de-Dados) - :abacus: Algoritmos e estruturas de dados em diferentes linguagens de programação
 - [github-linguist/linguist](https://github.com/github-linguist/linguist) - Language Savant. If your repository's language is being reported incorrectly, send us a pull request!
 - [docker/docs](https://github.com/docker/docs) - Source repo for Docker's Documentation
 - [chardet/chardet](https://github.com/chardet/chardet) - Python character encoding detector
