@@ -229,6 +229,7 @@
 
 ## Others 
 
+- [gunnarmorling/awesome-opensource-data-engineering](https://github.com/gunnarmorling/awesome-opensource-data-engineering) - An Awesome List of Open-Source Data Engineering Projects
 - [vintasoftware/playbook](https://github.com/vintasoftware/playbook) - Vinta's Best Moves Compiled
 - [aristidesneto/modelo-contratos](https://github.com/aristidesneto/modelo-contratos) - Contratos de sites, prestação de serviços, etc
 - [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
@@ -282,6 +283,7 @@
 
 ## Python 
 
+- [MuhammadKhizerJaved/Insecure-Firebase-Exploit](https://github.com/MuhammadKhizerJaved/Insecure-Firebase-Exploit) - A simple Python Exploit to Write Data to Insecure/vulnerable firebase databases! Commonly found inside Mobile Apps. If the owner of the app have set the security rules as true for both "read" & "write
 - [adenosinetp10/Akinator-Bot](https://github.com/adenosinetp10/Akinator-Bot) - Telegram Bot for playing the Akinator guessing game.(Unofficial)
 - [mobolic/facebook-sdk](https://github.com/mobolic/facebook-sdk) - Python SDK for Facebook's Graph API
 - [InstaPy/InstaPy](https://github.com/InstaPy/InstaPy) - 📷 Instagram Bot - Tool for automated Instagram interactions
