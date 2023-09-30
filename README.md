@@ -158,6 +158,7 @@
 
 ## JavaScript 
 
+- [LNReader/lnreader](https://github.com/LNReader/lnreader) - Light novel reader for Android.
 - [andrfranklin/sigaa-tasks](https://github.com/andrfranklin/sigaa-tasks) - API robot to get the tasks from UFRN sigaa system.
 - [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
 - [jondot/awesome-react-native](https://github.com/jondot/awesome-react-native) - Awesome React Native components, news, tools, and learning material!
