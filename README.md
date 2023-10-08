@@ -342,7 +342,7 @@
 - [helpcomputer/nydd](https://github.com/helpcomputer/nydd) - A dark mini-platform/RPG/adventure game using Pyxel engine.
 - [glomatico/manga-livre-dl](https://github.com/glomatico/manga-livre-dl) - Manga Livre DL is a Manga Livre Downloader
 - [scrapy/scrapy](https://github.com/scrapy/scrapy) - Scrapy, a fast high-level web crawling & scraping framework for Python.
-- [kelvins/Algoritmos-e-Estruturas-de-Dados](https://github.com/kelvins/Algoritmos-e-Estruturas-de-Dados) - :abacus: Algoritmos e estruturas de dados em diferentes linguagens de programação
+- [kelvins/algorithms-and-data-structures](https://github.com/kelvins/algorithms-and-data-structures) - :abacus: Algorithms and Data Structures in several Programming Languages
 - [plotly/dash](https://github.com/plotly/dash) - Data Apps & Dashboards for Python. No JavaScript Required.
 - [chardet/chardet](https://github.com/chardet/chardet) - Python character encoding detector
 - [lxgr-linux/pokete](https://github.com/lxgr-linux/pokete) - A terminal based Pokemon like game
