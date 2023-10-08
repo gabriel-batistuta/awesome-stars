@@ -438,7 +438,7 @@
 ## education 
 
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
-- [kelvins/Algoritmos-e-Estruturas-de-Dados](https://github.com/kelvins/Algoritmos-e-Estruturas-de-Dados) - :abacus: Algoritmos e estruturas de dados em diferentes linguagens de programação
+- [kelvins/algorithms-and-data-structures](https://github.com/kelvins/algorithms-and-data-structures) - :abacus: Algorithms and Data Structures in several Programming Languages
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
 
 ## electron 
@@ -634,7 +634,7 @@
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
 - [ruippeixotog/scala-scraper](https://github.com/ruippeixotog/scala-scraper) - A Scala library for scraping content from HTML pages
 - [scrapy/scrapy](https://github.com/scrapy/scrapy) - Scrapy, a fast high-level web crawling & scraping framework for Python.
-- [kelvins/Algoritmos-e-Estruturas-de-Dados](https://github.com/kelvins/Algoritmos-e-Estruturas-de-Dados) - :abacus: Algoritmos e estruturas de dados em diferentes linguagens de programação
+- [kelvins/algorithms-and-data-structures](https://github.com/kelvins/algorithms-and-data-structures) - :abacus: Algorithms and Data Structures in several Programming Languages
 - [JuliaLang/julia](https://github.com/JuliaLang/julia) - The Julia Programming Language
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [github/docs](https://github.com/github/docs) - The open-source repo for docs.github.com
@@ -772,7 +772,7 @@
 ## learning 
 
 - [Plankiton/CParaSeresHumanos](https://github.com/Plankiton/CParaSeresHumanos) - Livro para iniciantes na linguagem C
-- [kelvins/Algoritmos-e-Estruturas-de-Dados](https://github.com/kelvins/Algoritmos-e-Estruturas-de-Dados) - :abacus: Algoritmos e estruturas de dados em diferentes linguagens de programação
+- [kelvins/algorithms-and-data-structures](https://github.com/kelvins/algorithms-and-data-structures) - :abacus: Algorithms and Data Structures in several Programming Languages
 
 ## library 
 
