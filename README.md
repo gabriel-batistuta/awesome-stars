@@ -176,7 +176,7 @@
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 - [RalphAlexander/Seasonal-Anime-Calendar](https://github.com/RalphAlexander/Seasonal-Anime-Calendar) - A Web App that tracks currently airing Animes. Users can make and edit their owns lists as well as display them in order of time, date and filter all Animes that aren't airing in a certain amount of t
 - [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime :sparkles::turtle::rocket::sparkles:
-- [Kong/insomnia](https://github.com/Kong/insomnia) - The open-source, cross-platform API client for GraphQL, REST, WebSockets and gRPC.
+- [Kong/insomnia](https://github.com/Kong/insomnia) - The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.
 - [github/docs](https://github.com/github/docs) - The open-source repo for docs.github.com
 - [tachiyomiorg/user-agents](https://github.com/tachiyomiorg/user-agents) - Latest user agent strings for major browsers and OSs
 - [dannyfan/crunchyroll-playback-speed](https://github.com/dannyfan/crunchyroll-playback-speed) - A google extension to control crunchyroll video speed
