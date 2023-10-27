@@ -158,6 +158,7 @@
 
 ## JavaScript 
 
+- [reek/anti-adblock-killer](https://github.com/reek/anti-adblock-killer) - Anti-Adblock Killer helps you keep your Ad-Blocker active, when you visit a website and it asks you to disable.
 - [LNReader/lnreader](https://github.com/LNReader/lnreader) - Light novel reader for Android.
 - [andrfranklin/sigaa-tasks](https://github.com/andrfranklin/sigaa-tasks) - API robot to get the tasks from UFRN sigaa system.
 - [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
