@@ -922,6 +922,7 @@
 
 ## others 
 
+- [reek/anti-adblock-killer](https://github.com/reek/anti-adblock-killer) - Anti-Adblock Killer helps you keep your Ad-Blocker active, when you visit a website and it asks you to disable.
 - [MuhammadKhizerJaved/Insecure-Firebase-Exploit](https://github.com/MuhammadKhizerJaved/Insecure-Firebase-Exploit) - A simple Python Exploit to Write Data to Insecure/vulnerable firebase databases! Commonly found inside Mobile Apps. If the owner of the app have set the security rules as true for both "read" & "write
 - [andrfranklin/sigaa-tasks](https://github.com/andrfranklin/sigaa-tasks) - API robot to get the tasks from UFRN sigaa system.
 - [fork-maintainers/iceraven-browser](https://github.com/fork-maintainers/iceraven-browser) - Iceraven Browser
