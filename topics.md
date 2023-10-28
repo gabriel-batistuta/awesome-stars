@@ -30,6 +30,7 @@
 - [code](#code)
 - [coding](#coding)
 - [compiler](#compiler)
+- [computer-science](#computer-science)
 - [cpp](#cpp)
 - [csharp](#csharp)
 - [css](#css)
@@ -349,6 +350,14 @@
 
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 - [JetBrains/kotlin](https://github.com/JetBrains/kotlin) - The Kotlin Programming Language.
+
+## computer-science 
+
+- [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
+- [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
+- [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
+- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
+- [Universidade-Livre/ciencia-da-computacao](https://github.com/Universidade-Livre/ciencia-da-computacao) - 🎓 Um caminho para a educação autodidata em Ciência da Computação!
 
 ## cpp 
 
@@ -1035,7 +1044,6 @@
 - [openssl/openssl](https://github.com/openssl/openssl) - TLS/SSL and crypto library
 - [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab) - JupyterLab computational environment.
 - [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
-- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [SergioPereira79/Curso-Front-End](https://github.com/SergioPereira79/Curso-Front-End) - Um projeto de Front End.
 - [B-Salinas/YGO-Duel-Academy-Deck-Builder](https://github.com/B-Salinas/YGO-Duel-Academy-Deck-Builder) - YGO Duel Academy Deck Builder is a clone of Yu-Gi-Oh! GX: Duel Academy's in-game Deck Builder for the Gameboy Advanced.
 - [pixeltris/YgoMaster](https://github.com/pixeltris/YgoMaster) - Offline Yu-Gi-Oh! Master Duel
