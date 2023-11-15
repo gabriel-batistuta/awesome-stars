@@ -287,6 +287,7 @@
 
 ## Python 
 
+- [emersonrafaels/extract_text_infos](https://github.com/emersonrafaels/extract_text_infos) - Microserviço para extração de informações (Nomes, CPFS, CNPJS, Datas, IMEI, Objetos (Bens)). Possui a funcionalidade de receber um valor a ser verificado e dado percentual de match esperado, validar s
 - [Znunu/EzMudae](https://github.com/Znunu/EzMudae) - Discord.py module for parsing messages and handling claim/roll resets from the Mudae bot
 - [vivinano/MudaeAutoBot](https://github.com/vivinano/MudaeAutoBot) - python bot that uses strictly the **Discord API** to Roll,Claim,and Kakera Snipe in Mudae. 5/10/21 project converted over to discum library
 - [MuhammadKhizerJaved/Insecure-Firebase-Exploit](https://github.com/MuhammadKhizerJaved/Insecure-Firebase-Exploit) - A simple Python Exploit to Write Data to Insecure/vulnerable firebase databases! Commonly found inside Mobile Apps. If the owner of the app have set the security rules as true for both "read" & "write
