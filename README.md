@@ -15,6 +15,7 @@
 - [Dart](#dart)
 - [Dockerfile](#dockerfile)
 - [Elixir](#elixir)
+- [Fluent](#fluent)
 - [Go](#go)
 - [HTML](#html)
 - [Java](#java)
@@ -113,6 +114,10 @@
 ## Elixir 
 
 - [elixir-lang/elixir](https://github.com/elixir-lang/elixir) - Elixir is a dynamic, functional language for building scalable and maintainable applications
+
+## Fluent 
+
+- [James-Yu/LaTeX-Workshop](https://github.com/James-Yu/LaTeX-Workshop) - Boost LaTeX typesetting efficiency with preview, compile, autocomplete, colorize, and more.
 
 ## Go 
 
@@ -452,7 +457,6 @@
 
 - [consumet/api.consumet.org](https://github.com/consumet/api.consumet.org) - A Modern Search Engine API for Anime, Movies/TVShows, Books, Light Novels, Manga, etc.
 - [GeovaneSchmitz/sigaa-api](https://github.com/GeovaneSchmitz/sigaa-api) - Unofficial high performance API for SIGAA (Sistema Integrado de Gestão de Atividades Acadêmicas) using web scraping.
-- [James-Yu/LaTeX-Workshop](https://github.com/James-Yu/LaTeX-Workshop) - Boost LaTeX typesetting efficiency with preview, compile, autocomplete, colorize, and more.
 - [qrac/minista](https://github.com/qrac/minista) - Static site generator with 100% static export from React and Vite.
 - [loiane/curso-angular](https://github.com/loiane/curso-angular) - :mortar_board: [PT-BR] Curso de Angular gratuito - loiane.training [EN] Source code of my free Angular training.
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
@@ -467,7 +471,7 @@
 - [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab) - JupyterLab computational environment.
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [loiane/javascript-datastructures-algorithms](https://github.com/loiane/javascript-datastructures-algorithms) - :books: collection of JavaScript and TypeScript data structures and algorithms for education purposes. Source code bundle of JavaScript algorithms and data structures book
-- [angular/angular](https://github.com/angular/angular) - The modern web developer’s platform
+- [angular/angular](https://github.com/angular/angular) - Deliver web apps with confidence 🚀
 - [jacksongomesbr/angular-escola](https://github.com/jacksongomesbr/angular-escola) - 
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 
