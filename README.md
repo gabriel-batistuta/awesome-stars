@@ -166,7 +166,7 @@
 - [jondot/awesome-react-native](https://github.com/jondot/awesome-react-native) - Awesome React Native components, news, tools, and learning material!
 - [nakaharan5/CALCULADORA-DE-IMC](https://github.com/nakaharan5/CALCULADORA-DE-IMC) - Calculadora de IMC responsiva
 - [Novik/ruTorrent](https://github.com/Novik/ruTorrent) - Yet another web front-end for rTorrent
-- [maxogden/torrent](https://github.com/maxogden/torrent) - download torrents with node from the CLI
+- [max-mapper/torrent](https://github.com/max-mapper/torrent) - download torrents with node from the CLI
 - [webtorrent/webtorrent](https://github.com/webtorrent/webtorrent) - ⚡️ Streaming torrent client for the web
 - [iamcco/markdown-preview.nvim](https://github.com/iamcco/markdown-preview.nvim) - markdown preview plugin for (neo)vim
 - [romhackersbr/romhackersbr.github.io](https://github.com/romhackersbr/romhackersbr.github.io) - Site do PO.BR.E - Portal Brasileiro de ROMHacking e Emulação
