@@ -55,6 +55,7 @@
 
 ## C 
 
+- [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, S
 - [0xCyberY/Sequential-allocation](https://github.com/0xCyberY/Sequential-allocation) - a C program to simulate Sequential file allocation strategy.
 - [samdenty/Wi-PWN](https://github.com/samdenty/Wi-PWN) - ESP8266 firmware for performing deauthentication attacks, with ease.
 - [flipperdevices/flipperzero-firmware](https://github.com/flipperdevices/flipperzero-firmware) - Flipper Zero firmware source code
@@ -80,6 +81,7 @@
 
 ## C++ 
 
+- [GloriousEggroll/proton-ge-custom](https://github.com/GloriousEggroll/proton-ge-custom) - Compatibility tool for Steam Play based on Wine and additional components
 - [RPCS3/rpcs3](https://github.com/RPCS3/rpcs3) - PS3 emulator/debugger
 - [ValveSoftware/Proton](https://github.com/ValveSoftware/Proton) - Compatibility tool for Steam Play based on Wine and additional components
 - [mkleehammer/pyodbc](https://github.com/mkleehammer/pyodbc) - Python ODBC bridge
@@ -177,7 +179,7 @@
 - [twbs/bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 - [RalphAlexander/Seasonal-Anime-Calendar](https://github.com/RalphAlexander/Seasonal-Anime-Calendar) - A Web App that tracks currently airing Animes. Users can make and edit their owns lists as well as display them in order of time, date and filter all Animes that aren't airing in a certain amount of t
-- [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime :sparkles::turtle::rocket::sparkles:
+- [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime ✨🐢🚀✨
 - [Kong/insomnia](https://github.com/Kong/insomnia) - The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.
 - [github/docs](https://github.com/github/docs) - The open-source repo for docs.github.com
 - [tachiyomiorg/user-agents](https://github.com/tachiyomiorg/user-agents) - Latest user agent strings for major browsers and OSs
