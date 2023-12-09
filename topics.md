@@ -944,6 +944,7 @@
 
 ## others 
 
+- [rpgboss/rpgboss](https://github.com/rpgboss/rpgboss) - point and click rpg game editor and engine
 - [GloriousEggroll/proton-ge-custom](https://github.com/GloriousEggroll/proton-ge-custom) - Compatibility tool for Steam Play based on Wine and additional components
 - [emersonrafaels/extract_text_infos](https://github.com/emersonrafaels/extract_text_infos) - Microserviço para extração de informações (Nomes, CPFS, CNPJS, Datas, IMEI, Objetos (Bens)). Possui a funcionalidade de receber um valor a ser verificado e dado percentual de match esperado, validar s
 - [hotwired/hotwire-rails](https://github.com/hotwired/hotwire-rails) - Use Hotwire in your Ruby on Rails app
