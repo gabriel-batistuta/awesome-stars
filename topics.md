@@ -999,7 +999,7 @@
 - [yasoob/torrents-crawler](https://github.com/yasoob/torrents-crawler) - This is a scrapy project in which I have implemented several crawlers for different torrent and direct link websites.
 - [Santostang/PythonScraping](https://github.com/Santostang/PythonScraping) - The code of book: Python Scraping
 - [buckyroberts/Spider](https://github.com/buckyroberts/Spider) - Python website crawler.
-- [coodict/python3-in-one-pic](https://github.com/coodict/python3-in-one-pic) - Learn python3 in one picture.
+- [rainyear/python3-in-one-pic](https://github.com/rainyear/python3-in-one-pic) - Learn python3 in one picture.
 - [cat-milk/Anime-Girls-Holding-Programming-Books](https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books) - Anime Girls Holding Programming Books
 - [pop-os/pop](https://github.com/pop-os/pop) - A project for managing all Pop!_OS sources
 - [pop-os/shell](https://github.com/pop-os/shell) - Pop!_OS Shell
