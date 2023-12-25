@@ -116,6 +116,7 @@
 - [parsing](#parsing)
 - [penetration-testing](#penetration-testing)
 - [pentesting](#pentesting)
+- [perl](#perl)
 - [php](#php)
 - [pico-8](#pico-8)
 - [postgresql](#postgresql)
@@ -813,6 +814,7 @@
 
 ## linux 
 
+- [smxi/inxi](https://github.com/smxi/inxi) - inxi is a full featured CLI system information tool. It is available in most Linux distribution repositories, and does its best to support the BSDs.
 - [jeffshee/hidamari](https://github.com/jeffshee/hidamari) - Video wallpaper for Linux. Written in Python. 🐍
 - [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
 - [Figma-Linux/figma-linux](https://github.com/Figma-Linux/figma-linux) - Figma is the first interface design tool based in the browser, making it easier for teams to create software. Join us in https://t.me/figma_linux
@@ -950,6 +952,7 @@
 
 ## others 
 
+- [jqlang/jq](https://github.com/jqlang/jq) - Command-line JSON processor
 - [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent) - qBittorrent BitTorrent client
 - [cantalupo555/qbittorrent-backup-linux](https://github.com/cantalupo555/qbittorrent-backup-linux) - Script - Backup your qBitorrent client on linux and restore anytime.
 - [rpgboss/rpgboss](https://github.com/rpgboss/rpgboss) - point and click rpg game editor and engine
@@ -1109,6 +1112,10 @@
 
 - [sqlmapproject/sqlmap](https://github.com/sqlmapproject/sqlmap) - Automatic SQL injection and database takeover tool
 - [hak5/usbrubberducky-payloads](https://github.com/hak5/usbrubberducky-payloads) - The Official USB Rubber Ducky Payload Repository
+
+## perl 
+
+- [smxi/inxi](https://github.com/smxi/inxi) - inxi is a full featured CLI system information tool. It is available in most Linux distribution repositories, and does its best to support the BSDs.
 
 ## php 
 
