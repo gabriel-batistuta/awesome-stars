@@ -164,6 +164,7 @@
 
 ## JavaScript 
 
+- [toticavalcanti/django_ecommerce](https://github.com/toticavalcanti/django_ecommerce) - Criação de um e-commerce utilizando django
 - [WeryZebra-Yue/Talk-Walk](https://github.com/WeryZebra-Yue/Talk-Walk) - It's a social media web app named Talk-Walk where you can post photo, gif, video and share stories
 - [reek/anti-adblock-killer](https://github.com/reek/anti-adblock-killer) - Anti-Adblock Killer helps you keep your Ad-Blocker active, when you visit a website and it asks you to disable.
 - [LNReader/lnreader](https://github.com/LNReader/lnreader) - Light novel reader for Android.
@@ -248,6 +249,7 @@
 - [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
 - [romhackersbr/romhackersbr-db](https://github.com/romhackersbr/romhackersbr-db) - Banco de Dados do PO.B.R.E
 - [akullpp/awesome-java](https://github.com/akullpp/awesome-java) - A curated list of awesome frameworks, libraries and software for the Java programming language.
+- [soruly/trace.moe](https://github.com/soruly/trace.moe) - Anime Scene Search by Image
 - [Flutterando/roadmap](https://github.com/Flutterando/roadmap) - Flutter roadmap pt-BR
 - [Kotlin/kotlin-examples](https://github.com/Kotlin/kotlin-examples) - Various examples for Kotlin
 - [brexhq/prompt-engineering](https://github.com/brexhq/prompt-engineering) - Tips and tricks for working with Large Language Models like OpenAI's GPT-4.
@@ -443,7 +445,6 @@
 - [cantalupo555/qbittorrent-backup-linux](https://github.com/cantalupo555/qbittorrent-backup-linux) - Script - Backup your qBitorrent client on linux and restore anytime.
 - [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
 - [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
-- [soruly/trace.moe](https://github.com/soruly/trace.moe) - Anime Scene Search by Image
 - [enieber/open-avd](https://github.com/enieber/open-avd) - cli to open emulator without open android studio
 - [asdf-vm/asdf-erlang](https://github.com/asdf-vm/asdf-erlang) - Erlang plugin for asdf version manager
 - [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
