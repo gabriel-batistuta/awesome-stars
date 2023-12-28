@@ -952,6 +952,7 @@
 
 ## others 
 
+- [toticavalcanti/django_ecommerce](https://github.com/toticavalcanti/django_ecommerce) - Criação de um e-commerce utilizando django
 - [jqlang/jq](https://github.com/jqlang/jq) - Command-line JSON processor
 - [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent) - qBittorrent BitTorrent client
 - [cantalupo555/qbittorrent-backup-linux](https://github.com/cantalupo555/qbittorrent-backup-linux) - Script - Backup your qBitorrent client on linux and restore anytime.
