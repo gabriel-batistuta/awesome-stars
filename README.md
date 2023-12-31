@@ -302,6 +302,7 @@
 
 ## Python 
 
+- [pythontester192/Upload-Movie-Clips-On-Youtube-Without-Copyright](https://github.com/pythontester192/Upload-Movie-Clips-On-Youtube-Without-Copyright) - Use This FREE PYTHON BOT to Upload Movie Clips On Youtube Without Copyright
 - [jeffshee/hidamari](https://github.com/jeffshee/hidamari) - Video wallpaper for Linux. Written in Python. 🐍
 - [emersonrafaels/extract_text_infos](https://github.com/emersonrafaels/extract_text_infos) - Microserviço para extração de informações (Nomes, CPFS, CNPJS, Datas, IMEI, Objetos (Bens)). Possui a funcionalidade de receber um valor a ser verificado e dado percentual de match esperado, validar s
 - [Znunu/EzMudae](https://github.com/Znunu/EzMudae) - Discord.py module for parsing messages and handling claim/roll resets from the Mudae bot
