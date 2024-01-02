@@ -696,6 +696,7 @@
 
 ## html 
 
+- [psf/requests-html](https://github.com/psf/requests-html) - Pythonic HTML Parsing for Humans™
 - [vgalin/html2image](https://github.com/vgalin/html2image) - A package acting as a wrapper around the headless mode of existing web browsers to generate images from URLs and from HTML+CSS strings or files.
 - [pdf2htmlEX/pdf2htmlEX](https://github.com/pdf2htmlEX/pdf2htmlEX) - Convert PDF to HTML without losing text or format.
 - [twbs/bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
@@ -718,6 +719,7 @@
 
 ## http 
 
+- [psf/requests-html](https://github.com/psf/requests-html) - Pythonic HTML Parsing for Humans™
 - [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, S
 - [psf/requests](https://github.com/psf/requests) - A simple, yet elegant, HTTP library.
 - [cirospaciari/socketify.py](https://github.com/cirospaciari/socketify.py) - Bringing Http/Https and WebSockets High Performance servers for PyPy3 and Python3
@@ -952,6 +954,8 @@
 
 ## others 
 
+- [tmux/tmux](https://github.com/tmux/tmux) - tmux source code
+- [huishun98/cron](https://github.com/huishun98/cron) - A simple Android app to create and manage cron jobs
 - [pythontester192/Upload-Movie-Clips-On-Youtube-Without-Copyright](https://github.com/pythontester192/Upload-Movie-Clips-On-Youtube-Without-Copyright) - Use This FREE PYTHON BOT to Upload Movie Clips On Youtube Without Copyright
 - [toticavalcanti/django_ecommerce](https://github.com/toticavalcanti/django_ecommerce) - Criação de um e-commerce utilizando django
 - [jqlang/jq](https://github.com/jqlang/jq) - Command-line JSON processor
@@ -1050,7 +1054,6 @@
 - [plantuml/plantuml](https://github.com/plantuml/plantuml) - Generate diagrams from textual description
 - [jsvine/pdfplumber](https://github.com/jsvine/pdfplumber) - Plumb a PDF for detailed information about each char, rectangle, line, et cetera — and easily extract text and tables.
 - [chaquo/chaquopy-matplotlib](https://github.com/chaquo/chaquopy-matplotlib) - Chaquopy Matplotlib example
-- [IGRohan/AnimeAPI](https://github.com/IGRohan/AnimeAPI) - API that scrapes Gogoanime and other sites to provide anime streaming and discovery data
 - [cosarara/red-alien](https://github.com/cosarara/red-alien) - A compiler/decompiler for the script system found in GBA pokemon games, to be used by ROM-Hackers. Formerly ASC.
 - [Sierraffinity/CrystalDust](https://github.com/Sierraffinity/CrystalDust) - A ROM hack of Pokémon Emerald that aims to recreate Pokémon Crystal on the GBA.
 - [maierfelix/pokemon-emerald-rom-hacking](https://github.com/maierfelix/pokemon-emerald-rom-hacking) - ROM hacking kit for Pokemon Emerald
@@ -1163,6 +1166,7 @@
 
 ## python 
 
+- [psf/requests-html](https://github.com/psf/requests-html) - Pythonic HTML Parsing for Humans™
 - [Znunu/EzMudae](https://github.com/Znunu/EzMudae) - Discord.py module for parsing messages and handling claim/roll resets from the Mudae bot
 - [vivinano/MudaeAutoBot](https://github.com/vivinano/MudaeAutoBot) - python bot that uses strictly the **Discord API** to Roll,Claim,and Kakera Snipe in Mudae. 5/10/21 project converted over to discum library
 - [adenosinetp10/Akinator-Bot](https://github.com/adenosinetp10/Akinator-Bot) - Telegram Bot for playing the Akinator guessing game.(Unofficial)
