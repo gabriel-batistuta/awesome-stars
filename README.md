@@ -168,6 +168,7 @@
 
 ## JavaScript 
 
+- [webtorrent/webtorrent-desktop](https://github.com/webtorrent/webtorrent-desktop) - ❤️ Streaming torrent app for Mac, Windows, and Linux
 - [toticavalcanti/django_ecommerce](https://github.com/toticavalcanti/django_ecommerce) - Criação de um e-commerce utilizando django
 - [WeryZebra-Yue/Talk-Walk](https://github.com/WeryZebra-Yue/Talk-Walk) - It's a social media web app named Talk-Walk where you can post photo, gif, video and share stories
 - [reek/anti-adblock-killer](https://github.com/reek/anti-adblock-killer) - Anti-Adblock Killer helps you keep your Ad-Blocker active, when you visit a website and it asks you to disable.
@@ -305,6 +306,7 @@
 
 ## Python 
 
+- [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [jsvine/waybackpack](https://github.com/jsvine/waybackpack) - Download the entire Wayback Machine archive for a given URL.
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [psf/requests-html](https://github.com/psf/requests-html) - Pythonic HTML Parsing for Humans™
@@ -434,6 +436,7 @@
 
 ## Rust 
 
+- [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
 - [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
 - [pop-os/pop](https://github.com/pop-os/pop) - A project for managing all Pop!_OS sources
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
