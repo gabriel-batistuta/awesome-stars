@@ -973,6 +973,7 @@
 
 ## others 
 
+- [KDE/krita](https://github.com/KDE/krita) - Krita is a free and open source cross-platform application that offers an end-to-end solution for creating digital art files from scratch built on the KDE and Qt frameworks.
 - [hartator/wayback-machine-downloader](https://github.com/hartator/wayback-machine-downloader) - Download an entire website from the Wayback Machine.
 - [jsvine/waybackpack](https://github.com/jsvine/waybackpack) - Download the entire Wayback Machine archive for a given URL.
 - [cescaa/SadSongsForSummer](https://github.com/cescaa/SadSongsForSummer) - I created a webpage dedicated to my favourite song of 2022 (and my sad summer).
