@@ -972,6 +972,10 @@
 
 ## others 
 
+- [RekhuGopal/PythonHacks](https://github.com/RekhuGopal/PythonHacks) - This repo contains some solved python hacker codes
+- [Adastra-thw/pyHacks](https://github.com/Adastra-thw/pyHacks) - Python Scripts for Hacking .
+- [CyberSecurityUP/Awesome-Malware-and-Reverse-Engineering](https://github.com/CyberSecurityUP/Awesome-Malware-and-Reverse-Engineering) - 
+- [Dump-GUY/Malware-analysis-and-Reverse-engineering](https://github.com/Dump-GUY/Malware-analysis-and-Reverse-engineering) - Some of my publicly available Malware analysis and Reverse engineering.
 - [RapidAPI/DevRel-Examples-External](https://github.com/RapidAPI/DevRel-Examples-External) - RapidAPI Examples by external developers — curated as is.
 - [KDE/krita](https://github.com/KDE/krita) - Krita is a free and open source cross-platform application that offers an end-to-end solution for creating digital art files from scratch built on the KDE and Qt frameworks.
 - [hartator/wayback-machine-downloader](https://github.com/hartator/wayback-machine-downloader) - Download an entire website from the Wayback Machine.
