@@ -84,6 +84,7 @@
 
 ## C++ 
 
+- [Luca1991/NDSFactory](https://github.com/Luca1991/NDSFactory) - Unpack & Repack Nintendo DS Roms (.nds)
 - [KDE/krita](https://github.com/KDE/krita) - Krita is a free and open source cross-platform application that offers an end-to-end solution for creating digital art files from scratch built on the KDE and Qt frameworks.
 - [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent) - qBittorrent BitTorrent client
 - [GloriousEggroll/proton-ge-custom](https://github.com/GloriousEggroll/proton-ge-custom) - Compatibility tool for Steam Play based on Wine and additional components
