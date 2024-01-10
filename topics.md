@@ -1330,6 +1330,7 @@
 
 ## reverse-engineering 
 
+- [Luca1991/NDSFactory](https://github.com/Luca1991/NDSFactory) - Unpack & Repack Nintendo DS Roms (.nds)
 - [iBotPeaches/Apktool](https://github.com/iBotPeaches/Apktool) - A tool for reverse engineering Android apk files
 - [pret/pokeemerald](https://github.com/pret/pokeemerald) - Decompilation of Pokémon Emerald
 - [scizz/darkfire](https://github.com/scizz/darkfire) - GBA ROM hack of Pokémon Emerald, built with the pokeemerald decompilation project and other feature branches.
