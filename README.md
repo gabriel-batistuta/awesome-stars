@@ -170,6 +170,7 @@
 
 ## JavaScript 
 
+- [sonnylazuardi/reactriot2017-dotamania](https://github.com/sonnylazuardi/reactriot2017-dotamania) - 🌐 Web scraping made easy with the visual 🗺  mind map editor to JSON
 - [RapidAPI/DevRel-Examples-External](https://github.com/RapidAPI/DevRel-Examples-External) - RapidAPI Examples by external developers — curated as is.
 - [webtorrent/webtorrent-desktop](https://github.com/webtorrent/webtorrent-desktop) - ❤️ Streaming torrent app for Mac, Windows, and Linux
 - [toticavalcanti/django_ecommerce](https://github.com/toticavalcanti/django_ecommerce) - Criação de um e-commerce utilizando django
@@ -227,6 +228,7 @@
 
 ## Kotlin 
 
+- [tachiyomiorg/extensions](https://github.com/tachiyomiorg/extensions) - Source extensions for the Tachiyomi app.
 - [KotatsuApp/Kotatsu](https://github.com/KotatsuApp/Kotatsu) - Manga reader for Android
 - [fork-maintainers/iceraven-browser](https://github.com/fork-maintainers/iceraven-browser) - Iceraven Browser
 - [tasomaniac/OpenLinkWith](https://github.com/tasomaniac/OpenLinkWith) - Open the current webpage you have in another app. Magic! 🔮
@@ -310,6 +312,9 @@
 
 ## Python 
 
+- [fake-useragent/fake-useragent](https://github.com/fake-useragent/fake-useragent) - Up-to-date simple useragent faker with real world database
+- [react-native-skia/react-native-skia](https://github.com/react-native-skia/react-native-skia) - Cross platform React Native solution to draw graphics based on Skia
+- [Cosmicoppai/LiSA](https://github.com/Cosmicoppai/LiSA) - LiSA (Native App to stream/read and download Anime & Manga ❤️ )
 - [0xAX/linux-insides](https://github.com/0xAX/linux-insides) - A little bit about a linux kernel
 - [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - 🐧 A list of awesome Linux softwares
 - [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
