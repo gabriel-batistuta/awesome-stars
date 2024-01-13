@@ -988,6 +988,8 @@
 
 ## others 
 
+- [zacharee/SamloaderKotlin](https://github.com/zacharee/SamloaderKotlin) - 
+- [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) - The Magic Mask for Android
 - [danielmiessler/SecLists](https://github.com/danielmiessler/SecLists) - SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensi
 - [react-native-skia/react-native-skia](https://github.com/react-native-skia/react-native-skia) - Cross platform React Native solution to draw graphics based on Skia
 - [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
