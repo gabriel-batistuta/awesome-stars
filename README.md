@@ -172,6 +172,7 @@
 
 ## JavaScript 
 
+- [kleampa/not-paid](https://github.com/kleampa/not-paid) - Client did not pay? Add opacity to the body tag and decrease it every day until their site completely fades away
 - [sonnylazuardi/reactriot2017-dotamania](https://github.com/sonnylazuardi/reactriot2017-dotamania) - 🌐 Web scraping made easy with the visual 🗺  mind map editor to JSON
 - [RapidAPI/DevRel-Examples-External](https://github.com/RapidAPI/DevRel-Examples-External) - RapidAPI Examples by external developers — curated as is.
 - [webtorrent/webtorrent-desktop](https://github.com/webtorrent/webtorrent-desktop) - ❤️ Streaming torrent app for Mac, Windows, and Linux
@@ -444,6 +445,7 @@
 
 ## Ruby 
 
+- [github/choosealicense.com](https://github.com/github/choosealicense.com) - A site to provide non-judgmental guidance on choosing a license for your open source project
 - [hartator/wayback-machine-downloader](https://github.com/hartator/wayback-machine-downloader) - Download an entire website from the Wayback Machine.
 - [hotwired/hotwire-rails](https://github.com/hotwired/hotwire-rails) - Use Hotwire in your Ruby on Rails app
 - [morinoko/agile-dev-rails6](https://github.com/morinoko/agile-dev-rails6) - Based on Agile Web Development With Rails 6
