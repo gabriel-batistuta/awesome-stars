@@ -73,7 +73,7 @@
 - [pygame/pygame](https://github.com/pygame/pygame) - 🐍🎮 pygame (the library) is a Free and Open Source python programming language library for making multimedia applications like games built on top of the excellent SDL library. C, Python, Native, OpenGL
 - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
 - [pret/pokeemerald](https://github.com/pret/pokeemerald) - Decompilation of Pokémon Emerald
-- [scizz/darkfire](https://github.com/scizz/darkfire) - GBA ROM hack of Pokémon Emerald, built with the pokeemerald decompilation project and other feature branches.
+- [scizz/darkfire](https://github.com/scizz/darkfire) - GBA ROM hack of Pokémon Emerald with a brand new region and a darker Pokémon storyline. Built with the pokeemerald decompilation project.
 - [Sierraffinity/CrystalDust](https://github.com/Sierraffinity/CrystalDust) - A ROM hack of Pokémon Emerald that aims to recreate Pokémon Crystal on the GBA.
 - [GNOME/gimp](https://github.com/GNOME/gimp) - Read-only mirror of https://gitlab.gnome.org/GNOME/gimp
 - [acidanthera/OpenCorePkg](https://github.com/acidanthera/OpenCorePkg) - OpenCore bootloader
@@ -163,6 +163,7 @@
 
 ## Java 
 
+- [brunodev85/winlator](https://github.com/brunodev85/winlator) - Android application for running Windows applications with Wine and Box86/Box64
 - [zaproxy/zaproxy](https://github.com/zaproxy/zaproxy) - The ZAP core project
 - [huishun98/cron](https://github.com/huishun98/cron) - A simple Android app to create and manage cron jobs
 - [iBotPeaches/Apktool](https://github.com/iBotPeaches/Apktool) - A tool for reverse engineering Android apk files
@@ -326,6 +327,10 @@
 
 ## Python 
 
+- [microsoft/playwright-python](https://github.com/microsoft/playwright-python) - Python version of the Playwright testing and automation library.
+- [hansalemaos/charchef](https://github.com/hansalemaos/charchef) - 3 functions to normalize strings, repair bad encoding, replace non-printable characters
+- [binux/pyspider](https://github.com/binux/pyspider) - A Powerful Spider(Web Crawler) System in Python.
+- [milahu/aiohttp_chromium](https://github.com/milahu/aiohttp_chromium) - aiohttp-like interface to chromium. based on selenium_driverless to bypass cloudflare
 - [pyinstaller/pyinstaller](https://github.com/pyinstaller/pyinstaller) - Freeze (package) Python programs into stand-alone executables
 - [ListenNotes/podcast-api-python](https://github.com/ListenNotes/podcast-api-python) - The Official Python library for the Listen Notes Podcast API
 - [pyppeteer/pyppeteer](https://github.com/pyppeteer/pyppeteer) - Headless chrome/chromium automation library (unofficial port of puppeteer)
@@ -445,7 +450,7 @@
 - [thisbejim/Pyrebase](https://github.com/thisbejim/Pyrebase) - A simple python wrapper for the Firebase API.
 - [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
 - [cirospaciari/socketify.py](https://github.com/cirospaciari/socketify.py) - Bringing Http/Https and WebSockets High Performance servers for PyPy3 and Python3
-- [TheSunBoys/feed_uern](https://github.com/TheSunBoys/feed_uern) - Um canal de noticias da UERN no telegram
+- [TheSunBoys/uern_news](https://github.com/TheSunBoys/uern_news) - Um canal de noticias da UERN no telegram
 - [Y-Matos/GoldenMangaScraper](https://github.com/Y-Matos/GoldenMangaScraper) - 
 - [walissonsilva/web-scraping-python](https://github.com/walissonsilva/web-scraping-python) - 🌐 Repositório com o conteúdo (slides, exemplos, códigos) da série de vídeos no YouTube sobre Web Scraping com Python.
 - [B-Salinas/YGO-Duel-Academy-Deck-Builder](https://github.com/B-Salinas/YGO-Duel-Academy-Deck-Builder) - YGO Duel Academy Deck Builder is a clone of Yu-Gi-Oh! GX: Duel Academy's in-game Deck Builder for the Gameboy Advanced.
@@ -487,6 +492,7 @@
 
 ## Shell 
 
+- [zerobyte-id-bak/Bashter](https://github.com/zerobyte-id-bak/Bashter) - Web Crawler, Scanner, and Analyzer Framework (Shell-Script based)
 - [gliderlabs/docker-alpine](https://github.com/gliderlabs/docker-alpine) - Alpine Linux Docker image. Win at minimalism!
 - [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
 - [cantalupo555/qbittorrent-backup-linux](https://github.com/cantalupo555/qbittorrent-backup-linux) - Script - Backup your qBitorrent client on linux and restore anytime.
