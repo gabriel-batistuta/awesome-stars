@@ -1021,6 +1021,9 @@
 
 ## others 
 
+- [rjricken/monkey-moore](https://github.com/rjricken/monkey-moore) - Relative searcher tool based on the Boyer-Moore string search algorithm
+- [GNOME/ghex](https://github.com/GNOME/ghex) - Read-only mirror of https://gitlab.gnome.org/GNOME/ghex
+- [pret/ds_disassembly_tools](https://github.com/pret/ds_disassembly_tools) - A small collection of scripts designed to assist with the initial setup of a DS disassembly project
 - [zerobyte-id-bak/Bashter](https://github.com/zerobyte-id-bak/Bashter) - Web Crawler, Scanner, and Analyzer Framework (Shell-Script based)
 - [milahu/aiohttp_chromium](https://github.com/milahu/aiohttp_chromium) - aiohttp-like interface to chromium. based on selenium_driverless to bypass cloudflare
 - [brunodev85/winlator](https://github.com/brunodev85/winlator) - Android application for running Windows applications with Wine and Box86/Box64
