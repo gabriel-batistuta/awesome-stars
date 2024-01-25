@@ -56,6 +56,7 @@
 
 ## C 
 
+- [GNOME/ghex](https://github.com/GNOME/ghex) - Read-only mirror of https://gitlab.gnome.org/GNOME/ghex
 - [torproject/tor](https://github.com/torproject/tor) - unofficial git repo -- report bugs/issues/pull requests on https://gitlab.torproject.org/ --
 - [koukunwlk/42sp-Push_swap](https://github.com/koukunwlk/42sp-Push_swap) - Because Swap_push isn’t as natural
 - [wireshark/wireshark](https://github.com/wireshark/wireshark) - Read-only mirror of Wireshark's Git repository at https://gitlab.com/wireshark/wireshark. ⚠️ GitHub won't let us disable pull requests. ⚠️ THEY WILL BE IGNORED HERE ⚠️ Upload them at GitLab instead.
@@ -89,6 +90,7 @@
 
 ## C++ 
 
+- [rjricken/monkey-moore](https://github.com/rjricken/monkey-moore) - Relative searcher tool based on the Boyer-Moore string search algorithm
 - [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) - The Magic Mask for Android
 - [Luca1991/NDSFactory](https://github.com/Luca1991/NDSFactory) - Unpack & Repack Nintendo DS Roms (.nds)
 - [KDE/krita](https://github.com/KDE/krita) - Krita is a free and open source cross-platform application that offers an end-to-end solution for creating digital art files from scratch built on the KDE and Qt frameworks.
@@ -327,6 +329,7 @@
 
 ## Python 
 
+- [pret/ds_disassembly_tools](https://github.com/pret/ds_disassembly_tools) - A small collection of scripts designed to assist with the initial setup of a DS disassembly project
 - [microsoft/playwright-python](https://github.com/microsoft/playwright-python) - Python version of the Playwright testing and automation library.
 - [hansalemaos/charchef](https://github.com/hansalemaos/charchef) - 3 functions to normalize strings, repair bad encoding, replace non-printable characters
 - [binux/pyspider](https://github.com/binux/pyspider) - A Powerful Spider(Web Crawler) System in Python.
