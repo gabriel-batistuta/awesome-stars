@@ -544,6 +544,7 @@
 
 ## flutter 
 
+- [displaykit/responsive_styles](https://github.com/displaykit/responsive_styles) - 📐 It's a set of common utility strategies to work with responsive styles with Flutter and CSS in JS
 - [Solido/awesome-flutter](https://github.com/Solido/awesome-flutter) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
 - [Suwayomi/Tachidesk-Sorayomi](https://github.com/Suwayomi/Tachidesk-Sorayomi) - A free and open source manga reader app to read manga from a Tachidesk-Server instance.
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
@@ -938,6 +939,7 @@
 
 ## mobile 
 
+- [displaykit/responsive_styles](https://github.com/displaykit/responsive_styles) - 📐 It's a set of common utility strategies to work with responsive styles with Flutter and CSS in JS
 - [jondot/awesome-react-native](https://github.com/jondot/awesome-react-native) - Awesome React Native components, news, tools, and learning material!
 - [Solido/awesome-flutter](https://github.com/Solido/awesome-flutter) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
@@ -1542,6 +1544,7 @@
 
 ## web 
 
+- [displaykit/responsive_styles](https://github.com/displaykit/responsive_styles) - 📐 It's a set of common utility strategies to work with responsive styles with Flutter and CSS in JS
 - [OJ/gobuster](https://github.com/OJ/gobuster) - Directory/File, DNS and VHost busting tool written in Go
 - [sonnylazuardi/reactriot2017-dotamania](https://github.com/sonnylazuardi/reactriot2017-dotamania) - 🌐 Web scraping made easy with the visual 🗺  mind map editor to JSON
 - [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
