@@ -1022,6 +1022,7 @@
 
 ## others 
 
+- [keiyoushi/extensions](https://github.com/keiyoushi/extensions) - Source extensions for the Mihon/Tachiyomi app.
 - [rjricken/monkey-moore](https://github.com/rjricken/monkey-moore) - Relative searcher tool based on the Boyer-Moore string search algorithm
 - [GNOME/ghex](https://github.com/GNOME/ghex) - Read-only mirror of https://gitlab.gnome.org/GNOME/ghex
 - [pret/ds_disassembly_tools](https://github.com/pret/ds_disassembly_tools) - A small collection of scripts designed to assist with the initial setup of a DS disassembly project
