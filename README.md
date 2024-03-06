@@ -57,7 +57,6 @@
 ## C 
 
 - [GNOME/ghex](https://github.com/GNOME/ghex) - Read-only mirror of https://gitlab.gnome.org/GNOME/ghex
-- [torproject/tor](https://github.com/torproject/tor) - unofficial git repo -- report bugs/issues/pull requests on https://gitlab.torproject.org/ --
 - [koukunwlk/42sp-Push_swap](https://github.com/koukunwlk/42sp-Push_swap) - Because Swap_push isn’t as natural
 - [wireshark/wireshark](https://github.com/wireshark/wireshark) - Read-only mirror of Wireshark's Git repository at https://gitlab.com/wireshark/wireshark. ⚠️ GitHub won't let us disable pull requests. ⚠️ THEY WILL BE IGNORED HERE ⚠️ Upload them at GitLab instead.
 - [the-tcpdump-group/libpcap](https://github.com/the-tcpdump-group/libpcap) - the LIBpcap interface to various kernel packet capture mechanism
@@ -265,6 +264,7 @@
 
 - [moonlight-stream/moonlight-docs](https://github.com/moonlight-stream/moonlight-docs) - Moonlight Documentation
 - [keiyoushi/extensions](https://github.com/keiyoushi/extensions) - Source extensions for the Mihon/Tachiyomi app.
+- [torproject/tor](https://github.com/torproject/tor) - unofficial git repo -- report bugs/issues/pull requests on https://gitlab.torproject.org/ --
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 - [CyberSecurityUP/Awesome-Malware-and-Reverse-Engineering](https://github.com/CyberSecurityUP/Awesome-Malware-and-Reverse-Engineering) - 
 - [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
