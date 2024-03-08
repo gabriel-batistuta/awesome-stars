@@ -56,6 +56,7 @@
 
 ## C 
 
+- [Genymobile/genymotion-kernel](https://github.com/Genymobile/genymotion-kernel) - 
 - [GNOME/ghex](https://github.com/GNOME/ghex) - Read-only mirror of https://gitlab.gnome.org/GNOME/ghex
 - [koukunwlk/42sp-Push_swap](https://github.com/koukunwlk/42sp-Push_swap) - Because Swap_push isn’t as natural
 - [wireshark/wireshark](https://github.com/wireshark/wireshark) - Read-only mirror of Wireshark's Git repository at https://gitlab.com/wireshark/wireshark. ⚠️ GitHub won't let us disable pull requests. ⚠️ THEY WILL BE IGNORED HERE ⚠️ Upload them at GitLab instead.
@@ -89,6 +90,7 @@
 
 ## C++ 
 
+- [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine) - Self-hosted game stream host for Moonlight.
 - [ValveSoftware/Proton](https://github.com/ValveSoftware/Proton) - Compatibility tool for Steam Play based on Wine and additional components
 - [rjricken/monkey-moore](https://github.com/rjricken/monkey-moore) - Relative searcher tool based on the Boyer-Moore string search algorithm
 - [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) - The Magic Mask for Android
@@ -262,6 +264,7 @@
 
 ## Others 
 
+- [ValveSoftware/steam-for-linux](https://github.com/ValveSoftware/steam-for-linux) - Issue tracking for the Steam for Linux beta client
 - [moonlight-stream/moonlight-docs](https://github.com/moonlight-stream/moonlight-docs) - Moonlight Documentation
 - [keiyoushi/extensions](https://github.com/keiyoushi/extensions) - Source extensions for the Mihon/Tachiyomi app.
 - [torproject/tor](https://github.com/torproject/tor) - unofficial git repo -- report bugs/issues/pull requests on https://gitlab.torproject.org/ --
