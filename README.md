@@ -56,6 +56,7 @@
 
 ## C 
 
+- [PeterTh/dsfix](https://github.com/PeterTh/dsfix) - Interceptor dll for the improvement of Dark Souls PC
 - [Genymobile/genymotion-kernel](https://github.com/Genymobile/genymotion-kernel) - 
 - [GNOME/ghex](https://github.com/GNOME/ghex) - Read-only mirror of https://gitlab.gnome.org/GNOME/ghex
 - [koukunwlk/42sp-Push_swap](https://github.com/koukunwlk/42sp-Push_swap) - Because Swap_push isn’t as natural
@@ -90,6 +91,7 @@
 
 ## C++ 
 
+- [Paulo-D2000/FUKompiler](https://github.com/Paulo-D2000/FUKompiler) - FUKompiler is a basic C compiler written in C++
 - [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine) - Self-hosted game stream host for Moonlight.
 - [ValveSoftware/Proton](https://github.com/ValveSoftware/Proton) - Compatibility tool for Steam Play based on Wine and additional components
 - [rjricken/monkey-moore](https://github.com/rjricken/monkey-moore) - Relative searcher tool based on the Boyer-Moore string search algorithm
