@@ -1042,6 +1042,8 @@
 
 ## others 
 
+- [PeterTh/dsfix](https://github.com/PeterTh/dsfix) - Interceptor dll for the improvement of Dark Souls PC
+- [Paulo-D2000/FUKompiler](https://github.com/Paulo-D2000/FUKompiler) - FUKompiler is a basic C compiler written in C++
 - [Genymobile/genymotion-kernel](https://github.com/Genymobile/genymotion-kernel) - 
 - [ValveSoftware/Proton](https://github.com/ValveSoftware/Proton) - Compatibility tool for Steam Play based on Wine and additional components
 - [moonlight-stream/moonlight-docs](https://github.com/moonlight-stream/moonlight-docs) - Moonlight Documentation
