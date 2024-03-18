@@ -460,7 +460,6 @@
 - [grupyrn/jararaca](https://github.com/grupyrn/jararaca) - GruPy-RN Event and Check-in System
 - [firebase/firebase-admin-python](https://github.com/firebase/firebase-admin-python) - Firebase Admin Python SDK
 - [thisbejim/Pyrebase](https://github.com/thisbejim/Pyrebase) - A simple python wrapper for the Firebase API.
-- [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
 - [cirospaciari/socketify.py](https://github.com/cirospaciari/socketify.py) - Bringing Http/Https and WebSockets High Performance servers for PyPy3 and Python3
 - [TheSunBoys/uern_news](https://github.com/TheSunBoys/uern_news) - Um canal de noticias da UERN no telegram
 - [Y-Matos/GoldenMangaScraper](https://github.com/Y-Matos/GoldenMangaScraper) - 
@@ -491,6 +490,7 @@
 - [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
 - [pop-os/pop](https://github.com/pop-os/pop) - A project for managing all Pop!_OS sources
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
+- [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
 
 ## Scala 
 
