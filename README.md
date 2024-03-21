@@ -158,7 +158,6 @@
 - [vinerz/websitedocaralho](https://github.com/vinerz/websitedocaralho) - Um website do caralho.
 - [TheSunBoys/calculadora-de-media-uern-js](https://github.com/TheSunBoys/calculadora-de-media-uern-js) - Site para calcular notas na UERN
 - [pdf2htmlEX/pdf2htmlEX](https://github.com/pdf2htmlEX/pdf2htmlEX) - Convert PDF to HTML without losing text or format.
-- [docker/docs](https://github.com/docker/docs) - Source repo for Docker's Documentation
 - [UniversalDependencies/docs](https://github.com/UniversalDependencies/docs) - Universal Dependencies online documentation
 - [filipedeschamps/tabnews.com.br](https://github.com/filipedeschamps/tabnews.com.br) - Conteúdos para quem trabalha com Programação e Tecnologia.
 - [720kb/angular-datepicker](https://github.com/720kb/angular-datepicker) - Angularjs datepicker module, generate a datepicker on your input element -  https://720kb.github.io/angular-datepicker
@@ -266,6 +265,7 @@
 
 ## Markdown 
 
+- [docker/docs](https://github.com/docker/docs) - Source repo for Docker's Documentation
 - [microsoft/vscode-docs](https://github.com/microsoft/vscode-docs) - Public documentation for Visual Studio Code
 
 ## Others 
