@@ -118,6 +118,7 @@
 - [npm](#npm)
 - [open-source](#open-source)
 - [opencv](#opencv)
+- [osint](#osint)
 - [others](#others)
 - [p2p](#p2p)
 - [package-manager](#package-manager)
@@ -1042,6 +1043,10 @@
 
 - [soruly/trace.moe](https://github.com/soruly/trace.moe) - Anime Scene Search by Image
 
+## osint 
+
+- [megadose/holehe](https://github.com/megadose/holehe) - holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.
+
 ## others 
 
 - [nakaharan5/consulta-clima](https://github.com/nakaharan5/consulta-clima) - 
@@ -1294,6 +1299,7 @@
 
 ## python 
 
+- [megadose/holehe](https://github.com/megadose/holehe) - holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.
 - [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine) - Self-hosted game stream host for Moonlight.
 - [IAmPara0x/Yuno](https://github.com/IAmPara0x/Yuno) - Yuno is context based search engine for anime.
 - [hansalemaos/charchef](https://github.com/hansalemaos/charchef) - 3 functions to normalize strings, repair bad encoding, replace non-printable characters
@@ -1540,6 +1546,7 @@
 
 ## twitter 
 
+- [megadose/holehe](https://github.com/megadose/holehe) - holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.
 - [GorvGoyl/Clone-Wars](https://github.com/GorvGoyl/Clone-Wars) - 100+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars.
 
 ## typescript 
