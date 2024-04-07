@@ -1054,6 +1054,7 @@
 
 ## others 
 
+- [batocera-linux/batocera.linux](https://github.com/batocera-linux/batocera.linux) - batocera.linux
 - [EnergyNeumann/Bot-Que-Pula-Os-Episodios-de-One-Piece](https://github.com/EnergyNeumann/Bot-Que-Pula-Os-Episodios-de-One-Piece) - Você já pensou em pular os episódios de One Piece, mas por estar deitado e relaxado, ficou com preguiça de levantar e pular? Aqui está a solução! Esse bot irá pular a quantidade de episódios que você 
 - [nakaharan5/consulta-clima](https://github.com/nakaharan5/consulta-clima) - 
 - [AndrehRicardo/Bleach-Heat-the-Soul-7-traducao-PT-BR](https://github.com/AndrehRicardo/Bleach-Heat-the-Soul-7-traducao-PT-BR) - Uma tradução feita por mim do jogo de Playstation Portable (PSP) em Português do Brasil.
