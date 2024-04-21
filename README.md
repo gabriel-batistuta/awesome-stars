@@ -444,7 +444,7 @@
 - [googleapis/google-api-python-client](https://github.com/googleapis/google-api-python-client) - 🐍 The official Python client library for Google's discovery based APIs.
 - [google/python-fire](https://github.com/google/python-fire) - Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.
 - [google/corpuscrawler](https://github.com/google/corpuscrawler) - Crawler for linguistic corpora
-- [twitterdev/getting-started-with-the-twitter-api-v2-for-academic-research](https://github.com/twitterdev/getting-started-with-the-twitter-api-v2-for-academic-research) - A course on getting started with the Twitter API v2 for academic research
+- [xdevplatform/getting-started-with-the-twitter-api-v2-for-academic-research](https://github.com/xdevplatform/getting-started-with-the-twitter-api-v2-for-academic-research) - A course on getting started with the Twitter API v2 for academic research
 - [psf/requests](https://github.com/psf/requests) - A simple, yet elegant, HTTP library.
 - [Y-Matos/MangaLivre-Downloader](https://github.com/Y-Matos/MangaLivre-Downloader) - API e Downloader para o site mangalivre.net
 - [ryukinix/mal](https://github.com/ryukinix/mal) - MAL: A MyAnimeList Command Line Interface [BROKEN: BLAME MyAnimeList]
