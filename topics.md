@@ -1195,7 +1195,7 @@
 - [elixir-lang/elixir](https://github.com/elixir-lang/elixir) - Elixir is a dynamic, functional language for building scalable and maintainable applications
 - [Btdigg-Org/dhtcrawler2](https://github.com/Btdigg-Org/dhtcrawler2) - dhtcrawler is a DHT crawler written in erlang. It can join a DHT network and crawl many P2P torrents. The program save all torrent info into database and provide an http interface to search a torrent 
 - [btdig/dhtcrawler2](https://github.com/btdig/dhtcrawler2) - dhtcrawler is a DHT crawler written in erlang. It can join a DHT network and crawl many P2P torrents. The program save all torrent info into database and provide an http interface to search a torrent 
-- [twitterdev/getting-started-with-the-twitter-api-v2-for-academic-research](https://github.com/twitterdev/getting-started-with-the-twitter-api-v2-for-academic-research) - A course on getting started with the Twitter API v2 for academic research
+- [xdevplatform/getting-started-with-the-twitter-api-v2-for-academic-research](https://github.com/xdevplatform/getting-started-with-the-twitter-api-v2-for-academic-research) - A course on getting started with the Twitter API v2 for academic research
 - [Y-Matos/MangaLivre-Downloader](https://github.com/Y-Matos/MangaLivre-Downloader) - API e Downloader para o site mangalivre.net
 - [JFryy/MAL-API-Client](https://github.com/JFryy/MAL-API-Client) - An third party object oriented python client library for My Anime List's newly released official REST API
 - [domechn/jojogif](https://github.com/domechn/jojogif) - Convert video to GIF with Jojo's end
