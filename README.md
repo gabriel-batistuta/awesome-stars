@@ -92,6 +92,7 @@
 
 ## C# # 
 
+- [gibbed/SteamAchievementManager](https://github.com/gibbed/SteamAchievementManager) - A manager for game achievements in Steam.
 - [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
 - [pixeltris/YgoMaster](https://github.com/pixeltris/YgoMaster) - Offline Yu-Gi-Oh! Master Duel
 
@@ -271,6 +272,7 @@
 
 ## Others 
 
+- [nakaharan5/polyglopet-japones](https://github.com/nakaharan5/polyglopet-japones) - Documentação de uma linguagem de programação em Japonês
 - [jincheng9/markdown_supported_languages](https://github.com/jincheng9/markdown_supported_languages) - Markdown supported languages for syntax highlighting
 - [naturepoker/offline_dkms_packages](https://github.com/naturepoker/offline_dkms_packages) - Selection of packages for offline installation of dkms (along with build-essential, make, gcc and etc) on Ubuntu LTS 22.04. Tested on HP Z280
 - [AndrehRicardo/Bleach-Heat-the-Soul-7-traducao-PT-BR](https://github.com/AndrehRicardo/Bleach-Heat-the-Soul-7-traducao-PT-BR) - Uma tradução feita por mim do jogo de Playstation Portable (PSP) em Português do Brasil.
@@ -344,6 +346,8 @@
 
 ## Python 
 
+- [Animenosekai/translate](https://github.com/Animenosekai/translate) - A module grouping multiple translation APIs
+- [josephmisiti/hadoop-examples](https://github.com/josephmisiti/hadoop-examples) - You wanna learn how to use Hadoop, start here!
 - [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - 📊 Python's all-in-one framework for web crawling, scraping, testing, and reporting. Supports pytest. UC Mode provides stealth. Includes many tools.
 - [luxuriant777/Handwritten-Text-Generator](https://github.com/luxuriant777/Handwritten-Text-Generator) - This project offers a simple and intuitive interface for users to input text and generate images that showcase the text in a handwritten style. The generator supports several stylistic modifications i
 - [batocera-linux/batocera.linux](https://github.com/batocera-linux/batocera.linux) - batocera.linux
