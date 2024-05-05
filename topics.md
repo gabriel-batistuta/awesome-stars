@@ -880,6 +880,7 @@
 
 ## language 
 
+- [Animenosekai/translate](https://github.com/Animenosekai/translate) - A module grouping multiple translation APIs
 - [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 - [ruby/ruby](https://github.com/ruby/ruby) - The Ruby Programming Language
 - [golang/go](https://github.com/golang/go) - The Go programming language
@@ -1063,6 +1064,9 @@
 
 ## others 
 
+- [nakaharan5/polyglopet-japones](https://github.com/nakaharan5/polyglopet-japones) - Documentação de uma linguagem de programação em Japonês
+- [josephmisiti/hadoop-examples](https://github.com/josephmisiti/hadoop-examples) - You wanna learn how to use Hadoop, start here!
+- [gibbed/SteamAchievementManager](https://github.com/gibbed/SteamAchievementManager) - A manager for game achievements in Steam.
 - [jincheng9/markdown_supported_languages](https://github.com/jincheng9/markdown_supported_languages) - Markdown supported languages for syntax highlighting
 - [adam-maj/tiny-gpu](https://github.com/adam-maj/tiny-gpu) - A minimal GPU design in Verilog to learn how GPUs work from the ground up
 - [dlundqvist/xone](https://github.com/dlundqvist/xone) - Linux kernel driver for Xbox One and Xbox Series X|S accessories
@@ -1319,6 +1323,7 @@
 
 ## python 
 
+- [Animenosekai/translate](https://github.com/Animenosekai/translate) - A module grouping multiple translation APIs
 - [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - 📊 Python's all-in-one framework for web crawling, scraping, testing, and reporting. Supports pytest. UC Mode provides stealth. Includes many tools.
 - [luxuriant777/Handwritten-Text-Generator](https://github.com/luxuriant777/Handwritten-Text-Generator) - This project offers a simple and intuitive interface for users to input text and generate images that showcase the text in a handwritten style. The generator supports several stylistic modifications i
 - [megadose/holehe](https://github.com/megadose/holehe) - holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.
