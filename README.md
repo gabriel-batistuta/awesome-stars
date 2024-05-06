@@ -247,6 +247,7 @@
 
 ## Kotlin 
 
+- [keiyoushi/extensions-source](https://github.com/keiyoushi/extensions-source) - Source code of extensions for Tachiyomi/Mihon and variants.
 - [mihonapp/mihon](https://github.com/mihonapp/mihon) - Free and open source manga reader for Android
 - [zacharee/SamloaderKotlin](https://github.com/zacharee/SamloaderKotlin) - 
 - [tachiyomiorg/extensions](https://github.com/tachiyomiorg/extensions) - Source extensions for the Tachiyomi app.
