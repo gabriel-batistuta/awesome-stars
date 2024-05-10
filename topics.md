@@ -1125,7 +1125,6 @@
 - [MuhammadKhizerJaved/Insecure-Firebase-Exploit](https://github.com/MuhammadKhizerJaved/Insecure-Firebase-Exploit) - A simple Python Exploit to Write Data to Insecure/vulnerable firebase databases! Commonly found inside Mobile Apps. If the owner of the app have set the security rules as true for both "read" & "write
 - [andrfranklin/sigaa-tasks](https://github.com/andrfranklin/sigaa-tasks) - API robot to get the tasks from UFRN sigaa system.
 - [fork-maintainers/iceraven-browser](https://github.com/fork-maintainers/iceraven-browser) - Iceraven Browser
-- [morinoko/agile-dev-rails6](https://github.com/morinoko/agile-dev-rails6) - Based on Agile Web Development With Rails 6
 - [aristidesneto/modelo-contratos](https://github.com/aristidesneto/modelo-contratos) - Contratos de sites, prestação de serviços, etc
 - [vinerz/websitedocaralho](https://github.com/vinerz/websitedocaralho) - Um website do caralho.
 - [nakaharan5/CALCULADORA-DE-IMC](https://github.com/nakaharan5/CALCULADORA-DE-IMC) - Calculadora de IMC responsiva
