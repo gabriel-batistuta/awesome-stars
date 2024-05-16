@@ -195,6 +195,7 @@
 
 ## android 
 
+- [tachiyomiorg/extensions-lib](https://github.com/tachiyomiorg/extensions-lib) - Stubs used for extensions in Tachiyomi 0.x.
 - [tachiyomiorg/extensions](https://github.com/tachiyomiorg/extensions) - Source extensions for the Tachiyomi app.
 - [KotatsuApp/Kotatsu](https://github.com/KotatsuApp/Kotatsu) - Manga reader for Android
 - [LNReader/lnreader](https://github.com/LNReader/lnreader) - Light novel reader for Android.
@@ -885,6 +886,7 @@
 
 ## kotlin 
 
+- [tachiyomiorg/extensions-lib](https://github.com/tachiyomiorg/extensions-lib) - Stubs used for extensions in Tachiyomi 0.x.
 - [tachiyomiorg/extensions](https://github.com/tachiyomiorg/extensions) - Source extensions for the Tachiyomi app.
 - [Kotlin/kotlin-examples](https://github.com/Kotlin/kotlin-examples) - Various examples for Kotlin
 - [Suwayomi/Suwayomi-Server](https://github.com/Suwayomi/Suwayomi-Server) - A rewrite of Tachiyomi for the Desktop
@@ -1086,6 +1088,7 @@
 
 ## others 
 
+- [joao-victor-costa-gomes/Projeto_Framework](https://github.com/joao-victor-costa-gomes/Projeto_Framework) - Repositório para o desenvolvimento de um framework web python com algoritmos de redução de dimensionalidade
 - [Gabriel0598/BEES-Breweries-Case](https://github.com/Gabriel0598/BEES-Breweries-Case) - Objective: The goal of this test is to assess your skills in consuming data from an API, transforming and persisting it into a data lake following the medallion architecture with three layers: raw dat
 - [NVIDIA/tensorflow](https://github.com/NVIDIA/tensorflow) - An Open Source Machine Learning Framework for Everyone
 - [meta-llama/codellama](https://github.com/meta-llama/codellama) - Inference code for CodeLlama models
