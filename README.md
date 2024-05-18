@@ -146,6 +146,9 @@
 
 ## Go 
 
+- [oklog/ulid](https://github.com/oklog/ulid) - Universally Unique Lexicographically Sortable Identifier (ULID) in Go
+- [segmentio/ksuid](https://github.com/segmentio/ksuid) - K-Sortable Globally Unique IDs
+- [sony/sonyflake](https://github.com/sony/sonyflake) - A distributed unique ID generator inspired by Twitter's Snowflake
 - [OJ/gobuster](https://github.com/OJ/gobuster) - Directory/File, DNS and VHost busting tool written in Go
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
 - [gocolly/colly](https://github.com/gocolly/colly) - Elegant Scraper and Crawler Framework for Golang
@@ -160,6 +163,7 @@
 
 ## HTML 
 
+- [keiyoushi/extensions](https://github.com/keiyoushi/extensions) - Source extensions for the Mihon/Tachiyomi app.
 - [cescaa/SadSongsForSummer](https://github.com/cescaa/SadSongsForSummer) - I created a webpage dedicated to my favourite song of 2022 (and my sad summer).
 - [rammcodes/Dopefolio](https://github.com/rammcodes/Dopefolio) - Dopefolio 🔥 - Portfolio Template for Developers 🚀
 - [vinerz/websitedocaralho](https://github.com/vinerz/websitedocaralho) - Um website do caralho.
@@ -190,6 +194,7 @@
 
 ## JavaScript 
 
+- [aclap-dev/vdhcoapp](https://github.com/aclap-dev/vdhcoapp) - Companion application for Video DownloadHelper browser add-on
 - [hoothin/UserScripts](https://github.com/hoothin/UserScripts) - Greasemonkey scripts ( Pagetual / Picviewer CE+ / DownloadAllContent )
 - [Tampermonkey/tampermonkey](https://github.com/Tampermonkey/tampermonkey) - Tampermonkey is the most popular userscript manager, with over 10 million users. It's available for Chrome, Microsoft Edge, Safari, Opera Next, and Firefox.
 - [kleampa/not-paid](https://github.com/kleampa/not-paid) - Client did not pay? Add opacity to the body tag and decrease it every day until their site completely fades away
@@ -276,13 +281,13 @@
 
 ## Others 
 
+- [ulid/spec](https://github.com/ulid/spec) - The canonical spec for ulid
 - [nakaharan5/polyglopet-japones](https://github.com/nakaharan5/polyglopet-japones) - Documentação de uma linguagem de programação em Japonês
 - [jincheng9/markdown_supported_languages](https://github.com/jincheng9/markdown_supported_languages) - Markdown supported languages for syntax highlighting
 - [naturepoker/offline_dkms_packages](https://github.com/naturepoker/offline_dkms_packages) - Selection of packages for offline installation of dkms (along with build-essential, make, gcc and etc) on Ubuntu LTS 22.04. Tested on HP Z280
 - [AndrehRicardo/Bleach-Heat-the-Soul-7-traducao-PT-BR](https://github.com/AndrehRicardo/Bleach-Heat-the-Soul-7-traducao-PT-BR) - Uma tradução feita por mim do jogo de Playstation Portable (PSP) em Português do Brasil.
 - [ValveSoftware/steam-for-linux](https://github.com/ValveSoftware/steam-for-linux) - Issue tracking for the Steam for Linux beta client
 - [moonlight-stream/moonlight-docs](https://github.com/moonlight-stream/moonlight-docs) - Moonlight Documentation
-- [keiyoushi/extensions](https://github.com/keiyoushi/extensions) - Source extensions for the Mihon/Tachiyomi app.
 - [torproject/tor](https://github.com/torproject/tor) - unofficial git repo -- report bugs/issues/pull requests on https://gitlab.torproject.org/ --
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 - [CyberSecurityUP/Awesome-Malware-and-Reverse-Engineering](https://github.com/CyberSecurityUP/Awesome-Malware-and-Reverse-Engineering) - 
@@ -350,6 +355,8 @@
 
 ## Python 
 
+- [vd2org/snowflake](https://github.com/vd2org/snowflake) - The Snowflake generator done right.
+- [mirianbatista/lastfm](https://github.com/mirianbatista/lastfm) - Data ingestion real time da música que estou ouvindo
 - [joao-victor-costa-gomes/Projeto_Framework](https://github.com/joao-victor-costa-gomes/Projeto_Framework) - Repositório para o desenvolvimento de um framework web python com algoritmos de redução de dimensionalidade
 - [matplotlib/mplfinance](https://github.com/matplotlib/mplfinance) - Financial Markets Data Visualization using Matplotlib
 - [ranaroussi/yfinance](https://github.com/ranaroussi/yfinance) - Download market data from Yahoo! Finance's API
@@ -563,6 +570,7 @@
 
 ## TypeScript 
 
+- [hydralauncher/hydra](https://github.com/hydralauncher/hydra) - Hydra is a game launcher with its own embedded bittorrent client and a self-managed repack scraper.
 - [nakaharan5/consulta-clima](https://github.com/nakaharan5/consulta-clima) - 
 - [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - Node.js API for Chrome
 - [apify/crawlee](https://github.com/apify/crawlee) - Crawlee—A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and o
