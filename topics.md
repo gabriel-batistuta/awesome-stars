@@ -672,6 +672,7 @@
 
 ## go 
 
+- [segmentio/ksuid](https://github.com/segmentio/ksuid) - K-Sortable Globally Unique IDs
 - [OJ/gobuster](https://github.com/OJ/gobuster) - Directory/File, DNS and VHost busting tool written in Go
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
 - [gocolly/colly](https://github.com/gocolly/colly) - Elegant Scraper and Crawler Framework for Golang
@@ -687,6 +688,8 @@
 
 ## golang 
 
+- [segmentio/ksuid](https://github.com/segmentio/ksuid) - K-Sortable Globally Unique IDs
+- [sony/sonyflake](https://github.com/sony/sonyflake) - A distributed unique ID generator inspired by Twitter's Snowflake
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
 - [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
 - [gocolly/colly](https://github.com/gocolly/colly) - Elegant Scraper and Crawler Framework for Golang
@@ -1088,6 +1091,12 @@
 
 ## others 
 
+- [oklog/ulid](https://github.com/oklog/ulid) - Universally Unique Lexicographically Sortable Identifier (ULID) in Go
+- [ulid/spec](https://github.com/ulid/spec) - The canonical spec for ulid
+- [vd2org/snowflake](https://github.com/vd2org/snowflake) - The Snowflake generator done right.
+- [mirianbatista/lastfm](https://github.com/mirianbatista/lastfm) - Data ingestion real time da música que estou ouvindo
+- [hydralauncher/hydra](https://github.com/hydralauncher/hydra) - Hydra is a game launcher with its own embedded bittorrent client and a self-managed repack scraper.
+- [aclap-dev/vdhcoapp](https://github.com/aclap-dev/vdhcoapp) - Companion application for Video DownloadHelper browser add-on
 - [joao-victor-costa-gomes/Projeto_Framework](https://github.com/joao-victor-costa-gomes/Projeto_Framework) - Repositório para o desenvolvimento de um framework web python com algoritmos de redução de dimensionalidade
 - [Gabriel0598/BEES-Breweries-Case](https://github.com/Gabriel0598/BEES-Breweries-Case) - Objective: The goal of this test is to assess your skills in consuming data from an API, transforming and persisting it into a data lake following the medallion architecture with three layers: raw dat
 - [NVIDIA/tensorflow](https://github.com/NVIDIA/tensorflow) - An Open Source Machine Learning Framework for Everyone
