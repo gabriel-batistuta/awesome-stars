@@ -1091,6 +1091,8 @@
 
 ## others 
 
+- [HigherOrderCO/Bend](https://github.com/HigherOrderCO/Bend) - A massively parallel, high-level programming language
+- [vuejs/core](https://github.com/vuejs/core) - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
 - [oklog/ulid](https://github.com/oklog/ulid) - Universally Unique Lexicographically Sortable Identifier (ULID) in Go
 - [ulid/spec](https://github.com/ulid/spec) - The canonical spec for ulid
 - [vd2org/snowflake](https://github.com/vd2org/snowflake) - The Snowflake generator done right.
