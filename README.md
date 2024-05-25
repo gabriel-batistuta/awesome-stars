@@ -17,6 +17,7 @@
 - [Elixir](#elixir)
 - [Go](#go)
 - [HTML](#html)
+- [Haskell](#haskell)
 - [Java](#java)
 - [JavaScript](#javascript)
 - [Julia](#julia)
@@ -177,6 +178,10 @@
 - [gustavoguanabara/javascript](https://github.com/gustavoguanabara/javascript) - Curso de JavaScript
 - [gustavoguanabara/html-css](https://github.com/gustavoguanabara/html-css) - Curso de HTML5 e CSS3
 
+## Haskell 
+
+- [Gabriella439/turtle](https://github.com/Gabriella439/turtle) - Shell programming, Haskell style
+
 ## Java 
 
 - [zaproxy/zaproxy](https://github.com/zaproxy/zaproxy) - The ZAP core project
@@ -253,6 +258,7 @@
 
 ## Kotlin 
 
+- [spacecowboy/Feeder](https://github.com/spacecowboy/Feeder) - Android RSS reader app
 - [tachiyomiorg/extensions-lib](https://github.com/tachiyomiorg/extensions-lib) - Stubs used for extensions in Tachiyomi 0.x.
 - [keiyoushi/extensions-source](https://github.com/keiyoushi/extensions-source) - Source code of extensions for Tachiyomi/Mihon and variants.
 - [mihonapp/mihon](https://github.com/mihonapp/mihon) - Free and open source manga reader for Android
@@ -521,6 +527,7 @@
 
 ## Rust 
 
+- [gboncoffee/gabs](https://github.com/gboncoffee/gabs) - Gabriel's Blog System
 - [HigherOrderCO/Bend](https://github.com/HigherOrderCO/Bend) - A massively parallel, high-level programming language
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
 - [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
@@ -572,6 +579,7 @@
 
 ## TypeScript 
 
+- [samueldurantes/susi](https://github.com/samueldurantes/susi) - A simple viewer of the cutoff scores for all Brazilian higher education institutions participating in SISU.
 - [vuejs/core](https://github.com/vuejs/core) - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
 - [hydralauncher/hydra](https://github.com/hydralauncher/hydra) - Hydra is a game launcher with its own embedded bittorrent client and a self-managed repack scraper.
 - [nakaharan5/consulta-clima](https://github.com/nakaharan5/consulta-clima) - 
