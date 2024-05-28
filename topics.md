@@ -1098,6 +1098,9 @@
 
 ## others 
 
+- [lvandeve/lodepng](https://github.com/lvandeve/lodepng) - PNG encoder and decoder in C and C++.
+- [fadadoc/NOTES-DEFEAT](https://github.com/fadadoc/NOTES-DEFEAT) - Este repositório foi criado para fazer relação das menores notas de turma do curso de CC turma 2023.
+- [yurisalesc/optimizing-your-django-orm-queries-talk](https://github.com/yurisalesc/optimizing-your-django-orm-queries-talk) - Palestra dada no 12º Meetup GruPy-RN Mossoró
 - [samueldurantes/susi](https://github.com/samueldurantes/susi) - A simple viewer of the cutoff scores for all Brazilian higher education institutions participating in SISU.
 - [mwaskom/seaborn-data](https://github.com/mwaskom/seaborn-data) - Data repository for seaborn examples
 - [HigherOrderCO/Bend](https://github.com/HigherOrderCO/Bend) - A massively parallel, high-level programming language
