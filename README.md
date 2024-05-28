@@ -99,6 +99,7 @@
 
 ## C++ 
 
+- [lvandeve/lodepng](https://github.com/lvandeve/lodepng) - PNG encoder and decoder in C and C++.
 - [NVIDIA/tensorflow](https://github.com/NVIDIA/tensorflow) - An Open Source Machine Learning Framework for Everyone
 - [Paulo-D2000/FUKompiler](https://github.com/Paulo-D2000/FUKompiler) - FUKompiler is a basic C compiler written in C++
 - [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine) - Self-hosted game stream host for Moonlight.
@@ -287,6 +288,7 @@
 
 ## Others 
 
+- [fadadoc/NOTES-DEFEAT](https://github.com/fadadoc/NOTES-DEFEAT) - Este repositório foi criado para fazer relação das menores notas de turma do curso de CC turma 2023.
 - [ulid/spec](https://github.com/ulid/spec) - The canonical spec for ulid
 - [nakaharan5/polyglopet-japones](https://github.com/nakaharan5/polyglopet-japones) - Documentação de uma linguagem de programação em Japonês
 - [jincheng9/markdown_supported_languages](https://github.com/jincheng9/markdown_supported_languages) - Markdown supported languages for syntax highlighting
@@ -361,6 +363,7 @@
 
 ## Python 
 
+- [yurisalesc/optimizing-your-django-orm-queries-talk](https://github.com/yurisalesc/optimizing-your-django-orm-queries-talk) - Palestra dada no 12º Meetup GruPy-RN Mossoró
 - [mwaskom/seaborn-data](https://github.com/mwaskom/seaborn-data) - Data repository for seaborn examples
 - [vd2org/snowflake](https://github.com/vd2org/snowflake) - The Snowflake generator done right.
 - [mirianbatista/lastfm](https://github.com/mirianbatista/lastfm) - Data ingestion real time da música que estou ouvindo
