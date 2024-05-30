@@ -368,7 +368,7 @@
 
 ## chrome-extension 
 
-- [hoothin/UserScripts](https://github.com/hoothin/UserScripts) - Greasemonkey scripts ( Pagetual / Picviewer CE+ / DownloadAllContent )
+- [hoothin/UserScripts](https://github.com/hoothin/UserScripts) - Greasemonkey scripts ( Pagetual / Picviewer CE+ / DownloadAllContent ) 油猴脚本集 ユーザースクリプト集 Коллекция пользовательских скриптов
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
 - [SteamDatabase/BrowserExtension](https://github.com/SteamDatabase/BrowserExtension) - 💻 SteamDB's extension for Steam websites
 
@@ -1098,6 +1098,9 @@
 
 ## others 
 
+- [Jenrykster/astro-blog](https://github.com/Jenrykster/astro-blog) - My personal website
+- [pixeltris/TwitchAdSolutions](https://github.com/pixeltris/TwitchAdSolutions) - 
+- [filipedeschamps/video-maker](https://github.com/filipedeschamps/video-maker) - Projeto open source para fazer vídeos automatizados
 - [lvandeve/lodepng](https://github.com/lvandeve/lodepng) - PNG encoder and decoder in C and C++.
 - [fadadoc/NOTES-DEFEAT](https://github.com/fadadoc/NOTES-DEFEAT) - Este repositório foi criado para fazer relação das menores notas de turma do curso de CC turma 2023.
 - [yurisalesc/optimizing-your-django-orm-queries-talk](https://github.com/yurisalesc/optimizing-your-django-orm-queries-talk) - Palestra dada no 12º Meetup GruPy-RN Mossoró
