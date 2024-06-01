@@ -1100,6 +1100,7 @@
 
 ## others 
 
+- [ToonCrafter/ToonCrafter](https://github.com/ToonCrafter/ToonCrafter) - a research paper for generative cartoon interpolation
 - [google/pica](https://github.com/google/pica) - 
 - [Jenrykster/astro-blog](https://github.com/Jenrykster/astro-blog) - My personal website
 - [pixeltris/TwitchAdSolutions](https://github.com/pixeltris/TwitchAdSolutions) - 
