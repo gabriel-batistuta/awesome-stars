@@ -427,7 +427,7 @@
 - [mobolic/facebook-sdk](https://github.com/mobolic/facebook-sdk) - Python SDK for Facebook's Graph API
 - [InstaPy/InstaPy](https://github.com/InstaPy/InstaPy) - 📷 Instagram Bot - Tool for automated Instagram interactions
 - [joblib/joblib](https://github.com/joblib/joblib) - Computing with Python functions.
-- [Rxm0n/freegpt-webui](https://github.com/Rxm0n/freegpt-webui) - GPT 3.5/4 with a Chat Web UI. No API key required.
+- [ramon-victor/freegpt-webui](https://github.com/ramon-victor/freegpt-webui) - GPT 3.5/4 with a Chat Web UI. No API key required.
 - [Ryuk-me/Torrent-Api-py](https://github.com/Ryuk-me/Torrent-Api-py) - An Unofficial API for 1337x, Piratebay, Nyaasi, Torlock, Torrent Galaxy, Zooqle, Kickass, Bitsearch, MagnetDL,Libgen, YTS, Limetorrent, TorrentFunk, Glodls, TorrentProject and YourBittorrent
 - [sosolidkk/sigaa-api](https://github.com/sosolidkk/sigaa-api) - API feita a partir do scraping do sistema sigaa da UFPI
 - [tody411/MemoryAllocationSimulator](https://github.com/tody411/MemoryAllocationSimulator) - Simple Memory Allocation Simulator. (Python)
@@ -542,6 +542,9 @@
 
 ## Rust 
 
+- [face-hh/webx](https://github.com/face-hh/webx) - An alternative for the World Wide Web - browse websites such as buss://yippie.rizz made in HTML, CSS and Lua. Custom web browser, custom HTML rendering engine, custom search engine, and more.
+- [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
+- [eza-community/eza](https://github.com/eza-community/eza) - A modern, maintained replacement for ls
 - [gboncoffee/gabs](https://github.com/gboncoffee/gabs) - Gabriel's Blog System
 - [HigherOrderCO/Bend](https://github.com/HigherOrderCO/Bend) - A massively parallel, high-level programming language
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
