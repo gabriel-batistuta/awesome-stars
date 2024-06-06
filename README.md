@@ -13,6 +13,7 @@
 - [C#](#c#)
 - [C++](#c++)
 - [CSS](#css)
+- [Crystal](#crystal)
 - [Dart](#dart)
 - [Dockerfile](#dockerfile)
 - [Elixir](#elixir)
@@ -64,6 +65,7 @@
 
 ## C 
 
+- [yufifi/gameLIP](https://github.com/yufifi/gameLIP) - O carai do jogo de ceres cacete
 - [mgba-emu/mgba](https://github.com/mgba-emu/mgba) - mGBA Game Boy Advance Emulator
 - [dlundqvist/xone](https://github.com/dlundqvist/xone) - Linux kernel driver for Xbox One and Xbox Series X|S accessories
 - [obsproject/obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source software for live streaming and screen recording
@@ -134,6 +136,10 @@
 - [JonathanSaan/portfolio](https://github.com/JonathanSaan/portfolio) - My portfolio
 - [MilenaCarecho/30diasDeCSS](https://github.com/MilenaCarecho/30diasDeCSS) - Desafio criar 30 mini projetos utilizando HTML e CSS em 30 dias
 
+## Crystal 
+
+- [akitaonrails/cr_manga_downloadr](https://github.com/akitaonrails/cr_manga_downloadr) - Second version of the Ruby version of my MangaReader.net crawler adapted for Crystal
+
 ## Dart 
 
 - [displaykit/responsive_styles](https://github.com/displaykit/responsive_styles) - 📐 It's a set of common utility strategies to work with responsive styles with Flutter and CSS in JS
@@ -149,6 +155,7 @@
 
 ## Elixir 
 
+- [akitaonrails/ex_manga_downloadr](https://github.com/akitaonrails/ex_manga_downloadr) - Port of the Ruby version of Manga Downloadr to fetch mangas from MangaReader.net
 - [elixir-lang/elixir](https://github.com/elixir-lang/elixir) - Elixir is a dynamic, functional language for building scalable and maintainable applications
 
 ## Go 
@@ -205,6 +212,7 @@
 
 ## JavaScript 
 
+- [akitaonrails/akitando_episode_0118](https://github.com/akitaonrails/akitando_episode_0118) - examples to illustrate my YouTube channel's episode 118 about Databases
 - [videojs/video.js](https://github.com/videojs/video.js) - Video.js - open source HTML5 video player
 - [pixeltris/TwitchAdSolutions](https://github.com/pixeltris/TwitchAdSolutions) - 
 - [filipedeschamps/video-maker](https://github.com/filipedeschamps/video-maker) - Projeto open source para fazer vídeos automatizados
@@ -530,6 +538,7 @@
 
 ## Ruby 
 
+- [akitaonrails/manga-downloadr](https://github.com/akitaonrails/manga-downloadr) - download mangas from MangaReader.net and compile Kindle optimised PDFs
 - [github/choosealicense.com](https://github.com/github/choosealicense.com) - A site to provide non-judgmental guidance on choosing a license for your open source project
 - [hartator/wayback-machine-downloader](https://github.com/hartator/wayback-machine-downloader) - Download an entire website from the Wayback Machine.
 - [hotwired/hotwire-rails](https://github.com/hotwired/hotwire-rails) - Use Hotwire in your Ruby on Rails app
@@ -597,6 +606,7 @@
 
 ## TypeScript 
 
+- [artiefellype/gonin](https://github.com/artiefellype/gonin) - Gonin é um projeto de uma comunidade online de código aberto inspirada no 4chan, mas com uma abordagem mais amigável. Participe de discussões e compartilhe interesses nesse ambiente de diversidade.
 - [consumet/consumet.ts](https://github.com/consumet/consumet.ts) - Nodejs library that provides high-level APIs for obtaining information on various entertainment media such as books, movies, comic books, anime, manga, and so on.
 - [samueldurantes/susi](https://github.com/samueldurantes/susi) - A simple viewer of the cutoff scores for all Brazilian higher education institutions participating in SISU.
 - [vuejs/core](https://github.com/vuejs/core) - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
