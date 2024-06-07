@@ -113,6 +113,7 @@
 - [microsoft](#microsoft)
 - [mobile](#mobile)
 - [mongodb](#mongodb)
+- [monitoring](#monitoring)
 - [music](#music)
 - [mysql](#mysql)
 - [natural-language-processing](#natural-language-processing)
@@ -370,7 +371,7 @@
 
 ## chrome-extension 
 
-- [hoothin/UserScripts](https://github.com/hoothin/UserScripts) - Greasemonkey scripts ( Pagetual / Picviewer CE+ / DownloadAllContent ) 油猴脚本集 ユーザースクリプト集 Коллекция пользовательских скриптов
+- [hoothin/UserScripts](https://github.com/hoothin/UserScripts) - Greasemonkey scripts ( Pagetual / Picviewer CE+ / DownloadAllContent ) 油猴脚本集 ユーザースクリプト集 пользовательских скриптов
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
 - [SteamDatabase/BrowserExtension](https://github.com/SteamDatabase/BrowserExtension) - 💻 SteamDB's extension for Steam websites
 
@@ -745,6 +746,7 @@
 
 ## hacktoberfest 
 
+- [scrapinghub/spidermon](https://github.com/scrapinghub/spidermon) - Scrapy Extension for monitoring spiders execution.
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [eza-community/eza](https://github.com/eza-community/eza) - A modern, maintained replacement for ls
 - [zaproxy/zaproxy](https://github.com/zaproxy/zaproxy) - The ZAP core project
@@ -1030,6 +1032,10 @@
 - [advnpzn/Akinator-Bot](https://github.com/advnpzn/Akinator-Bot) - Telegram Bot for playing the Akinator guessing game.(Unofficial)
 - [codingo/NoSQLMap](https://github.com/codingo/NoSQLMap) - Automated NoSQL database enumeration and web application exploitation tool.
 
+## monitoring 
+
+- [scrapinghub/spidermon](https://github.com/scrapinghub/spidermon) - Scrapy Extension for monitoring spiders execution.
+
 ## music 
 
 - [microsoft/muzic](https://github.com/microsoft/muzic) - Muzic: Music Understanding and Generation with Artificial Intelligence
@@ -1112,11 +1118,11 @@
 
 ## others 
 
+- [segmind/segmind-py](https://github.com/segmind/segmind-py) - Python client for Segmind APIs
 - [akitaonrails/ex_manga_downloadr](https://github.com/akitaonrails/ex_manga_downloadr) - Port of the Ruby version of Manga Downloadr to fetch mangas from MangaReader.net
 - [akitaonrails/cr_manga_downloadr](https://github.com/akitaonrails/cr_manga_downloadr) - Second version of the Ruby version of my MangaReader.net crawler adapted for Crystal
 - [akitaonrails/manga-downloadr](https://github.com/akitaonrails/manga-downloadr) - download mangas from MangaReader.net and compile Kindle optimised PDFs
 - [akitaonrails/akitando_episode_0118](https://github.com/akitaonrails/akitando_episode_0118) - examples to illustrate my YouTube channel's episode 118 about Databases
-- [yufifi/gameLIP](https://github.com/yufifi/gameLIP) - O carai do jogo de ceres cacete
 - [face-hh/webx](https://github.com/face-hh/webx) - An alternative for the World Wide Web - browse websites such as buss://yippie.rizz made in HTML, CSS and Lua. Custom web browser, custom HTML rendering engine, custom search engine, and more.
 - [ToonCrafter/ToonCrafter](https://github.com/ToonCrafter/ToonCrafter) - a research paper for generative cartoon interpolation
 - [google/pica](https://github.com/google/pica) - 
@@ -1654,6 +1660,7 @@
 
 ## testing 
 
+- [scrapinghub/spidermon](https://github.com/scrapinghub/spidermon) - Scrapy Extension for monitoring spiders execution.
 - [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - Node.js API for Chrome
 - [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (February 2024)
 
