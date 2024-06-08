@@ -575,6 +575,7 @@
 
 ## Shell 
 
+- [dstettler/authy-deb-generator](https://github.com/dstettler/authy-deb-generator) - A shell utility that generates a .deb installer for Authy from the snap package.
 - [zerobyte-id-bak/Bashter](https://github.com/zerobyte-id-bak/Bashter) - Web Crawler, Scanner, and Analyzer Framework (Shell-Script based)
 - [gliderlabs/docker-alpine](https://github.com/gliderlabs/docker-alpine) - Alpine Linux Docker image. Win at minimalism!
 - [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
