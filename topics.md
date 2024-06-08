@@ -1118,6 +1118,7 @@
 
 ## others 
 
+- [dstettler/authy-deb-generator](https://github.com/dstettler/authy-deb-generator) - A shell utility that generates a .deb installer for Authy from the snap package.
 - [segmind/segmind-py](https://github.com/segmind/segmind-py) - Python client for Segmind APIs
 - [akitaonrails/ex_manga_downloadr](https://github.com/akitaonrails/ex_manga_downloadr) - Port of the Ruby version of Manga Downloadr to fetch mangas from MangaReader.net
 - [akitaonrails/cr_manga_downloadr](https://github.com/akitaonrails/cr_manga_downloadr) - Second version of the Ruby version of my MangaReader.net crawler adapted for Crystal
