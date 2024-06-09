@@ -118,6 +118,7 @@
 - [mysql](#mysql)
 - [natural-language-processing](#natural-language-processing)
 - [neovim](#neovim)
+- [neural-network](#neural-network)
 - [nextjs](#nextjs)
 - [nlp](#nlp)
 - [node](#node)
@@ -979,6 +980,7 @@
 
 ## machine-learning 
 
+- [k4yt3x/video2x](https://github.com/k4yt3x/video2x) - A lossless video/GIF/image upscaler achieved with waifu2x, Anime4K, SRMD and RealSR. Started in Hack the Valley II, 2018.
 - [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
 - [google-research/google-research](https://github.com/google-research/google-research) - Google Research
 - [ErdemOzgen/Data-Engineering-Roadmap](https://github.com/ErdemOzgen/Data-Engineering-Roadmap) - Roadmap for Data Engineering
@@ -1055,6 +1057,10 @@
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
 - [marcosfnsc/setups](https://github.com/marcosfnsc/setups) - my dotfiles and other configs
+
+## neural-network 
+
+- [k4yt3x/video2x](https://github.com/k4yt3x/video2x) - A lossless video/GIF/image upscaler achieved with waifu2x, Anime4K, SRMD and RealSR. Started in Hack the Valley II, 2018.
 
 ## nextjs 
 
@@ -1408,6 +1414,7 @@
 
 ## python 
 
+- [k4yt3x/video2x](https://github.com/k4yt3x/video2x) - A lossless video/GIF/image upscaler achieved with waifu2x, Anime4K, SRMD and RealSR. Started in Hack the Valley II, 2018.
 - [maurosoria/dirsearch](https://github.com/maurosoria/dirsearch) - Web path scanner
 - [ranaroussi/yfinance](https://github.com/ranaroussi/yfinance) - Download market data from Yahoo! Finance's API
 - [Animenosekai/translate](https://github.com/Animenosekai/translate) - A module grouping multiple translation APIs
