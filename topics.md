@@ -833,6 +833,7 @@
 
 ## image-processing 
 
+- [soruly/trace.moe-media](https://github.com/soruly/trace.moe-media) - Media server for serving video preview for trace.moe
 - [luxuriant777/Handwritten-Text-Generator](https://github.com/luxuriant777/Handwritten-Text-Generator) - This project offers a simple and intuitive interface for users to input text and generate images that showcase the text in a handwritten style. The generator supports several stylistic modifications i
 
 ## ios 
@@ -1124,6 +1125,9 @@
 
 ## others 
 
+- [soruly/anilist-crawler](https://github.com/soruly/anilist-crawler) - Crawl data from anilist API and store in MariaDB.
+- [soruly/liresolr](https://github.com/soruly/liresolr) - Putting LIRE into Solr - an ongoing project
+- [dermotte/liresolr](https://github.com/dermotte/liresolr) - Putting LIRE into Solr - an ongoing project
 - [dstettler/authy-deb-generator](https://github.com/dstettler/authy-deb-generator) - A shell utility that generates a .deb installer for Authy from the snap package.
 - [segmind/segmind-py](https://github.com/segmind/segmind-py) - Python client for Segmind APIs
 - [akitaonrails/ex_manga_downloadr](https://github.com/akitaonrails/ex_manga_downloadr) - Port of the Ruby version of Manga Downloadr to fetch mangas from MangaReader.net
