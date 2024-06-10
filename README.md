@@ -196,6 +196,8 @@
 
 ## Java 
 
+- [soruly/liresolr](https://github.com/soruly/liresolr) - Putting LIRE into Solr - an ongoing project
+- [dermotte/liresolr](https://github.com/dermotte/liresolr) - Putting LIRE into Solr - an ongoing project
 - [zaproxy/zaproxy](https://github.com/zaproxy/zaproxy) - The ZAP core project
 - [huishun98/cron](https://github.com/huishun98/cron) - A simple Android app to create and manage cron jobs
 - [iBotPeaches/Apktool](https://github.com/iBotPeaches/Apktool) - A tool for reverse engineering Android apk files
@@ -211,6 +213,8 @@
 
 ## JavaScript 
 
+- [soruly/anilist-crawler](https://github.com/soruly/anilist-crawler) - Crawl data from anilist API and store in MariaDB.
+- [soruly/trace.moe-media](https://github.com/soruly/trace.moe-media) - Media server for serving video preview for trace.moe
 - [akitaonrails/akitando_episode_0118](https://github.com/akitaonrails/akitando_episode_0118) - examples to illustrate my YouTube channel's episode 118 about Databases
 - [videojs/video.js](https://github.com/videojs/video.js) - Video.js - open source HTML5 video player
 - [pixeltris/TwitchAdSolutions](https://github.com/pixeltris/TwitchAdSolutions) - 
