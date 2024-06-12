@@ -1125,6 +1125,7 @@
 
 ## others 
 
+- [joao-victor-costa-gomes/projetos-pequenos-front-end](https://github.com/joao-victor-costa-gomes/projetos-pequenos-front-end) - Repositório onde vou postar alguns projetos pequenos que fiz usando HTML, CSS e JavaScript
 - [soruly/anilist-crawler](https://github.com/soruly/anilist-crawler) - Crawl data from anilist API and store in MariaDB.
 - [soruly/liresolr](https://github.com/soruly/liresolr) - Putting LIRE into Solr - an ongoing project
 - [dermotte/liresolr](https://github.com/dermotte/liresolr) - Putting LIRE into Solr - an ongoing project
