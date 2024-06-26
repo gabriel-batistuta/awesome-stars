@@ -345,7 +345,7 @@
 - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
 - [ruby/ruby](https://github.com/ruby/ruby) - The Ruby Programming Language
 - [pret/pokeemerald](https://github.com/pret/pokeemerald) - Decompilation of Pokémon Emerald
-- [scizz/darkfire](https://github.com/scizz/darkfire) - GBA ROM hack of Pokémon Emerald with a brand new region and a darker Pokémon storyline. Built with the pokeemerald decompilation project.
+- [scizz/darkfire](https://github.com/scizz/darkfire) - GBA ROM hack of Pokémon Emerald with a brand new region and a darker storyline. Built with the pret pokeemerald decompilation project.
 - [vim/vim](https://github.com/vim/vim) - The official Vim repository
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 - [arthurspk/guiadobackend](https://github.com/arthurspk/guiadobackend) - Nesse guia você encontrará tudo para se torna um desenvolvedor back-end, dessa maneira, encontrará mapas mentais, cursos, trilhas e outras ferramentas para poder praticar o conhecimento adquirido.
@@ -1577,7 +1577,7 @@
 - [Luca1991/NDSFactory](https://github.com/Luca1991/NDSFactory) - Unpack & Repack Nintendo DS Roms (.nds)
 - [iBotPeaches/Apktool](https://github.com/iBotPeaches/Apktool) - A tool for reverse engineering Android apk files
 - [pret/pokeemerald](https://github.com/pret/pokeemerald) - Decompilation of Pokémon Emerald
-- [scizz/darkfire](https://github.com/scizz/darkfire) - GBA ROM hack of Pokémon Emerald with a brand new region and a darker Pokémon storyline. Built with the pokeemerald decompilation project.
+- [scizz/darkfire](https://github.com/scizz/darkfire) - GBA ROM hack of Pokémon Emerald with a brand new region and a darker storyline. Built with the pret pokeemerald decompilation project.
 - [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers
 
 ## ruby 
