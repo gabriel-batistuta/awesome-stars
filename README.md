@@ -88,7 +88,7 @@
 - [pygame/pygame](https://github.com/pygame/pygame) - 🐍🎮 pygame (the library) is a Free and Open Source python programming language library for making multimedia applications like games built on top of the excellent SDL library. C, Python, Native, OpenGL
 - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
 - [pret/pokeemerald](https://github.com/pret/pokeemerald) - Decompilation of Pokémon Emerald
-- [scizz/darkfire](https://github.com/scizz/darkfire) - GBA ROM hack of Pokémon Emerald with a brand new region and a darker Pokémon storyline. Built with the pokeemerald decompilation project.
+- [scizz/darkfire](https://github.com/scizz/darkfire) - GBA ROM hack of Pokémon Emerald with a brand new region and a darker storyline. Built with the pret pokeemerald decompilation project.
 - [Sierraffinity/CrystalDust](https://github.com/Sierraffinity/CrystalDust) - A ROM hack of Pokémon Emerald that aims to recreate Pokémon Crystal on the GBA.
 - [GNOME/gimp](https://github.com/GNOME/gimp) - Read-only mirror of https://gitlab.gnome.org/GNOME/gimp
 - [acidanthera/OpenCorePkg](https://github.com/acidanthera/OpenCorePkg) - OpenCore bootloader
