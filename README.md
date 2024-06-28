@@ -150,7 +150,7 @@
 
 ## Dockerfile 
 
-- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (February 2024)
+- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (July 2024)
 
 ## Elixir 
 
@@ -585,6 +585,7 @@
 
 ## Shell 
 
+- [makifdb/lenopow](https://github.com/makifdb/lenopow) - A script to enable/disable battery conservation mode in Lenovo Ideapad/LEGION notebooks.
 - [dstettler/authy-deb-generator](https://github.com/dstettler/authy-deb-generator) - A shell utility that generates a .deb installer for Authy from the snap package.
 - [zerobyte-id-bak/Bashter](https://github.com/zerobyte-id-bak/Bashter) - Web Crawler, Scanner, and Analyzer Framework (Shell-Script based)
 - [gliderlabs/docker-alpine](https://github.com/gliderlabs/docker-alpine) - Alpine Linux Docker image. Win at minimalism!
