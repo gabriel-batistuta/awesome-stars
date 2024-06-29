@@ -179,7 +179,6 @@
 - [vuejs](#vuejs)
 - [web](#web)
 - [web-development](#web-development)
-- [webapp](#webapp)
 - [webpack](#webpack)
 - [website](#website)
 - [windows](#windows)
@@ -493,7 +492,6 @@
 
 ## design 
 
-- [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [gdcmarinho/awesome-project](https://github.com/gdcmarinho/awesome-project) - A curated list of awesome project development links
 
 ## devops 
@@ -1410,7 +1408,6 @@
 
 ## programming 
 
-- [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [free-educa/free-livros](https://github.com/free-educa/free-livros) - Educação é um direito de todos
 - [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
 - [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
@@ -1445,7 +1442,6 @@
 - [fake-useragent/fake-useragent](https://github.com/fake-useragent/fake-useragent) - Up-to-date simple useragent faker with real world database
 - [Cosmicoppai/LiSA](https://github.com/Cosmicoppai/LiSA) - LiSA (Native App to stream/read and download Anime & Manga ❤️ )
 - [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
-- [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [psf/requests-html](https://github.com/psf/requests-html) - Pythonic HTML Parsing for Humans™
 - [Znunu/EzMudae](https://github.com/Znunu/EzMudae) - Discord.py module for parsing messages and handling claim/roll resets from the Mudae bot
 - [vivinano/MudaeAutoBot](https://github.com/vivinano/MudaeAutoBot) - python bot that uses strictly the **Discord API** to Roll,Claim,and Kakera Snipe in Mudae. 5/10/21 project converted over to discum library
@@ -1737,7 +1733,6 @@
 - [OJ/gobuster](https://github.com/OJ/gobuster) - Directory/File, DNS and VHost busting tool written in Go
 - [sonnylazuardi/reactriot2017-dotamania](https://github.com/sonnylazuardi/reactriot2017-dotamania) - 🌐 Web scraping made easy with the visual 🗺  mind map editor to JSON
 - [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
-- [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [vintasoftware/playbook](https://github.com/vintasoftware/playbook) - Vinta's Best Moves Compiled
 - [django/django](https://github.com/django/django) - The Web framework for perfectionists with deadlines.
 - [Suwayomi/Tachidesk-Sorayomi](https://github.com/Suwayomi/Tachidesk-Sorayomi) - A free and open source manga reader app to read manga from a Tachidesk-Server instance.
@@ -1750,10 +1745,6 @@
 ## web-development 
 
 - [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
-
-## webapp 
-
-- [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 
 ## webpack 
 
