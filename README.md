@@ -618,6 +618,7 @@
 
 ## TypeScript 
 
+- [haicaumuoi/Mushoku-Tensei-English-Landing-Page](https://github.com/haicaumuoi/Mushoku-Tensei-English-Landing-Page) - 
 - [artiefellype/gonin](https://github.com/artiefellype/gonin) - Gonin é um projeto de uma comunidade online de código aberto inspirada no 4chan, mas com uma abordagem mais amigável. Participe de discussões e compartilhe interesses nesse ambiente de diversidade.
 - [consumet/consumet.ts](https://github.com/consumet/consumet.ts) - Nodejs library that provides high-level APIs for obtaining information on various entertainment media such as books, movies, comic books, anime, manga, and so on.
 - [samueldurantes/susi](https://github.com/samueldurantes/susi) - A simple viewer of the cutoff scores for all Brazilian higher education institutions participating in SISU.
