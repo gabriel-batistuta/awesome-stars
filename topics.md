@@ -22,6 +22,7 @@
 - [bioinformatics](#bioinformatics)
 - [bootstrap](#bootstrap)
 - [bot](#bot)
+- [bugbounty](#bugbounty)
 - [c](#c)
 - [chatgpt](#chatgpt)
 - [chatgpt-api](#chatgpt-api)
@@ -37,7 +38,6 @@
 - [csharp](#csharp)
 - [css](#css)
 - [dart](#dart)
-- [data-analysis](#data-analysis)
 - [data-science](#data-science)
 - [data-structures](#data-structures)
 - [data-visualization](#data-visualization)
@@ -336,6 +336,11 @@
 - [Nachtalb/reverse_image_search_bot](https://github.com/Nachtalb/reverse_image_search_bot) - Image Reverse Search Bot🕵️‍♂️🔍: A handy Telegram bot for reverse image searches on images, videos, and GIFs, supporting multiple search engines. Unleash the power of reverse searching! 🚀🤖
 - [TheSunBoys/uern_news](https://github.com/TheSunBoys/uern_news) - Um canal de noticias da UERN no telegram
 
+## bugbounty 
+
+- [maurosoria/dirsearch](https://github.com/maurosoria/dirsearch) - Web path scanner
+- [codingo/NoSQLMap](https://github.com/codingo/NoSQLMap) - Automated NoSQL database enumeration and web application exploitation tool.
+
 ## c 
 
 - [obsproject/obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source software for live streaming and screen recording
@@ -456,10 +461,6 @@
 - [antlr/antlr4](https://github.com/antlr/antlr4) - ANTLR (ANother Tool for Language Recognition) is a powerful parser generator for reading, processing, executing, or translating structured text or binary files.
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
 
-## data-analysis 
-
-- [cleanlab/cleanlab](https://github.com/cleanlab/cleanlab) - The standard data-centric AI package for data quality and machine learning with messy, real-world data and labels.
-
 ## data-science 
 
 - [cleanlab/cleanlab](https://github.com/cleanlab/cleanlab) - The standard data-centric AI package for data quality and machine learning with messy, real-world data and labels.
@@ -576,7 +577,7 @@
 
 ## firebase 
 
-- [artiefellype/gonin](https://github.com/artiefellype/gonin) - Gonin é um projeto de uma comunidade online de código aberto inspirada no 4chan, mas com uma abordagem mais amigável. Participe de discussões e compartilhe interesses nesse ambiente de diversidade.
+- [artiefellype/gonin](https://github.com/artiefellype/gonin) - Gonin é um projeto de uma comunidade online de código aberto inspirada em diversos fóruns online diferentes, mas com uma abordagem mais amigável. Participe de discussões e compartilhe interesses nesse
 - [WeryZebra-Yue/Talk-Walk](https://github.com/WeryZebra-Yue/Talk-Walk) - It's a social media web app named Talk-Walk where you can post photo, gif, video and share stories
 - [firebase/firebase-admin-python](https://github.com/firebase/firebase-admin-python) - Firebase Admin Python SDK
 - [firebase/firebase-js-sdk](https://github.com/firebase/firebase-js-sdk) - Firebase Javascript SDK
@@ -1111,7 +1112,7 @@
 
 ## open-source 
 
-- [artiefellype/gonin](https://github.com/artiefellype/gonin) - Gonin é um projeto de uma comunidade online de código aberto inspirada no 4chan, mas com uma abordagem mais amigável. Participe de discussões e compartilhe interesses nesse ambiente de diversidade.
+- [artiefellype/gonin](https://github.com/artiefellype/gonin) - Gonin é um projeto de uma comunidade online de código aberto inspirada em diversos fóruns online diferentes, mas com uma abordagem mais amigável. Participe de discussões e compartilhe interesses nesse
 - [github/choosealicense.com](https://github.com/github/choosealicense.com) - A site to provide non-judgmental guidance on choosing a license for your open source project
 - [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - 🐧 A list of awesome Linux softwares
 - [github/brasil](https://github.com/github/brasil) - Recursos e informações do GitHub para a comunidade de desenvolvedores no Brasil.
@@ -1695,7 +1696,7 @@
 
 ## typescript 
 
-- [artiefellype/gonin](https://github.com/artiefellype/gonin) - Gonin é um projeto de uma comunidade online de código aberto inspirada no 4chan, mas com uma abordagem mais amigável. Participe de discussões e compartilhe interesses nesse ambiente de diversidade.
+- [artiefellype/gonin](https://github.com/artiefellype/gonin) - Gonin é um projeto de uma comunidade online de código aberto inspirada em diversos fóruns online diferentes, mas com uma abordagem mais amigável. Participe de discussões e compartilhe interesses nesse
 - [consumet/consumet.ts](https://github.com/consumet/consumet.ts) - Nodejs library that provides high-level APIs for obtaining information on various entertainment media such as books, movies, comic books, anime, manga, and so on.
 - [apify/crawlee](https://github.com/apify/crawlee) - Crawlee—A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and o
 - [consumet/api.consumet.org](https://github.com/consumet/api.consumet.org) - A Modern Search Engine API for Anime, Movies/TVShows, Books, Light Novels, Manga, etc.
