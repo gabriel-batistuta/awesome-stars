@@ -385,6 +385,7 @@
 
 ## Python 
 
+- [FelipePaivaVale/PostgreSQLjsonDocker](https://github.com/FelipePaivaVale/PostgreSQLjsonDocker) - 
 - [bayasdev/envycontrol](https://github.com/bayasdev/envycontrol) - Easy GPU switching for Nvidia Optimus laptops under Linux
 - [Askannz/optimus-manager](https://github.com/Askannz/optimus-manager) - A Linux program to handle GPU switching on Optimus laptops.
 - [pycountry/pycountry](https://github.com/pycountry/pycountry) - A Python library to access ISO country, subdivision, language, currency and script definitions and their translations.
