@@ -6,6 +6,7 @@
 ## Contents
 
 - [ASL](#asl)
+- [ASP.NET](#asp.net)
 - [Assembly](#assembly)
 - [Astro](#astro)
 - [Batchfile](#batchfile)
@@ -48,6 +49,10 @@
 ## ASL 
 
 - [edk2-porting/edk2-msm](https://github.com/edk2-porting/edk2-msm) - Broken edk2 port for Qualcomm platforms xD
+
+## ASP.NET 
+
+- [kevinjycui/bad-apple](https://github.com/kevinjycui/bad-apple) - Code from my Bad Apple!! YouTube videos
 
 ## Assembly 
 
@@ -127,6 +132,7 @@
 - [chunying/gaminganywhere](https://github.com/chunying/gaminganywhere) - GamingAnywhere: An Open Cloud Gaming System
 - [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native applications using React
 - [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
+- [chromium/chromium](https://github.com/chromium/chromium) - The official GitHub mirror of the Chromium source
 
 ## CSS 
 
@@ -351,7 +357,6 @@
 - [josemalcher/Livro-JavaScript-EstruturaDadosAlgoritmoJavaScript](https://github.com/josemalcher/Livro-JavaScript-EstruturaDadosAlgoritmoJavaScript) - Estruturas de dados e algoritmos em JavaScript - Códigos do Livro e exercícios
 - [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas) - A Collection of application ideas which can be used to improve your coding skills.
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
-- [chromium/chromium](https://github.com/chromium/chromium) - The official GitHub mirror of the Chromium source
 - [apsantos-dev/modelo-de-contrato](https://github.com/apsantos-dev/modelo-de-contrato) - Modelo de contrato de prestação de serviços [ Desenvolvedor Freelancer ].
 - [arthurspk/guiadobackend](https://github.com/arthurspk/guiadobackend) - Nesse guia você encontrará tudo para se torna um desenvolvedor back-end, dessa maneira, encontrará mapas mentais, cursos, trilhas e outras ferramentas para poder praticar o conhecimento adquirido.
 - [iuricode/readme-template](https://github.com/iuricode/readme-template) - Modelos readmes
@@ -626,7 +631,7 @@
 - [haicaumuoi/Mushoku-Tensei-English-Landing-Page](https://github.com/haicaumuoi/Mushoku-Tensei-English-Landing-Page) - 
 - [artiefellype/gonin](https://github.com/artiefellype/gonin) - Gonin é um projeto de uma comunidade online de código aberto inspirada em diversos fóruns online diferentes, mas com uma abordagem mais amigável. Participe de discussões e compartilhe interesses nesse
 - [consumet/consumet.ts](https://github.com/consumet/consumet.ts) - Nodejs library that provides high-level APIs for obtaining information on various entertainment media such as books, movies, comic books, anime, manga, and so on.
-- [samueldurantes/susi](https://github.com/samueldurantes/susi) - A simple viewer of the cutoff scores for all Brazilian higher education institutions participating in SISU.
+- [samueldurantes/susi](https://github.com/samueldurantes/susi) - A simple viewer of the cutoff scores for all Brazilian higher education institutions participating in SISU
 - [vuejs/core](https://github.com/vuejs/core) - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
 - [hydralauncher/hydra](https://github.com/hydralauncher/hydra) - Hydra is a game launcher with its own embedded bittorrent client and a self-managed repack scraper.
 - [nakaharan5/consulta-clima](https://github.com/nakaharan5/consulta-clima) - 
