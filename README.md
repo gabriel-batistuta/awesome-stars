@@ -442,7 +442,7 @@
 - [RekhuGopal/PythonHacks](https://github.com/RekhuGopal/PythonHacks) - This repo contains some solved python hacker codes
 - [Adastra-thw/pyHacks](https://github.com/Adastra-thw/pyHacks) - Python Scripts for Hacking .
 - [Dump-GUY/Malware-analysis-and-Reverse-engineering](https://github.com/Dump-GUY/Malware-analysis-and-Reverse-engineering) - Some of my publicly available Malware analysis and Reverse engineering.
-- [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
+- [fastapi/fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [jsvine/waybackpack](https://github.com/jsvine/waybackpack) - Download the entire Wayback Machine archive for a given URL.
 - [psf/requests-html](https://github.com/psf/requests-html) - Pythonic HTML Parsing for Humans™
 - [pythontester192/Upload-Movie-Clips-On-Youtube-Without-Copyright](https://github.com/pythontester192/Upload-Movie-Clips-On-Youtube-Without-Copyright) - Use This FREE PYTHON BOT to Upload Movie Clips On Youtube Without Copyright
