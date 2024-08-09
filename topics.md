@@ -1138,6 +1138,7 @@
 
 ## others 
 
+- [Claudemirovsky/cursedyomi-extensions](https://github.com/Claudemirovsky/cursedyomi-extensions) - Some random aniyomi extensions I want to maintain.
 - [scrapy/scrapyd](https://github.com/scrapy/scrapyd) - A service daemon to run Scrapy spiders
 - [Jorge-HCB/transpilador](https://github.com/Jorge-HCB/transpilador) - 
 - [kevinjycui/bad-apple](https://github.com/kevinjycui/bad-apple) - Code from my Bad Apple!! YouTube videos
