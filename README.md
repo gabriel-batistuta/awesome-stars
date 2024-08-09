@@ -288,6 +288,7 @@
 
 ## Kotlin 
 
+- [Claudemirovsky/cursedyomi-extensions](https://github.com/Claudemirovsky/cursedyomi-extensions) - Some random aniyomi extensions I want to maintain.
 - [spacecowboy/Feeder](https://github.com/spacecowboy/Feeder) - Android RSS reader app
 - [tachiyomiorg/extensions-lib](https://github.com/tachiyomiorg/extensions-lib) - Stubs used for extensions in Tachiyomi 0.x.
 - [keiyoushi/extensions-source](https://github.com/keiyoushi/extensions-source) - Source code of extensions for Tachiyomi/Mihon and variants.
