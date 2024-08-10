@@ -630,6 +630,7 @@
 
 ## TypeScript 
 
+- [LNReader/lnreader-plugins](https://github.com/LNReader/lnreader-plugins) - Repository to host source related issues, and requests for LNReader
 - [joao-victor-costa-gomes/Rick-And-Morty-Characters-App](https://github.com/joao-victor-costa-gomes/Rick-And-Morty-Characters-App) - An application powered by an API where the user can see various information about Rick & Morty characters and also add them to a list of favorites.
 - [haicaumuoi/Mushoku-Tensei-English-Landing-Page](https://github.com/haicaumuoi/Mushoku-Tensei-English-Landing-Page) - 
 - [artiefellype/gonin](https://github.com/artiefellype/gonin) - Gonin é um projeto de uma comunidade online de código aberto inspirada em diversos fóruns online diferentes, mas com uma abordagem mais amigável. Participe de discussões e compartilhe interesses nesse
