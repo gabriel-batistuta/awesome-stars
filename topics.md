@@ -1140,6 +1140,7 @@
 
 ## others 
 
+- [komikku-app/komikku-extensions](https://github.com/komikku-app/komikku-extensions) - Source code of extensions for the Tachiyomi/Mihon/Komikku app.
 - [soruly/slides](https://github.com/soruly/slides) - 
 - [soruly/trace.moe-worker](https://github.com/soruly/trace.moe-worker) - background worker nodes for trace.moe
 - [soruly/trace.moe-api](https://github.com/soruly/trace.moe-api) - API server for serving backend requests for trace.moe
