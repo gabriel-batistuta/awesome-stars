@@ -396,6 +396,7 @@
 
 ## Python 
 
+- [erezsh/sqeleton](https://github.com/erezsh/sqeleton) - A python library for efficiently interacting and querying SQL databases
 - [scrapy/scrapyd](https://github.com/scrapy/scrapyd) - A service daemon to run Scrapy spiders
 - [FelipePaivaVale/PostgreSQLjsonDocker](https://github.com/FelipePaivaVale/PostgreSQLjsonDocker) - 
 - [bayasdev/envycontrol](https://github.com/bayasdev/envycontrol) - Easy GPU switching for Nvidia Optimus laptops under Linux
