@@ -1140,6 +1140,7 @@
 
 ## others 
 
+- [pythonbrasil/pyBusinesses-BR](https://github.com/pythonbrasil/pyBusinesses-BR) - Esse repositório contém informações de contato das empresas de tecnologia do Brasil que utilizam a linguagem de programação Python.
 - [komikku-app/komikku-extensions](https://github.com/komikku-app/komikku-extensions) - Source code of extensions for the Tachiyomi/Mihon/Komikku app.
 - [soruly/slides](https://github.com/soruly/slides) - 
 - [soruly/trace.moe-worker](https://github.com/soruly/trace.moe-worker) - background worker nodes for trace.moe
