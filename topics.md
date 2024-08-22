@@ -24,6 +24,7 @@
 - [bot](#bot)
 - [bugbounty](#bugbounty)
 - [c](#c)
+- [c-plus-plus](#c-plus-plus)
 - [chatgpt](#chatgpt)
 - [chatgpt-api](#chatgpt-api)
 - [chrome](#chrome)
@@ -357,6 +358,13 @@
 - [vim/vim](https://github.com/vim/vim) - The official Vim repository
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 - [arthurspk/guiadobackend](https://github.com/arthurspk/guiadobackend) - Nesse guia você encontrará tudo para se torna um desenvolvedor back-end, dessa maneira, encontrará mapas mentais, cursos, trilhas e outras ferramentas para poder praticar o conhecimento adquirido.
+- [arthurspk/guiadevbrasil](https://github.com/arthurspk/guiadevbrasil) - Um guia extenso de informações com um vasto conteúdo de várias áreas para ajudar, agregar conhecimento e retirar dúvidas, nesse guia você encontrará tudo que necessário para qualquer carreira relacion
+
+## c-plus-plus 
+
+- [obsproject/obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source software for live streaming and screen recording
+- [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent) - qBittorrent BitTorrent client
+- [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
 - [arthurspk/guiadevbrasil](https://github.com/arthurspk/guiadevbrasil) - Um guia extenso de informações com um vasto conteúdo de várias áreas para ajudar, agregar conhecimento e retirar dúvidas, nesse guia você encontrará tudo que necessário para qualquer carreira relacion
 
 ## chatgpt 
@@ -1249,7 +1257,6 @@
 - [pythontester192/Upload-Movie-Clips-On-Youtube-Without-Copyright](https://github.com/pythontester192/Upload-Movie-Clips-On-Youtube-Without-Copyright) - Use This FREE PYTHON BOT to Upload Movie Clips On Youtube Without Copyright
 - [toticavalcanti/django_ecommerce](https://github.com/toticavalcanti/django_ecommerce) - Criação de um e-commerce utilizando django
 - [jqlang/jq](https://github.com/jqlang/jq) - Command-line JSON processor
-- [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent) - qBittorrent BitTorrent client
 - [cantalupo555/qbittorrent-backup-linux](https://github.com/cantalupo555/qbittorrent-backup-linux) - Script - Backup your qBitorrent client on linux and restore anytime.
 - [rpgboss/rpgboss](https://github.com/rpgboss/rpgboss) - point and click rpg game editor and engine
 - [GloriousEggroll/proton-ge-custom](https://github.com/GloriousEggroll/proton-ge-custom) - Compatibility tool for Steam Play based on Wine and additional components
