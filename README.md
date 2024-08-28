@@ -321,6 +321,7 @@
 
 ## Others 
 
+- [password123456/setup-selenium-with-chrome-driver-on-ubuntu_debian](https://github.com/password123456/setup-selenium-with-chrome-driver-on-ubuntu_debian) - Setup Selenium and Chrome driver on ubuntu/debian
 - [yufifi/SSHTuneling_PuTTY](https://github.com/yufifi/SSHTuneling_PuTTY) - Um passo-a-passo rápido para conectar-se à sua VM na Oracle Cloud Infrastructure através de um túnel SSH para navegar na web de forma segura e privada utilizando FoxyProxy.
 - [soruly/slides](https://github.com/soruly/slides) - 
 - [fadadoc/NOTES-DEFEAT](https://github.com/fadadoc/NOTES-DEFEAT) - Este repositório foi criado para fazer relação das menores notas de turma do curso de CC turma 2023.
