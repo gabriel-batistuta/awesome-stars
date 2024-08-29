@@ -412,7 +412,7 @@
 - [segmind/segmind-py](https://github.com/segmind/segmind-py) - Python client for Segmind APIs
 - [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats) - This GitHub action helps to add cool dev metrics to your github profile Readme
 - [maurosoria/dirsearch](https://github.com/maurosoria/dirsearch) - Web path scanner
-- [ToonCrafter/ToonCrafter](https://github.com/ToonCrafter/ToonCrafter) - a research paper for generative cartoon interpolation
+- [Doubiiu/ToonCrafter](https://github.com/Doubiiu/ToonCrafter) - [SIGGRAPH Asia 2024, Journal Track] ToonCrafter: Generative Cartoon Interpolation
 - [google/pica](https://github.com/google/pica) - 
 - [yurisalesc/optimizing-your-django-orm-queries-talk](https://github.com/yurisalesc/optimizing-your-django-orm-queries-talk) - Palestra dada no 12º Meetup GruPy-RN Mossoró
 - [mwaskom/seaborn-data](https://github.com/mwaskom/seaborn-data) - Data repository for seaborn examples
@@ -442,7 +442,6 @@
 - [pyinstaller/pyinstaller](https://github.com/pyinstaller/pyinstaller) - Freeze (package) Python programs into stand-alone executables
 - [ListenNotes/podcast-api-python](https://github.com/ListenNotes/podcast-api-python) - The Official Python library for the Listen Notes Podcast API
 - [pyppeteer/pyppeteer](https://github.com/pyppeteer/pyppeteer) - Headless chrome/chromium automation library (unofficial port of puppeteer)
-- [Jeanpseven/DEDnetSEC](https://github.com/Jeanpseven/DEDnetSEC) - testa senhas baseado em um algoritmo usado em wifis não tão seguros,que não tem seu nome e senha alterados(padrão),fazendo um calculo com BSSID e SSID estudado por mim
 - [fake-useragent/fake-useragent](https://github.com/fake-useragent/fake-useragent) - Up-to-date simple useragent faker with real world database
 - [react-native-skia/react-native-skia](https://github.com/react-native-skia/react-native-skia) - Cross platform React Native solution to draw graphics based on Skia
 - [Cosmicoppai/LiSA](https://github.com/Cosmicoppai/LiSA) - LiSA (Native App to stream/read and download Anime & Manga ❤️ )
