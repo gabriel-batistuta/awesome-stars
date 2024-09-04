@@ -317,6 +317,7 @@
 
 - [drknzz/GitHub-Achievements](https://github.com/drknzz/GitHub-Achievements) - 🔥 A Complete List of GitHub Profile Badges and Achievements 🔥
 - [docker/docs](https://github.com/docker/docs) - Source repo for Docker's Documentation
+- [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 - [microsoft/vscode-docs](https://github.com/microsoft/vscode-docs) - Public documentation for Visual Studio Code
 
 ## Others 
@@ -364,7 +365,6 @@
 - [GorvGoyl/Clone-Wars](https://github.com/GorvGoyl/Clone-Wars) - 100+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars.
 - [josemalcher/Livro-JavaScript-EstruturaDadosAlgoritmoJavaScript](https://github.com/josemalcher/Livro-JavaScript-EstruturaDadosAlgoritmoJavaScript) - Estruturas de dados e algoritmos em JavaScript - Códigos do Livro e exercícios
 - [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas) - A Collection of application ideas which can be used to improve your coding skills.
-- [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 - [apsantos-dev/modelo-de-contrato](https://github.com/apsantos-dev/modelo-de-contrato) - Modelo de contrato de prestação de serviços [ Desenvolvedor Freelancer ].
 - [arthurspk/guiadobackend](https://github.com/arthurspk/guiadobackend) - Nesse guia você encontrará tudo para se torna um desenvolvedor back-end, dessa maneira, encontrará mapas mentais, cursos, trilhas e outras ferramentas para poder praticar o conhecimento adquirido.
 - [iuricode/readme-template](https://github.com/iuricode/readme-template) - Modelos readmes
