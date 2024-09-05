@@ -183,6 +183,7 @@
 
 ## HTML 
 
+- [joao-victor-costa-gomes/projetos-pequenos-front-end](https://github.com/joao-victor-costa-gomes/projetos-pequenos-front-end) - Repositório onde vou postar alguns projetos pequenos que fiz usando HTML, CSS e JavaScript
 - [keiyoushi/extensions](https://github.com/keiyoushi/extensions) - Source extensions for the Mihon/Tachiyomi app.
 - [cescaa/SadSongsForSummer](https://github.com/cescaa/SadSongsForSummer) - I created a webpage dedicated to my favourite song of 2022 (and my sad summer).
 - [rammcodes/Dopefolio](https://github.com/rammcodes/Dopefolio) - Dopefolio 🔥 - Portfolio Template for Developers 🚀
@@ -224,7 +225,6 @@
 - [soruly/trace.moe-api](https://github.com/soruly/trace.moe-api) - API server for serving backend requests for trace.moe
 - [TheRealJoelmatic/RemoveAdblockThing](https://github.com/TheRealJoelmatic/RemoveAdblockThing) - The intrusive "Ad blocker are not allowed on YouTube"  message is annoying. This open-source project aims to address this issue by providing a solution to bypass YouTube's ad blocker detection
 - [GoogleChromeLabs/chrome-for-testing](https://github.com/GoogleChromeLabs/chrome-for-testing) - 
-- [joao-victor-costa-gomes/projetos-pequenos-front-end](https://github.com/joao-victor-costa-gomes/projetos-pequenos-front-end) - Repositório onde vou postar alguns projetos pequenos que fiz usando HTML, CSS e JavaScript
 - [soruly/anilist-crawler](https://github.com/soruly/anilist-crawler) - Crawl data from anilist API and store in MariaDB.
 - [soruly/trace.moe-media](https://github.com/soruly/trace.moe-media) - Media server for serving video preview for trace.moe
 - [akitaonrails/akitando_episode_0118](https://github.com/akitaonrails/akitando_episode_0118) - examples to illustrate my YouTube channel's episode 118 about Databases
