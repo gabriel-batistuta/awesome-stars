@@ -132,6 +132,7 @@
 - [npm](#npm)
 - [open-source](#open-source)
 - [opencv](#opencv)
+- [operating-system](#operating-system)
 - [osint](#osint)
 - [others](#others)
 - [p2p](#p2p)
@@ -1153,6 +1154,10 @@
 
 - [soruly/trace.moe](https://github.com/soruly/trace.moe) - Anime Scene Search by Image
 
+## operating-system 
+
+- [FrancisBFTC/KiddieOS_Development](https://github.com/FrancisBFTC/KiddieOS_Development) - O KiddieOS é um sistema operacional open-source básico em desenvolvimento pelo curso gratuito D.S.O.S [Desenvolvendo Sistemas Operacionais Simples]. A intenção deste sistema será: Criar, editar ou exc
+
 ## osint 
 
 - [megadose/holehe](https://github.com/megadose/holehe) - holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.
@@ -1321,7 +1326,6 @@
 - [akapne01/translator](https://github.com/akapne01/translator) - 
 - [swiftlang/swift](https://github.com/swiftlang/swift) - The Swift Programming Language
 - [JazzCore/python-pdfkit](https://github.com/JazzCore/python-pdfkit) - Wkhtmltopdf python wrapper to convert html to pdf
-- [FrancisBFTC/KiddieOS_Development](https://github.com/FrancisBFTC/KiddieOS_Development) - O KiddieOS é um sistema operacional open-source básico em desenvolvimento pelo curso gratuito D.S.O.S [Desenvolvendo Sistemas Operacionais Simples]. A intenção deste sistema será: Criar, editar ou exc
 - [MontFerret/pyfer](https://github.com/MontFerret/pyfer) - Python wrapper for Ferret
 - [calvinaquino/LNReader-Android](https://github.com/calvinaquino/LNReader-Android) - Light novel reader for android test project collab
 - [skwp/dotfiles](https://github.com/skwp/dotfiles) - YADR - The best vim,git,zsh plugins and the cleanest vimrc you've ever seen
