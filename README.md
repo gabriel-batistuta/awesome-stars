@@ -368,7 +368,6 @@
 - [apsantos-dev/modelo-de-contrato](https://github.com/apsantos-dev/modelo-de-contrato) - Modelo de contrato de prestação de serviços [ Desenvolvedor Freelancer ].
 - [arthurspk/guiadobackend](https://github.com/arthurspk/guiadobackend) - Nesse guia você encontrará tudo para se torna um desenvolvedor back-end, dessa maneira, encontrará mapas mentais, cursos, trilhas e outras ferramentas para poder praticar o conhecimento adquirido.
 - [iuricode/readme-template](https://github.com/iuricode/readme-template) - Modelos readmes
-- [iuricode/padroes-de-commits](https://github.com/iuricode/padroes-de-commits) - Padrões de commits
 - [jsitor/jsitor](https://github.com/jsitor/jsitor) - Online JS, CSS and HTML editor
 - [rafaballerini/rafaballerini](https://github.com/rafaballerini/rafaballerini) - 
 - [arthurspk/guiadofrontend](https://github.com/arthurspk/guiadofrontend) - Nesse guia você encontrará tudo para se torna um desenvolvedor front-end, dessa maneira, encontrará mapas mentais, cursos, trilhas e outras ferramentas para poder praticar o conhecimento adquirido.
@@ -622,6 +621,7 @@
 - [docker-library/docs](https://github.com/docker-library/docs) - Documentation for Docker Official Images in docker-library
 - [marcosfnsc/setups](https://github.com/marcosfnsc/setups) - my dotfiles and other configs
 - [htr-tech/nexphisher](https://github.com/htr-tech/nexphisher) - Advanced Phishing tool
+- [iuricode/padroes-de-commits](https://github.com/iuricode/padroes-de-commits) - Padrões de commits
 
 ## Smarty 
 
