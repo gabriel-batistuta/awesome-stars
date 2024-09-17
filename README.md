@@ -477,7 +477,7 @@
 - [openai/gpt-2](https://github.com/openai/gpt-2) - Code for the paper "Language Models are Unsupervised Multitask Learners"
 - [hikaruAi/FacebookBot](https://github.com/hikaruAi/FacebookBot) - A facebook bot to scrap, post, spam and more without the facebook API
 - [python/pyperformance](https://github.com/python/pyperformance) - Python Performance Benchmark Suite
-- [EniasCailliau/GirlfriendGPT](https://github.com/EniasCailliau/GirlfriendGPT) - Girlfriend GPT is a Python project to build your own AI girlfriend using ChatGPT4.0
+- [EniasCailliau/GirlfriendGPT](https://github.com/EniasCailliau/GirlfriendGPT) - AI Girlfriend NSFW chatbot tool in Python - Build your own AI companion in Python using ChatGPT.
 - [pdfminer/pdfminer.six](https://github.com/pdfminer/pdfminer.six) - Community maintained fork of pdfminer - we fathom PDF
 - [jstockwin/py-pdf-parser](https://github.com/jstockwin/py-pdf-parser) - A Python tool to help extracting information from structured PDFs.
 - [s0md3v/roop](https://github.com/s0md3v/roop) - one-click face swap
