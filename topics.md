@@ -779,7 +779,7 @@
 - [scrapinghub/spidermon](https://github.com/scrapinghub/spidermon) - Scrapy Extension for monitoring spiders execution.
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [eza-community/eza](https://github.com/eza-community/eza) - A modern alternative to ls
-- [zaproxy/zaproxy](https://github.com/zaproxy/zaproxy) - The ZAP core project
+- [zaproxy/zaproxy](https://github.com/zaproxy/zaproxy) - The ZAP by Checkmarx Core project
 - [Cosmicoppai/LiSA](https://github.com/Cosmicoppai/LiSA) - LiSA (Native App to stream/read and download Anime & Manga ❤️ )
 - [webtorrent/webtorrent-desktop](https://github.com/webtorrent/webtorrent-desktop) - ❤️ Streaming torrent app for Mac, Windows, and Linux
 - [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, S
@@ -1185,6 +1185,7 @@
 
 ## others 
 
+- [FelipePaivaVale/Matricula-mestrado-IA](https://github.com/FelipePaivaVale/Matricula-mestrado-IA) - 
 - [ocodista/trampar-de-casa](https://github.com/ocodista/trampar-de-casa) - Apoiamos o trabalho remoto e divulgamos vagas semanalmente para inscritos.
 - [password123456/setup-selenium-with-chrome-driver-on-ubuntu_debian](https://github.com/password123456/setup-selenium-with-chrome-driver-on-ubuntu_debian) - Setup Selenium and Chrome driver on ubuntu/debian
 - [yufifi/SSHTuneling_PuTTY](https://github.com/yufifi/SSHTuneling_PuTTY) - Um passo-a-passo rápido para conectar-se à sua VM na Oracle Cloud Infrastructure através de um túnel SSH para navegar na web de forma segura e privada utilizando FoxyProxy.
@@ -1686,7 +1687,7 @@
 ## security 
 
 - [maurosoria/dirsearch](https://github.com/maurosoria/dirsearch) - Web path scanner
-- [zaproxy/zaproxy](https://github.com/zaproxy/zaproxy) - The ZAP core project
+- [zaproxy/zaproxy](https://github.com/zaproxy/zaproxy) - The ZAP by Checkmarx Core project
 - [the-tcpdump-group/tcpdump](https://github.com/the-tcpdump-group/tcpdump) - the TCPdump network dissector
 - [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “Keepass Password Safe”.
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
