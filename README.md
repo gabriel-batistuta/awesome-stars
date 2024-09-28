@@ -397,7 +397,6 @@
 
 ## Python 
 
-- [FelipePaivaVale/Matricula-mestrado-IA](https://github.com/FelipePaivaVale/Matricula-mestrado-IA) - 
 - [pythonbrasil/pyBusinesses-BR](https://github.com/pythonbrasil/pyBusinesses-BR) - Esse repositório contém informações de contato das empresas de tecnologia do Brasil que utilizam a linguagem de programação Python.
 - [erezsh/sqeleton](https://github.com/erezsh/sqeleton) - A python library for efficiently interacting and querying SQL databases
 - [scrapy/scrapyd](https://github.com/scrapy/scrapyd) - A service daemon to run Scrapy spiders
