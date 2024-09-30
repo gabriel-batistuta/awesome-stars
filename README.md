@@ -70,6 +70,7 @@
 
 ## C 
 
+- [nihui/realsr-ncnn-vulkan](https://github.com/nihui/realsr-ncnn-vulkan) - RealSR super resolution implemented with ncnn library
 - [Jorge-HCB/transpilador](https://github.com/Jorge-HCB/transpilador) - 
 - [mgba-emu/mgba](https://github.com/mgba-emu/mgba) - mGBA Game Boy Advance Emulator
 - [dlundqvist/xone](https://github.com/dlundqvist/xone) - Linux kernel driver for Xbox One and Xbox Series X|S accessories
@@ -111,6 +112,8 @@
 
 ## C++ 
 
+- [akai-katto/dandere2x](https://github.com/akai-katto/dandere2x) - Dandere2x - Fast Waifu2x Video Upscaling.
+- [AaronFeng753/Waifu2x-Extension-GUI](https://github.com/AaronFeng753/Waifu2x-Extension-GUI) - Video, Image and GIF upscale/enlarge(Super-Resolution) and Video frame interpolation. Achieved with Waifu2x,  Real-ESRGAN, Real-CUGAN, RTX Video Super Resolution VSR, SRMD, RealSR, Anime4K, RIFE, IFRN
 - [lvandeve/lodepng](https://github.com/lvandeve/lodepng) - PNG encoder and decoder in C and C++.
 - [NVIDIA/tensorflow](https://github.com/NVIDIA/tensorflow) - An Open Source Machine Learning Framework for Everyone
 - [Paulo-D2000/FUKompiler](https://github.com/Paulo-D2000/FUKompiler) - FUKompiler is a basic C compiler written in C++
@@ -310,6 +313,8 @@
 
 ## Lua 
 
+- [nagadomi/waifu2x](https://github.com/nagadomi/waifu2x) - Image Super-Resolution for Anime-Style Art
+- [itlgrim/roblox-demos](https://github.com/itlgrim/roblox-demos) - Various Roblox experiences
 - [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim) - 🌙 LunarVim is an IDE layer for Neovim. Completely free and community driven.
 
 ## Markdown 
@@ -396,6 +401,9 @@
 
 ## Python 
 
+- [jixiaozhong/RealSR](https://github.com/jixiaozhong/RealSR) - Real-World Super-Resolution via Kernel Estimation and Noise Injection
+- [baowenbo/DAIN](https://github.com/baowenbo/DAIN) - Depth-Aware Video Frame Interpolation (CVPR 2019)
+- [nagadomi/nunif](https://github.com/nagadomi/nunif) - Misc; latest version of waifu2x;  2D video to stereo 3D video conversion
 - [pythonbrasil/pyBusinesses-BR](https://github.com/pythonbrasil/pyBusinesses-BR) - Esse repositório contém informações de contato das empresas de tecnologia do Brasil que utilizam a linguagem de programação Python.
 - [erezsh/sqeleton](https://github.com/erezsh/sqeleton) - A python library for efficiently interacting and querying SQL databases
 - [scrapy/scrapyd](https://github.com/scrapy/scrapyd) - A service daemon to run Scrapy spiders
@@ -636,6 +644,7 @@
 
 ## TypeScript 
 
+- [Moebits/Waifu2x-GUI](https://github.com/Moebits/Waifu2x-GUI) - An app that upscales anime-styled images, gifs, videos, and pdfs with waifu2x.
 - [ocodista/trampar-de-casa](https://github.com/ocodista/trampar-de-casa) - Apoiamos o trabalho remoto e divulgamos vagas semanalmente para inscritos.
 - [LNReader/lnreader-plugins](https://github.com/LNReader/lnreader-plugins) - Repository to host source related issues, and requests for LNReader
 - [joao-victor-costa-gomes/Rick-And-Morty-Characters-App](https://github.com/joao-victor-costa-gomes/Rick-And-Morty-Characters-App) - An application powered by an API where the user can see various information about Rick & Morty characters and also add them to a list of favorites.
