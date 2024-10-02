@@ -155,6 +155,7 @@
 - [pwa](#pwa)
 - [python](#python)
 - [python3](#python3)
+- [pytorch](#pytorch)
 - [qt](#qt)
 - [r](#r)
 - [rails](#rails)
@@ -814,6 +815,7 @@
 - [androiddevbr/materiais-de-estudo](https://github.com/androiddevbr/materiais-de-estudo) - Livros, cursos, links úteis e outros materiais de estudo para quem quer aprender a criar aplicações Android! 🤖
 - [duckduckgo/Android](https://github.com/duckduckgo/Android) - DuckDuckGo Android App
 - [apache/nifi](https://github.com/apache/nifi) - Apache NiFi
+- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas) - A Collection of application ideas which can be used to improve your coding skills.
 - [SteamDatabase/BrowserExtension](https://github.com/SteamDatabase/BrowserExtension) - 💻 SteamDB's extension for Steam websites
 - [backend-br/opensource-br](https://github.com/backend-br/opensource-br) - Espaço para divulgação de projetos open-source brasileiros.
@@ -1016,6 +1018,7 @@
 
 ## llm 
 
+- [akanyaani/miniLLAMA](https://github.com/akanyaani/miniLLAMA) - A simplified LLAMA implementation for training and inference tasks.
 - [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache) - Semantic cache for LLMs. Fully integrated with LangChain and llama_index.
 - [NExT-GPT/NExT-GPT](https://github.com/NExT-GPT/NExT-GPT) - Code and models for NExT-GPT: Any-to-Any Multimodal Large Language Model
 
@@ -1185,6 +1188,10 @@
 
 ## others 
 
+- [id-Software/DOOM](https://github.com/id-Software/DOOM) - DOOM Open Source Release
+- [meta-llama/llama3](https://github.com/meta-llama/llama3) - The official Meta Llama 3 GitHub site
+- [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - 🔥🕷️ Crawl4AI: Open-source LLM Friendly Web Crawler & Scrapper
+- [meta-llama/llama-models](https://github.com/meta-llama/llama-models) - Utilities intended for use with Llama models.
 - [nihui/realsr-ncnn-vulkan](https://github.com/nihui/realsr-ncnn-vulkan) - RealSR super resolution implemented with ncnn library
 - [jixiaozhong/RealSR](https://github.com/jixiaozhong/RealSR) - Real-World Super-Resolution via Kernel Estimation and Noise Injection
 - [baowenbo/DAIN](https://github.com/baowenbo/DAIN) - Depth-Aware Video Frame Interpolation (CVPR 2019)
@@ -1602,6 +1609,10 @@
 - [archlinux/archinstall](https://github.com/archlinux/archinstall) - Arch Linux installer - guided, templates etc.
 - [cirospaciari/socketify.py](https://github.com/cirospaciari/socketify.py) - Bringing Http/Https and WebSockets High Performance servers for PyPy3 and Python3
 - [arthurspk/guiadevbrasil](https://github.com/arthurspk/guiadevbrasil) - Um guia extenso de informações com um vasto conteúdo de várias áreas para ajudar, agregar conhecimento e retirar dúvidas, nesse guia você encontrará tudo que necessário para qualquer carreira relacion
+
+## pytorch 
+
+- [akanyaani/miniLLAMA](https://github.com/akanyaani/miniLLAMA) - A simplified LLAMA implementation for training and inference tasks.
 
 ## qt 
 
