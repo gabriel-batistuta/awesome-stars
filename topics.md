@@ -1201,6 +1201,7 @@
 
 ## others 
 
+- [polkaulfield/ubuntu-debullshit](https://github.com/polkaulfield/ubuntu-debullshit) - Purges snaps, installs flatpaks, and restores vanilla GNOME
 - [lxml/lxml](https://github.com/lxml/lxml) - The lxml XML toolkit for Python
 - [meta-llama/llama](https://github.com/meta-llama/llama) - Inference code for Llama models
 - [id-Software/DOOM](https://github.com/id-Software/DOOM) - DOOM Open Source Release
