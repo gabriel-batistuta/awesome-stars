@@ -249,7 +249,7 @@
 - [andrfranklin/sigaa-tasks](https://github.com/andrfranklin/sigaa-tasks) - API robot to get the tasks from UFRN sigaa system.
 - [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
 - [jondot/awesome-react-native](https://github.com/jondot/awesome-react-native) - Awesome React Native components, news, tools, and learning material!
-- [thiagofrank1/CALCULADORA-DE-IMC](https://github.com/thiagofrank1/CALCULADORA-DE-IMC) - Calculadora de IMC responsiva
+- [thiagofrnk/CALCULADORA-DE-IMC](https://github.com/thiagofrnk/CALCULADORA-DE-IMC) - Calculadora de IMC responsiva
 - [Novik/ruTorrent](https://github.com/Novik/ruTorrent) - Yet another web front-end for rTorrent
 - [max-mapper/torrent](https://github.com/max-mapper/torrent) - download torrents with node from the CLI
 - [webtorrent/webtorrent](https://github.com/webtorrent/webtorrent) - ⚡️ Streaming torrent client for the web
@@ -334,7 +334,7 @@
 - [soruly/slides](https://github.com/soruly/slides) - 
 - [fadadoc/NOTES-DEFEAT](https://github.com/fadadoc/NOTES-DEFEAT) - Este repositório foi criado para fazer relação das menores notas de turma do curso de CC turma 2023.
 - [ulid/spec](https://github.com/ulid/spec) - The canonical spec for ulid
-- [thiagofrank1/polyglopet-japones](https://github.com/thiagofrank1/polyglopet-japones) - Documentação de uma linguagem de programação em Japonês
+- [thiagofrnk/polyglopet-japones](https://github.com/thiagofrnk/polyglopet-japones) - Documentação de uma linguagem de programação em Japonês
 - [jincheng9/markdown_supported_languages](https://github.com/jincheng9/markdown_supported_languages) - Markdown supported languages for syntax highlighting
 - [naturepoker/offline_dkms_packages](https://github.com/naturepoker/offline_dkms_packages) - Selection of packages for offline installation of dkms (along with build-essential, make, gcc and etc) on Ubuntu LTS 22.04. Tested on HP Z280
 - [AndrehRicardo/Bleach-Heat-the-Soul-7-traducao-PT-BR](https://github.com/AndrehRicardo/Bleach-Heat-the-Soul-7-traducao-PT-BR) - Uma tradução feita por mim do jogo de Playstation Portable (PSP) em Português do Brasil.
@@ -668,7 +668,7 @@
 - [samueldurantes/susi](https://github.com/samueldurantes/susi) - A simple viewer of the cutoff scores for all Brazilian higher education institutions participating in SISU
 - [vuejs/core](https://github.com/vuejs/core) - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
 - [hydralauncher/hydra](https://github.com/hydralauncher/hydra) - Hydra is a game launcher with its own embedded bittorrent client
-- [thiagofrank1/consulta-clima](https://github.com/thiagofrank1/consulta-clima) - 
+- [thiagofrnk/consulta-clima](https://github.com/thiagofrnk/consulta-clima) - 
 - [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - JavaScript API for Chrome and Firefox
 - [apify/crawlee](https://github.com/apify/crawlee) - Crawlee—A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and o
 - [LNReader/lnreader](https://github.com/LNReader/lnreader) - Light novel reader for Android.
