@@ -826,7 +826,6 @@
 - [androiddevbr/materiais-de-estudo](https://github.com/androiddevbr/materiais-de-estudo) - Livros, cursos, links úteis e outros materiais de estudo para quem quer aprender a criar aplicações Android! 🤖
 - [duckduckgo/Android](https://github.com/duckduckgo/Android) - DuckDuckGo Android App
 - [apache/nifi](https://github.com/apache/nifi) - Apache NiFi
-- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas) - A Collection of application ideas which can be used to improve your coding skills.
 - [SteamDatabase/BrowserExtension](https://github.com/SteamDatabase/BrowserExtension) - 💻 SteamDB's extension for Steam websites
 - [backend-br/opensource-br](https://github.com/backend-br/opensource-br) - Espaço para divulgação de projetos open-source brasileiros.
