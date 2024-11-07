@@ -275,6 +275,7 @@
 - [phoboslab/Impact](https://github.com/phoboslab/Impact) - HTML5 Game Engine
 - [lukas102000/chatbot-conversation-v1.5](https://github.com/lukas102000/chatbot-conversation-v1.5) - 
 - [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces.
+- [josemalcher/Livro-JavaScript-EstruturaDadosAlgoritmoJavaScript](https://github.com/josemalcher/Livro-JavaScript-EstruturaDadosAlgoritmoJavaScript) - Estruturas de dados e algoritmos em JavaScript - Códigos do Livro e exercícios
 - [SteamDatabase/BrowserExtension](https://github.com/SteamDatabase/BrowserExtension) - 💻 SteamDB's extension for Steam websites
 - [npm/cli](https://github.com/npm/cli) - the package manager for JavaScript
 - [google/WebFundamentals](https://github.com/google/WebFundamentals) - Former git repo for WebFundamentals on developers.google.com
@@ -329,6 +330,7 @@
 
 ## Others 
 
+- [photopea/photopea](https://github.com/photopea/photopea) - Photopea is online image editor
 - [password123456/setup-selenium-with-chrome-driver-on-ubuntu_debian](https://github.com/password123456/setup-selenium-with-chrome-driver-on-ubuntu_debian) - Setup Selenium and Chrome driver on ubuntu/debian
 - [yufifi/SSHTuneling_PuTTY](https://github.com/yufifi/SSHTuneling_PuTTY) - Um passo-a-passo rápido para conectar-se à sua VM na Oracle Cloud Infrastructure através de um túnel SSH para navegar na web de forma segura e privada utilizando FoxyProxy.
 - [soruly/slides](https://github.com/soruly/slides) - 
@@ -370,7 +372,6 @@
 - [yeoman/yeoman](https://github.com/yeoman/yeoman) - Yeoman - a set of tools for automating development workflow
 - [androiddevbr/materiais-de-estudo](https://github.com/androiddevbr/materiais-de-estudo) - Livros, cursos, links úteis e outros materiais de estudo para quem quer aprender a criar aplicações Android! 🤖
 - [GorvGoyl/Clone-Wars](https://github.com/GorvGoyl/Clone-Wars) - 100+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars.
-- [josemalcher/Livro-JavaScript-EstruturaDadosAlgoritmoJavaScript](https://github.com/josemalcher/Livro-JavaScript-EstruturaDadosAlgoritmoJavaScript) - Estruturas de dados e algoritmos em JavaScript - Códigos do Livro e exercícios
 - [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas) - A Collection of application ideas which can be used to improve your coding skills.
 - [apsantos-dev/modelo-de-contrato](https://github.com/apsantos-dev/modelo-de-contrato) - Modelo de contrato de prestação de serviços [ Desenvolvedor Freelancer ].
 - [arthurspk/guiadobackend](https://github.com/arthurspk/guiadobackend) - Nesse guia você encontrará tudo para se torna um desenvolvedor back-end, dessa maneira, encontrará mapas mentais, cursos, trilhas e outras ferramentas para poder praticar o conhecimento adquirido.
