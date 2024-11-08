@@ -1203,6 +1203,7 @@
 
 ## others 
 
+- [mateusclira/gcp-workflow-trino-superset](https://github.com/mateusclira/gcp-workflow-trino-superset) - Desafio Final do Bootcamp - Engenharia de Dados Cloud
 - [photopea/photopea](https://github.com/photopea/photopea) - Photopea is online image editor
 - [polkaulfield/ubuntu-debullshit](https://github.com/polkaulfield/ubuntu-debullshit) - Purges snaps, installs flatpaks, and restores vanilla GNOME
 - [lxml/lxml](https://github.com/lxml/lxml) - The lxml XML toolkit for Python
