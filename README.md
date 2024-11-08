@@ -405,6 +405,7 @@
 
 ## Python 
 
+- [mateusclira/gcp-workflow-trino-superset](https://github.com/mateusclira/gcp-workflow-trino-superset) - Desafio Final do Bootcamp - Engenharia de Dados Cloud
 - [pyca/cryptography](https://github.com/pyca/cryptography) - cryptography is a package designed to expose cryptographic primitives and recipes to Python developers.
 - [ollama/ollama-python](https://github.com/ollama/ollama-python) - Ollama Python library
 - [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
