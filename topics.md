@@ -243,6 +243,7 @@
 
 ## api 
 
+- [arrrlo/Google-Images-Search](https://github.com/arrrlo/Google-Images-Search) - [PYTHON] Search for image using Google Custom Search API and resize & crop afterwards
 - [consumet/consumet.ts](https://github.com/consumet/consumet.ts) - Nodejs library that provides high-level APIs for obtaining information on various entertainment media such as books, movies, comic books, anime, manga, and so on.
 - [ListenNotes/podcast-api-python](https://github.com/ListenNotes/podcast-api-python) - The Official Python library for the Listen Notes Podcast API
 - [fastapi/fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
@@ -751,6 +752,7 @@
 
 ## google 
 
+- [arrrlo/Google-Images-Search](https://github.com/arrrlo/Google-Images-Search) - [PYTHON] Search for image using Google Custom Search API and resize & crop afterwards
 - [Nachtalb/reverse_image_search_bot](https://github.com/Nachtalb/reverse_image_search_bot) - Image Reverse Search Bot🕵️‍♂️🔍: A handy Telegram bot for reverse image searches on images, videos, and GIFs, supporting multiple search engines. Unleash the power of reverse searching! 🚀🤖
 - [UlionTse/translators](https://github.com/UlionTse/translators) - 🌏🌍🌎Translators🌎🌍🌏 is a library that aims to bring free, multiple, enjoyable translations to individuals and students in Python.  Translators是一个旨在用Python为个人和学生带来免费、多样、愉快翻译的库。
 
