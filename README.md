@@ -666,6 +666,7 @@
 
 ## TypeScript 
 
+- [ViniciosLugli/hackathon-capes](https://github.com/ViniciosLugli/hackathon-capes) - 
 - [Moebits/Waifu2x-GUI](https://github.com/Moebits/Waifu2x-GUI) - An app that upscales anime-styled images, gifs, videos, and pdfs with waifu2x.
 - [ocodista/trampar-de-casa](https://github.com/ocodista/trampar-de-casa) - Apoiamos o trabalho remoto e divulgamos vagas semanalmente para inscritos.
 - [LNReader/lnreader-plugins](https://github.com/LNReader/lnreader-plugins) - Repository to host source related issues, and requests for LNReader
