@@ -131,6 +131,7 @@
 - [nodejs](#nodejs)
 - [nosql](#nosql)
 - [npm](#npm)
+- [open-data](#open-data)
 - [open-source](#open-source)
 - [openai](#openai)
 - [opencv](#opencv)
@@ -266,6 +267,7 @@
 
 ## artificial-intelligence 
 
+- [okfn-brasil/serenata-de-amor](https://github.com/okfn-brasil/serenata-de-amor) - 🕵 Artificial Intelligence for social control of public administration | **This repository does not receive frequent updates. Check out the README**
 - [recommenders-team/recommenders](https://github.com/recommenders-team/recommenders) - Best Practices on Recommendation Systems
 
 ## automation 
@@ -494,6 +496,7 @@
 
 ## data-science 
 
+- [okfn-brasil/serenata-de-amor](https://github.com/okfn-brasil/serenata-de-amor) - 🕵 Artificial Intelligence for social control of public administration | **This repository does not receive frequent updates. Check out the README**
 - [cleanlab/cleanlab](https://github.com/cleanlab/cleanlab) - The standard data-centric AI package for data quality and machine learning with messy, real-world data and labels.
 - [ErdemOzgen/Data-Engineering-Roadmap](https://github.com/ErdemOzgen/Data-Engineering-Roadmap) - Roadmap for Data Engineering
 - [plotly/dash](https://github.com/plotly/dash) - Data Apps & Dashboards for Python. No JavaScript Required.
@@ -1050,6 +1053,7 @@
 
 ## machine-learning 
 
+- [okfn-brasil/serenata-de-amor](https://github.com/okfn-brasil/serenata-de-amor) - 🕵 Artificial Intelligence for social control of public administration | **This repository does not receive frequent updates. Check out the README**
 - [k4yt3x/video2x](https://github.com/k4yt3x/video2x) - A machine learning-based lossless video super resolution framework. Est. Hack the Valley II, 2018.
 - [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
 - [google-research/google-research](https://github.com/google-research/google-research) - Google Research
@@ -1166,6 +1170,10 @@
 - [rammcodes/Dopefolio](https://github.com/rammcodes/Dopefolio) - Dopefolio 🔥 - Portfolio Template for Developers 🚀
 - [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (July 2024)
 - [npm/cli](https://github.com/npm/cli) - the package manager for JavaScript
+
+## open-data 
+
+- [okfn-brasil/serenata-de-amor](https://github.com/okfn-brasil/serenata-de-amor) - 🕵 Artificial Intelligence for social control of public administration | **This repository does not receive frequent updates. Check out the README**
 
 ## open-source 
 
