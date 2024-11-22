@@ -405,6 +405,7 @@
 
 ## Python 
 
+- [vietnh1009/ASCII-generator](https://github.com/vietnh1009/ASCII-generator) - ASCII generator (image to text, image to image, video to video)
 - [okfn-brasil/serenata-de-amor](https://github.com/okfn-brasil/serenata-de-amor) - 🕵 Artificial Intelligence for social control of public administration | **This repository does not receive frequent updates. Check out the README**
 - [arrrlo/Google-Images-Search](https://github.com/arrrlo/Google-Images-Search) - [PYTHON] Search for image using Google Custom Search API and resize & crop afterwards
 - [Manisso/fsociety](https://github.com/Manisso/fsociety) - fsociety Hacking Tools Pack – A Penetration Testing Framework
