@@ -1197,6 +1197,7 @@
 
 ## opencv 
 
+- [vietnh1009/ASCII-generator](https://github.com/vietnh1009/ASCII-generator) - ASCII generator (image to text, image to image, video to video)
 - [soruly/trace.moe](https://github.com/soruly/trace.moe) - Anime Scene Search by Image
 
 ## opengl 
@@ -1547,6 +1548,7 @@
 
 ## python 
 
+- [vietnh1009/ASCII-generator](https://github.com/vietnh1009/ASCII-generator) - ASCII generator (image to text, image to image, video to video)
 - [Manisso/fsociety](https://github.com/Manisso/fsociety) - fsociety Hacking Tools Pack – A Penetration Testing Framework
 - [pyca/cryptography](https://github.com/pyca/cryptography) - cryptography is a package designed to expose cryptographic primitives and recipes to Python developers.
 - [ollama/ollama-python](https://github.com/ollama/ollama-python) - Ollama Python library
@@ -1638,6 +1640,7 @@
 
 ## python3 
 
+- [vietnh1009/ASCII-generator](https://github.com/vietnh1009/ASCII-generator) - ASCII generator (image to text, image to image, video to video)
 - [gawel/pyquery](https://github.com/gawel/pyquery) - A jquery-like library for python
 - [luxuriant777/Handwritten-Text-Generator](https://github.com/luxuriant777/Handwritten-Text-Generator) - This project offers a simple and intuitive interface for users to input text and generate images that showcase the text in a handwritten style. The generator supports several stylistic modifications i
 - [fake-useragent/fake-useragent](https://github.com/fake-useragent/fake-useragent) - Up-to-date simple useragent faker with real world database
