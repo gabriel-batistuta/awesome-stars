@@ -189,6 +189,7 @@
 
 ## HTML 
 
+- [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - 🔥🕷️ Crawl4AI: Open-source LLM Friendly Web Crawler & Scrapper
 - [joao-victor-costa-gomes/projetos-pequenos-front-end](https://github.com/joao-victor-costa-gomes/projetos-pequenos-front-end) - Repositório onde vou postar alguns projetos pequenos que fiz usando HTML, CSS e JavaScript
 - [keiyoushi/extensions](https://github.com/keiyoushi/extensions) - Source extensions for the Mihon/Tachiyomi app.
 - [cescaa/SadSongsForSummer](https://github.com/cescaa/SadSongsForSummer) - I created a webpage dedicated to my favourite song of 2022 (and my sad summer).
@@ -227,6 +228,7 @@
 
 ## JavaScript 
 
+- [lawfx/YoutubeNonStop](https://github.com/lawfx/YoutubeNonStop) - Autoclicker for Youtube's latest "feature" - Video paused. Continue watching?
 - [soruly/trace.moe-worker](https://github.com/soruly/trace.moe-worker) - background worker nodes for trace.moe
 - [soruly/trace.moe-api](https://github.com/soruly/trace.moe-api) - API server for serving backend requests for trace.moe
 - [TheRealJoelmatic/RemoveAdblockThing](https://github.com/TheRealJoelmatic/RemoveAdblockThing) - The intrusive "Ad blocker are not allowed on YouTube"  message is annoying. This open-source project aims to address this issue by providing a solution to bypass YouTube's ad blocker detection
@@ -422,7 +424,6 @@
 - [meta-llama/llama](https://github.com/meta-llama/llama) - Inference code for Llama models
 - [akanyaani/miniLLAMA](https://github.com/akanyaani/miniLLAMA) - A simplified LLAMA implementation for training and inference tasks.
 - [meta-llama/llama3](https://github.com/meta-llama/llama3) - The official Meta Llama 3 GitHub site
-- [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - 🔥🕷️ Crawl4AI: Open-source LLM Friendly Web Crawler & Scrapper
 - [meta-llama/llama-models](https://github.com/meta-llama/llama-models) - Utilities intended for use with Llama models.
 - [jixiaozhong/RealSR](https://github.com/jixiaozhong/RealSR) - Real-World Super-Resolution via Kernel Estimation and Noise Injection
 - [baowenbo/DAIN](https://github.com/baowenbo/DAIN) - Depth-Aware Video Frame Interpolation (CVPR 2019)
