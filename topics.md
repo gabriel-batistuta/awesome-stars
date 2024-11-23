@@ -1215,6 +1215,7 @@
 
 ## others 
 
+- [lawfx/YoutubeNonStop](https://github.com/lawfx/YoutubeNonStop) - Autoclicker for Youtube's latest "feature" - Video paused. Continue watching?
 - [ViniciosLugli/hackathon-capes](https://github.com/ViniciosLugli/hackathon-capes) - 
 - [mateusclira/gcp-workflow-trino-superset](https://github.com/mateusclira/gcp-workflow-trino-superset) - Desafio Final do Bootcamp - Engenharia de Dados Cloud
 - [photopea/photopea](https://github.com/photopea/photopea) - Photopea is online image editor
