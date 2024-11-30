@@ -26,6 +26,7 @@
 - [Julia](#julia)
 - [Jupyter Notebook](#jupyter-notebook)
 - [Kotlin](#kotlin)
+- [Latte](#latte)
 - [Lua](#lua)
 - [Markdown](#markdown)
 - [Others](#others)
@@ -70,6 +71,7 @@
 
 ## C 
 
+- [hengyoush/kyanos](https://github.com/hengyoush/kyanos) - Visualize the time packets spend in the kernel, watch & analyze in command line.
 - [nihui/realsr-ncnn-vulkan](https://github.com/nihui/realsr-ncnn-vulkan) - RealSR super resolution implemented with ncnn library
 - [Jorge-HCB/transpilador](https://github.com/Jorge-HCB/transpilador) - 
 - [mgba-emu/mgba](https://github.com/mgba-emu/mgba) - mGBA Game Boy Advance Emulator
@@ -316,6 +318,10 @@
 - [TeamVanced/VancedManager](https://github.com/TeamVanced/VancedManager) - Vanced Installer
 - [az4521/TachiyomiAZ](https://github.com/az4521/TachiyomiAZ) - Free and open source manga reader for Android
 - [jobobby04/TachiyomiSY](https://github.com/jobobby04/TachiyomiSY) - Free and open source manga reader for Android
+
+## Latte 
+
+- [joshrandall8478/kde-rice](https://github.com/joshrandall8478/kde-rice) - 
 
 ## Lua 
 
