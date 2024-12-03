@@ -72,7 +72,7 @@
 ## C 
 
 - [virtio-win/kvm-guest-drivers-windows](https://github.com/virtio-win/kvm-guest-drivers-windows) - Windows paravirtualized drivers for QEMU\KVM
-- [hengyoush/kyanos](https://github.com/hengyoush/kyanos) - Visualize the time packets spend in the kernel, watch & analyze in command line.
+- [hengyoush/kyanos](https://github.com/hengyoush/kyanos) - Visualize the time packets spend in the kernel, analyze requests/responses in command line.
 - [nihui/realsr-ncnn-vulkan](https://github.com/nihui/realsr-ncnn-vulkan) - RealSR super resolution implemented with ncnn library
 - [Jorge-HCB/transpilador](https://github.com/Jorge-HCB/transpilador) - 
 - [mgba-emu/mgba](https://github.com/mgba-emu/mgba) - mGBA Game Boy Advance Emulator
@@ -272,7 +272,6 @@
 - [RalphAlexander/Seasonal-Anime-Calendar](https://github.com/RalphAlexander/Seasonal-Anime-Calendar) - A Web App that tracks currently airing Animes. Users can make and edit their owns lists as well as display them in order of time, date and filter all Animes that aren't airing in a certain amount of t
 - [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime ✨🐢🚀✨
 - [Kong/insomnia](https://github.com/Kong/insomnia) - The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.
-- [github/docs](https://github.com/github/docs) - The open-source repo for docs.github.com
 - [tachiyomiorg/user-agents](https://github.com/tachiyomiorg/user-agents) - Latest user agent strings for major browsers and OSs
 - [dannyfan/crunchyroll-playback-speed](https://github.com/dannyfan/crunchyroll-playback-speed) - A google extension to control crunchyroll video speed
 - [ryanmcdermott/clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) - :bathtub: Clean Code concepts adapted for JavaScript
@@ -714,6 +713,7 @@
 - [angular/angular-cli](https://github.com/angular/angular-cli) - CLI tool for Angular
 - [reactjs/pt-br.react.dev](https://github.com/reactjs/pt-br.react.dev) - 🇧🇷 React documentation website in Portuguese (Brazil)
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
+- [github/docs](https://github.com/github/docs) - The open-source repo for docs.github.com
 - [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 - [AniList/ApiV2-GraphQL-Docs](https://github.com/AniList/ApiV2-GraphQL-Docs) - AniList API documentation
 - [wei/pull](https://github.com/wei/pull) - 🤖 Keep your forks up-to-date via automated PRs
