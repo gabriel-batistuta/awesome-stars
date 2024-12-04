@@ -118,7 +118,7 @@
 - [id-Software/DOOM](https://github.com/id-Software/DOOM) - DOOM Open Source Release
 - [akai-katto/dandere2x](https://github.com/akai-katto/dandere2x) - Dandere2x - Fast Waifu2x Video Upscaling.
 - [AaronFeng753/Waifu2x-Extension-GUI](https://github.com/AaronFeng753/Waifu2x-Extension-GUI) - Video, Image and GIF upscale/enlarge(Super-Resolution) and Video frame interpolation. Achieved with Waifu2x,  Real-ESRGAN, Real-CUGAN, RTX Video Super Resolution VSR, SRMD, RealSR, Anime4K, RIFE, IFRN
-- [k4yt3x/video2x](https://github.com/k4yt3x/video2x) - A machine learning-based lossless video super resolution framework. Est. Hack the Valley II, 2018.
+- [k4yt3x/video2x](https://github.com/k4yt3x/video2x) - A machine learning-based video super resolution and frame interpolation framework. Est. Hack the Valley II, 2018.
 - [lvandeve/lodepng](https://github.com/lvandeve/lodepng) - PNG encoder and decoder in C and C++.
 - [NVIDIA/tensorflow](https://github.com/NVIDIA/tensorflow) - An Open Source Machine Learning Framework for Everyone
 - [Paulo-D2000/FUKompiler](https://github.com/Paulo-D2000/FUKompiler) - FUKompiler is a basic C compiler written in C++
@@ -341,6 +341,7 @@
 
 ## Others 
 
+- [korvahannu/arch-nvidia-drivers-installation-guide](https://github.com/korvahannu/arch-nvidia-drivers-installation-guide) - A repository that holds a simple guide on how you can install and configure proprietary NVIDIA drivers for Arch Linux.
 - [photopea/photopea](https://github.com/photopea/photopea) - Photopea is online image editor
 - [password123456/setup-selenium-with-chrome-driver-on-ubuntu_debian](https://github.com/password123456/setup-selenium-with-chrome-driver-on-ubuntu_debian) - Setup Selenium and Chrome driver on ubuntu/debian
 - [yufifi/SSHTuneling_PuTTY](https://github.com/yufifi/SSHTuneling_PuTTY) - Um passo-a-passo rápido para conectar-se à sua VM na Oracle Cloud Infrastructure através de um túnel SSH para navegar na web de forma segura e privada utilizando FoxyProxy.
