@@ -371,7 +371,6 @@
 - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
 - [ruby/ruby](https://github.com/ruby/ruby) - The Ruby Programming Language
 - [pret/pokeemerald](https://github.com/pret/pokeemerald) - Decompilation of Pokémon Emerald
-- [scizz/darkfire](https://github.com/scizz/darkfire) - GBA ROM hack of Pokémon Emerald with a brand new region and a darker storyline. Built with the pret pokeemerald decompilation project.
 - [vim/vim](https://github.com/vim/vim) - The official Vim repository
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 - [arthurspk/guiadobackend](https://github.com/arthurspk/guiadobackend) - Nesse guia você encontrará tudo para se torna um desenvolvedor back-end, dessa maneira, encontrará mapas mentais, cursos, trilhas e outras ferramentas para poder praticar o conhecimento adquirido.
@@ -734,7 +733,7 @@
 
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal
 - [danielgatis/imgcat](https://github.com/danielgatis/imgcat) - Display images and gifs in your terminal.
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.2, Mistral, Gemma 2, and other large language models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, Mistral, Gemma 2, and other large language models.
 - [segmentio/ksuid](https://github.com/segmentio/ksuid) - K-Sortable Globally Unique IDs
 - [OJ/gobuster](https://github.com/OJ/gobuster) - Directory/File, DNS and VHost busting tool written in Go
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
@@ -753,7 +752,7 @@
 
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal
 - [danielgatis/imgcat](https://github.com/danielgatis/imgcat) - Display images and gifs in your terminal.
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.2, Mistral, Gemma 2, and other large language models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, Mistral, Gemma 2, and other large language models.
 - [segmentio/ksuid](https://github.com/segmentio/ksuid) - K-Sortable Globally Unique IDs
 - [sony/sonyflake](https://github.com/sony/sonyflake) - A distributed unique ID generator inspired by Twitter's Snowflake
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
@@ -1056,7 +1055,7 @@
 
 ## llm 
 
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.2, Mistral, Gemma 2, and other large language models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, Mistral, Gemma 2, and other large language models.
 - [akanyaani/miniLLAMA](https://github.com/akanyaani/miniLLAMA) - A simplified LLAMA implementation for training and inference tasks.
 - [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache) - Semantic cache for LLMs. Fully integrated with LangChain and llama_index.
 - [NExT-GPT/NExT-GPT](https://github.com/NExT-GPT/NExT-GPT) - Code and models for NExT-GPT: Any-to-Any Multimodal Large Language Model
@@ -1302,7 +1301,7 @@
 - [lvandeve/lodepng](https://github.com/lvandeve/lodepng) - PNG encoder and decoder in C and C++.
 - [fadadoc/NOTES-DEFEAT](https://github.com/fadadoc/NOTES-DEFEAT) - Este repositório foi criado para fazer relação das menores notas de turma do curso de CC turma 2023.
 - [yurisalesc/optimizing-your-django-orm-queries-talk](https://github.com/yurisalesc/optimizing-your-django-orm-queries-talk) - Palestra dada no 12º Meetup GruPy-RN Mossoró
-- [samueldurantes/susi](https://github.com/samueldurantes/susi) - A simple viewer of the cutoff scores for all Brazilian higher education institutions participating in SISU
+- [samueldurantes/susi](https://github.com/samueldurantes/susi) - A simple viewer of the cutoff scores for all Brazilian universities participating in SISU
 - [mwaskom/seaborn-data](https://github.com/mwaskom/seaborn-data) - Data repository for seaborn examples
 - [HigherOrderCO/Bend](https://github.com/HigherOrderCO/Bend) - A massively parallel, high-level programming language
 - [vuejs/core](https://github.com/vuejs/core) - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
@@ -1738,7 +1737,6 @@
 - [Luca1991/NDSFactory](https://github.com/Luca1991/NDSFactory) - Unpack & Repack Nintendo DS Roms (.nds)
 - [iBotPeaches/Apktool](https://github.com/iBotPeaches/Apktool) - A tool for reverse engineering Android apk files
 - [pret/pokeemerald](https://github.com/pret/pokeemerald) - Decompilation of Pokémon Emerald
-- [scizz/darkfire](https://github.com/scizz/darkfire) - GBA ROM hack of Pokémon Emerald with a brand new region and a darker storyline. Built with the pret pokeemerald decompilation project.
 - [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers
 
 ## ruby 
