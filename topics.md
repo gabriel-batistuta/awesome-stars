@@ -1249,7 +1249,7 @@
 - [meta-llama/llama](https://github.com/meta-llama/llama) - Inference code for Llama models
 - [id-Software/DOOM](https://github.com/id-Software/DOOM) - DOOM Open Source Release
 - [meta-llama/llama3](https://github.com/meta-llama/llama3) - The official Meta Llama 3 GitHub site
-- [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - 🔥🕷️ Crawl4AI: Crawl Smarter, Faster, Freely. For AI.
+- [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - 🚀🤖 Crawl4AI: Crawl Smarter, Faster, Freely. For AI.
 - [meta-llama/llama-models](https://github.com/meta-llama/llama-models) - Utilities intended for use with Llama models.
 - [nihui/realsr-ncnn-vulkan](https://github.com/nihui/realsr-ncnn-vulkan) - RealSR super resolution implemented with ncnn library
 - [jixiaozhong/RealSR](https://github.com/jixiaozhong/RealSR) - Real-World Super-Resolution via Kernel Estimation and Noise Injection
