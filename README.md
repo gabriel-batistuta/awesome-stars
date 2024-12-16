@@ -72,7 +72,7 @@
 ## C 
 
 - [virtio-win/kvm-guest-drivers-windows](https://github.com/virtio-win/kvm-guest-drivers-windows) - Windows paravirtualized drivers for QEMU\KVM
-- [hengyoush/kyanos](https://github.com/hengyoush/kyanos) - Kyanos is an ebpf based networking analysis tool. It can visualize the time packets spend in the kernel, analyze requests/responses in command line.
+- [hengyoush/kyanos](https://github.com/hengyoush/kyanos) - Kyanos is an ebpf based networking analysis tool. It can visualize the time packets spend in the kernel, analyze requests/responses in command line, and more...
 - [nihui/realsr-ncnn-vulkan](https://github.com/nihui/realsr-ncnn-vulkan) - RealSR super resolution implemented with ncnn library
 - [Jorge-HCB/transpilador](https://github.com/Jorge-HCB/transpilador) - 
 - [mgba-emu/mgba](https://github.com/mgba-emu/mgba) - mGBA Game Boy Advance Emulator
@@ -302,6 +302,7 @@
 
 ## Kotlin 
 
+- [jakepurple13/OtakuWorld](https://github.com/jakepurple13/OtakuWorld) - Anime Watcher, Manga Reader, and Novel Reader as three separate apps, same UI
 - [komikku-app/komikku-extensions](https://github.com/komikku-app/komikku-extensions) - Source code of extensions for the Tachiyomi/Mihon/Komikku app.
 - [Claudemirovsky/cursedyomi-extensions](https://github.com/Claudemirovsky/cursedyomi-extensions) - Some random aniyomi extensions I want to maintain.
 - [spacecowboy/Feeder](https://github.com/spacecowboy/Feeder) - Android RSS reader app
@@ -340,6 +341,7 @@
 
 ## Others 
 
+- [Duarte-753/Traducao_SKES_2023](https://github.com/Duarte-753/Traducao_SKES_2023) - Tradução de skyrim special edition pc
 - [korvahannu/arch-nvidia-drivers-installation-guide](https://github.com/korvahannu/arch-nvidia-drivers-installation-guide) - A repository that holds a simple guide on how you can install and configure proprietary NVIDIA drivers for Arch Linux.
 - [photopea/photopea](https://github.com/photopea/photopea) - Photopea is online image editor
 - [password123456/setup-selenium-with-chrome-driver-on-ubuntu_debian](https://github.com/password123456/setup-selenium-with-chrome-driver-on-ubuntu_debian) - Setup Selenium and Chrome driver on ubuntu/debian
@@ -470,7 +472,7 @@
 - [NExT-GPT/NExT-GPT](https://github.com/NExT-GPT/NExT-GPT) - Code and models for NExT-GPT: Any-to-Any Multimodal Large Language Model
 - [Animenosekai/translate](https://github.com/Animenosekai/translate) - A module grouping multiple translation APIs
 - [josephmisiti/hadoop-examples](https://github.com/josephmisiti/hadoop-examples) - You wanna learn how to use Hadoop, start here!
-- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - 📊 Blazing fast Python framework for web crawling, scraping, testing, and reporting. Supports pytest. Stealth abilities: UC Mode and CDP Mode.
+- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - Blazing fast web crawling, scraping, and testing with Python. CDP Mode provides stealth.
 - [luxuriant777/Handwritten-Text-Generator](https://github.com/luxuriant777/Handwritten-Text-Generator) - This project offers a simple and intuitive interface for users to input text and generate images that showcase the text in a handwritten style. The generator supports several stylistic modifications i
 - [batocera-linux/batocera.linux](https://github.com/batocera-linux/batocera.linux) - batocera.linux
 - [EnergyNeumann/Bot-Que-Pula-Os-Episodios-de-One-Piece](https://github.com/EnergyNeumann/Bot-Que-Pula-Os-Episodios-de-One-Piece) - Você já pensou em pular os episódios de One Piece, mas por estar deitado e relaxado, ficou com preguiça de levantar e pular? Aqui está a solução! Esse bot irá pular a quantidade de episódios que você 
