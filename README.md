@@ -72,7 +72,7 @@
 ## C 
 
 - [virtio-win/kvm-guest-drivers-windows](https://github.com/virtio-win/kvm-guest-drivers-windows) - Windows paravirtualized drivers for QEMU\KVM
-- [hengyoush/kyanos](https://github.com/hengyoush/kyanos) - Kyanos is an ebpf based networking analysis tool. It can visualize the time packets spend in the kernel, analyze requests/responses in command line, and more...
+- [hengyoush/kyanos](https://github.com/hengyoush/kyanos) - Kyanos is an ebpf based networking analysis tool. It can visualize the time packets spend in the kernel, analyze requests/responses in command line, suppport various L7 protocols like HTTP/Redis/MySQL
 - [nihui/realsr-ncnn-vulkan](https://github.com/nihui/realsr-ncnn-vulkan) - RealSR super resolution implemented with ncnn library
 - [Jorge-HCB/transpilador](https://github.com/Jorge-HCB/transpilador) - 
 - [mgba-emu/mgba](https://github.com/mgba-emu/mgba) - mGBA Game Boy Advance Emulator
@@ -651,6 +651,7 @@
 
 ## Shell 
 
+- [angristan/openvpn-install](https://github.com/angristan/openvpn-install) - Set up your own OpenVPN server on Debian, Ubuntu, Fedora, CentOS or Arch Linux.
 - [mikeroyal/PipeWire-Guide](https://github.com/mikeroyal/PipeWire-Guide) - PipeWire Guide. Learn about how PipeWire gives your Linux system a Professional Audio/Video Processing workflow.
 - [MatMoul/archdi](https://github.com/MatMoul/archdi) - Arch Linux Desktop Installer : tutorial installer
 - [MatMoul/archfi](https://github.com/MatMoul/archfi) - Arch Linux Fast Installer : tutorial installer
