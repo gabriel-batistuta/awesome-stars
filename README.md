@@ -72,7 +72,7 @@
 ## C 
 
 - [virtio-win/kvm-guest-drivers-windows](https://github.com/virtio-win/kvm-guest-drivers-windows) - Windows paravirtualized drivers for QEMU\KVM
-- [hengyoush/kyanos](https://github.com/hengyoush/kyanos) - Kyanos is an ebpf based networking analysis tool. It can visualize the time packets spend in the kernel, analyze requests/responses in command line, suppport various L7 protocols like HTTP/Redis/MySQL
+- [hengyoush/kyanos](https://github.com/hengyoush/kyanos) - Kyanos is a networking analysis tool based on eBPF. It can visualize the time packets spend in the kernel, capture requests/responses in command line, calculates various aggregated metrics, making tro
 - [nihui/realsr-ncnn-vulkan](https://github.com/nihui/realsr-ncnn-vulkan) - RealSR super resolution implemented with ncnn library
 - [Jorge-HCB/transpilador](https://github.com/Jorge-HCB/transpilador) - 
 - [mgba-emu/mgba](https://github.com/mgba-emu/mgba) - mGBA Game Boy Advance Emulator
