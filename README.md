@@ -180,6 +180,7 @@
 - [sony/sonyflake](https://github.com/sony/sonyflake) - A distributed unique ID generator inspired by Twitter's Snowflake
 - [OJ/gobuster](https://github.com/OJ/gobuster) - Directory/File, DNS and VHost busting tool written in Go
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
+- [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
 - [gocolly/colly](https://github.com/gocolly/colly) - Elegant Scraper and Crawler Framework for Golang
 - [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
 - [anaskhan96/soup](https://github.com/anaskhan96/soup) - Web Scraper in Go, similar to BeautifulSoup
@@ -667,7 +668,6 @@
 - [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
 - [enieber/open-avd](https://github.com/enieber/open-avd) - cli to open emulator without open android studio
 - [asdf-vm/asdf-erlang](https://github.com/asdf-vm/asdf-erlang) - Erlang plugin for asdf version manager
-- [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
 - [rbenv/rbenv](https://github.com/rbenv/rbenv) - Manage your app's Ruby environment
 - [volodink/mysql-workbench-install](https://github.com/volodink/mysql-workbench-install) - mysql-workbench-install
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
