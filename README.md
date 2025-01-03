@@ -274,7 +274,7 @@
 - [Kong/insomnia](https://github.com/Kong/insomnia) - The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.
 - [tachiyomiorg/user-agents](https://github.com/tachiyomiorg/user-agents) - Latest user agent strings for major browsers and OSs
 - [dannyfan/crunchyroll-playback-speed](https://github.com/dannyfan/crunchyroll-playback-speed) - A google extension to control crunchyroll video speed
-- [ryanmcdermott/clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) - :bathtub: Clean Code concepts adapted for JavaScript
+- [ryanmcdermott/clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) - Clean Code concepts adapted for JavaScript
 - [felipe-augusto/clean-code-javascript](https://github.com/felipe-augusto/clean-code-javascript) - Conceitos de Código Limpo adaptados em JavaScript (Tradução PT-BR)
 - [maierfelix/pokemon-emerald-rom-hacking](https://github.com/maierfelix/pokemon-emerald-rom-hacking) - ROM hacking kit for Pokemon Emerald
 - [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) - 🚀 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI.
