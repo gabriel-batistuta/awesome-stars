@@ -304,7 +304,6 @@
 ## Kotlin 
 
 - [jakepurple13/OtakuWorld](https://github.com/jakepurple13/OtakuWorld) - Anime Watcher, Manga Reader, and Novel Reader as three separate apps, same UI
-- [komikku-app/komikku-extensions](https://github.com/komikku-app/komikku-extensions) - Source code of extensions for the Tachiyomi/Mihon/Komikku app.
 - [Claudemirovsky/cursedyomi-extensions](https://github.com/Claudemirovsky/cursedyomi-extensions) - Some random aniyomi extensions I want to maintain.
 - [spacecowboy/Feeder](https://github.com/spacecowboy/Feeder) - Android RSS reader app
 - [tachiyomiorg/extensions-lib](https://github.com/tachiyomiorg/extensions-lib) - Stubs used for extensions in Tachiyomi 0.x.
