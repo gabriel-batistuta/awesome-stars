@@ -340,6 +340,7 @@
 
 ## Others 
 
+- [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) - 
 - [Duarte-753/Traducao_SKES_2023](https://github.com/Duarte-753/Traducao_SKES_2023) - Tradução de skyrim special edition pc
 - [korvahannu/arch-nvidia-drivers-installation-guide](https://github.com/korvahannu/arch-nvidia-drivers-installation-guide) - A repository that holds a simple guide on how you can install and configure proprietary NVIDIA drivers for Arch Linux.
 - [photopea/photopea](https://github.com/photopea/photopea) - Photopea is online image editor
