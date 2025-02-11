@@ -692,6 +692,7 @@
 
 ## TypeScript 
 
+- [th-ch/youtube-music](https://github.com/th-ch/youtube-music) - YouTube Music Desktop App bundled with custom plugins (and built-in ad blocker / downloader)
 - [ViniciosLugli/hackathon-capes](https://github.com/ViniciosLugli/hackathon-capes) - 
 - [Moebits/Waifu2x-GUI](https://github.com/Moebits/Waifu2x-GUI) - An app that upscales images, gifs, videos, and pdfs with waifu2x.
 - [ocodista/trampar-de-casa](https://github.com/ocodista/trampar-de-casa) - Apoiamos o trabalho remoto e divulgamos vagas semanalmente para inscritos.
