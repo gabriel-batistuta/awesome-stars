@@ -416,6 +416,7 @@
 
 ## Python 
 
+- [ReginaldoHorse/BaixaVideos3000](https://github.com/ReginaldoHorse/BaixaVideos3000) - Uma gambiarra feita em 48 minutos por mim para baixar vídeos do youtube, twitter, instagram e twitch de forma mais fácil.
 - [SergeyPirogov/webdriver_manager](https://github.com/SergeyPirogov/webdriver_manager) - 
 - [frozenpandaman/mangadex-dl](https://github.com/frozenpandaman/mangadex-dl) - Download manga from MangaDex.org
 - [Stunkymonkey/nautilus-open-any-terminal](https://github.com/Stunkymonkey/nautilus-open-any-terminal) - 
@@ -652,6 +653,7 @@
 
 ## Shell 
 
+- [QwenLM/Qwen2.5](https://github.com/QwenLM/Qwen2.5) - Qwen2.5 is the large language model series developed by Qwen team, Alibaba Cloud.
 - [angristan/openvpn-install](https://github.com/angristan/openvpn-install) - Set up your own OpenVPN server on Debian, Ubuntu, Fedora, CentOS or Arch Linux.
 - [mikeroyal/PipeWire-Guide](https://github.com/mikeroyal/PipeWire-Guide) - PipeWire Guide. Learn about how PipeWire gives your Linux system a Professional Audio/Video Processing workflow.
 - [MatMoul/archdi](https://github.com/MatMoul/archdi) - Arch Linux Desktop Installer : tutorial installer
