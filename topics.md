@@ -726,7 +726,7 @@
 ## github 
 
 - [drknzz/GitHub-Achievements](https://github.com/drknzz/GitHub-Achievements) - 🔥 A Complete List of GitHub Profile Badges and Achievements 🔥
-- [github/brasil](https://github.com/github/brasil) - Recursos e informações do GitHub para a comunidade de desenvolvedores no Brasil.
+- [github/brasil](https://github.com/github/brasil) - Recursos e informações do GitHub para a comunidade tech do Brasil.
 - [PyGithub/PyGithub](https://github.com/PyGithub/PyGithub) - Typed interactions with the GitHub API v3
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
 - [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) - 🚀 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI.
@@ -1219,7 +1219,7 @@
 - [artiefellype/gonin](https://github.com/artiefellype/gonin) - Gonin é um projeto de uma comunidade online de código aberto inspirada em diversos fóruns online diferentes, mas com uma abordagem mais amigável. Participe de discussões e compartilhe interesses nesse
 - [github/choosealicense.com](https://github.com/github/choosealicense.com) - A site to provide non-judgmental guidance on choosing a license for your open source project
 - [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - 🐧 A list of awesome Linux softwares
-- [github/brasil](https://github.com/github/brasil) - Recursos e informações do GitHub para a comunidade de desenvolvedores no Brasil.
+- [github/brasil](https://github.com/github/brasil) - Recursos e informações do GitHub para a comunidade tech do Brasil.
 - [AdguardTeam/AdguardBrowserExtension](https://github.com/AdguardTeam/AdguardBrowserExtension) - AdGuard browser extension
 - [godotengine/godot-docs](https://github.com/godotengine/godot-docs) - Godot Engine official documentation
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
@@ -1769,7 +1769,7 @@
 
 ## ruby 
 
-- [github/brasil](https://github.com/github/brasil) - Recursos e informações do GitHub para a comunidade de desenvolvedores no Brasil.
+- [github/brasil](https://github.com/github/brasil) - Recursos e informações do GitHub para a comunidade tech do Brasil.
 - [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
 - [sparklemotion/nokogiri](https://github.com/sparklemotion/nokogiri) - Nokogiri (鋸) makes it easy and painless to work with XML and HTML from Ruby.
 - [rbenv/rbenv](https://github.com/rbenv/rbenv) - Manage your app's Ruby environment
