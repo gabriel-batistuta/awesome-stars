@@ -338,7 +338,7 @@
 
 ## bash 
 
-- [angristan/openvpn-install](https://github.com/angristan/openvpn-install) - Set up your own OpenVPN server on Debian, Ubuntu, Fedora, CentOS or Arch Linux.
+- [angristan/openvpn-install](https://github.com/angristan/openvpn-install) - Set up your own OpenVPN server on Debian, Ubuntu, Fedora, CentOS, Arch Linux and more
 - [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 - [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
@@ -1039,7 +1039,7 @@
 ## linux 
 
 - [th-ch/youtube-music](https://github.com/th-ch/youtube-music) - YouTube Music Desktop App bundled with custom plugins (and built-in ad blocker / downloader)
-- [angristan/openvpn-install](https://github.com/angristan/openvpn-install) - Set up your own OpenVPN server on Debian, Ubuntu, Fedora, CentOS or Arch Linux.
+- [angristan/openvpn-install](https://github.com/angristan/openvpn-install) - Set up your own OpenVPN server on Debian, Ubuntu, Fedora, CentOS, Arch Linux and more
 - [korvahannu/arch-nvidia-drivers-installation-guide](https://github.com/korvahannu/arch-nvidia-drivers-installation-guide) - A repository that holds a simple guide on how you can install and configure proprietary NVIDIA drivers for Arch Linux.
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
 - [gnome-terminator/terminator](https://github.com/gnome-terminator/terminator) - multiple GNOME terminals in one window
@@ -1578,7 +1578,7 @@
 
 ## privacy 
 
-- [angristan/openvpn-install](https://github.com/angristan/openvpn-install) - Set up your own OpenVPN server on Debian, Ubuntu, Fedora, CentOS or Arch Linux.
+- [angristan/openvpn-install](https://github.com/angristan/openvpn-install) - Set up your own OpenVPN server on Debian, Ubuntu, Fedora, CentOS, Arch Linux and more
 - [AdguardTeam/AdguardBrowserExtension](https://github.com/AdguardTeam/AdguardBrowserExtension) - AdGuard browser extension
 - [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “Keepass Password Safe”.
 
@@ -1918,7 +1918,7 @@
 
 ## ubuntu 
 
-- [angristan/openvpn-install](https://github.com/angristan/openvpn-install) - Set up your own OpenVPN server on Debian, Ubuntu, Fedora, CentOS or Arch Linux.
+- [angristan/openvpn-install](https://github.com/angristan/openvpn-install) - Set up your own OpenVPN server on Debian, Ubuntu, Fedora, CentOS, Arch Linux and more
 - [naturepoker/offline_dkms_packages](https://github.com/naturepoker/offline_dkms_packages) - Selection of packages for offline installation of dkms (along with build-essential, make, gcc and etc) on Ubuntu LTS 22.04. Tested on HP Z280
 
 ## vim 
@@ -1936,7 +1936,7 @@
 
 ## vpn 
 
-- [angristan/openvpn-install](https://github.com/angristan/openvpn-install) - Set up your own OpenVPN server on Debian, Ubuntu, Fedora, CentOS or Arch Linux.
+- [angristan/openvpn-install](https://github.com/angristan/openvpn-install) - Set up your own OpenVPN server on Debian, Ubuntu, Fedora, CentOS, Arch Linux and more
 
 ## vuejs 
 
