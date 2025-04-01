@@ -423,6 +423,8 @@
 
 ## Python 
 
+- [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
+- [Stability-AI/stablediffusion](https://github.com/Stability-AI/stablediffusion) - High-Resolution Image Synthesis with Latent Diffusion Models
 - [ReginaldoHorse/BaixaVideos3000](https://github.com/ReginaldoHorse/BaixaVideos3000) - Começou como uma gambiarra feita em 48 minutos por mim para baixar vídeos do youtube, twitter, instagram e twitch de forma mais fácil. Agora tem ganhado bastante melhorias com colaboração.
 - [SergeyPirogov/webdriver_manager](https://github.com/SergeyPirogov/webdriver_manager) - 
 - [frozenpandaman/mangadex-dl](https://github.com/frozenpandaman/mangadex-dl) - Download manga from MangaDex.org
