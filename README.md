@@ -690,6 +690,7 @@
 
 ## Smarty 
 
+- [leomontenegro6/mmbn4-traducao-ptbr](https://github.com/leomontenegro6/mmbn4-traducao-ptbr) - Projeto de tradução do jogo MegaMan Battle Network 4, para GBA
 - [hansenhahn/mmbn-2](https://github.com/hansenhahn/mmbn-2) - Projeto de tradução do jogo MegaMan Battle Network 2, para GBA
 
 ## Svelte 
