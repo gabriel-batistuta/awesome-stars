@@ -479,7 +479,7 @@
 - [cleanlab/cleanlab](https://github.com/cleanlab/cleanlab) - The standard data-centric AI package for data quality and machine learning with messy, real-world data and labels.
 - [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache) - Semantic cache for LLMs. Fully integrated with LangChain and llama_index.
 - [meta-llama/codellama](https://github.com/meta-llama/codellama) - Inference code for CodeLlama models
-- [NExT-GPT/NExT-GPT](https://github.com/NExT-GPT/NExT-GPT) - Code and models for NExT-GPT: Any-to-Any Multimodal Large Language Model
+- [NExT-GPT/NExT-GPT](https://github.com/NExT-GPT/NExT-GPT) - Code and models for ICML 2024 paper, NExT-GPT: Any-to-Any Multimodal Large Language Model
 - [Animenosekai/translate](https://github.com/Animenosekai/translate) - A module grouping multiple translation APIs
 - [josephmisiti/hadoop-examples](https://github.com/josephmisiti/hadoop-examples) - You wanna learn how to use Hadoop, start here!
 - [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - Python APIs for web automation, testing, and bypassing bot-detection.
