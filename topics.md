@@ -1369,7 +1369,7 @@
 - [ulid/spec](https://github.com/ulid/spec) - The canonical spec for ulid
 - [vd2org/snowflake](https://github.com/vd2org/snowflake) - The Snowflake generator done right.
 - [mirianbatista/lastfm](https://github.com/mirianbatista/lastfm) - Data ingestion real time da música que estou ouvindo
-- [hydralauncher/hydra](https://github.com/hydralauncher/hydra) - Hydra is a game launcher with its own embedded bittorrent client
+- [hydralauncher/hydra](https://github.com/hydralauncher/hydra) - Hydra Launcher is an open-source gaming platform created to be the single tool that you need
 - [aclap-dev/vdhcoapp](https://github.com/aclap-dev/vdhcoapp) - Companion application for Video DownloadHelper browser add-on
 - [Gabriel0598/BEES-Breweries-Case](https://github.com/Gabriel0598/BEES-Breweries-Case) - Objective: The goal of this test is to assess your skills in consuming data from an API, transforming and persisting it into a data lake following the medallion architecture with three layers: raw dat
 - [NVIDIA/tensorflow](https://github.com/NVIDIA/tensorflow) - An Open Source Machine Learning Framework for Everyone
