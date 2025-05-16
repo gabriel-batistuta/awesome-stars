@@ -733,7 +733,7 @@
 - [loiane/curso-angular](https://github.com/loiane/curso-angular) - :mortar_board: [PT-BR] Curso de Angular gratuito - loiane.training [EN] Source code of my free Angular training.
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
 - [pop-os/shell](https://github.com/pop-os/shell) - Pop!_OS Shell
-- [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
+- [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.
 - [formulahendry/vscode-code-runner](https://github.com/formulahendry/vscode-code-runner) - Code Runner for Visual Studio Code
 - [angular/angular-cli](https://github.com/angular/angular-cli) - CLI tool for Angular
 - [reactjs/pt-br.react.dev](https://github.com/reactjs/pt-br.react.dev) - 🇧🇷 React documentation website in Portuguese (Brazil)
