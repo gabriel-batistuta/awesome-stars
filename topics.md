@@ -1288,6 +1288,7 @@
 
 ## others 
 
+- [overleaf/overleaf](https://github.com/overleaf/overleaf) - A web-based collaborative LaTeX editor
 - [leomontenegro6/mmbn4-traducao-ptbr](https://github.com/leomontenegro6/mmbn4-traducao-ptbr) - Projeto de tradução do jogo MegaMan Battle Network 4, para GBA
 - [Stability-AI/stablediffusion](https://github.com/Stability-AI/stablediffusion) - High-Resolution Image Synthesis with Latent Diffusion Models
 - [davigledson/portfolio_django](https://github.com/davigledson/portfolio_django) - Portfolio feito em Django
