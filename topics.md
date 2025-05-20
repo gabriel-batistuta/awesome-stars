@@ -1376,7 +1376,7 @@
 - [Gabriel0598/BEES-Breweries-Case](https://github.com/Gabriel0598/BEES-Breweries-Case) - Objective: The goal of this test is to assess your skills in consuming data from an API, transforming and persisting it into a data lake following the medallion architecture with three layers: raw dat
 - [NVIDIA/tensorflow](https://github.com/NVIDIA/tensorflow) - An Open Source Machine Learning Framework for Everyone
 - [meta-llama/codellama](https://github.com/meta-llama/codellama) - Inference code for CodeLlama models
-- [thiagofrnk/polyglopet-japones](https://github.com/thiagofrnk/polyglopet-japones) - Documentação de uma linguagem de programação em Japonês
+- [thgfrnk/polyglopet-japones](https://github.com/thgfrnk/polyglopet-japones) - Documentação de uma linguagem de programação em Japonês
 - [josephmisiti/hadoop-examples](https://github.com/josephmisiti/hadoop-examples) - You wanna learn how to use Hadoop, start here!
 - [gibbed/SteamAchievementManager](https://github.com/gibbed/SteamAchievementManager) - A manager for game achievements in Steam.
 - [jincheng9/markdown_supported_languages](https://github.com/jincheng9/markdown_supported_languages) - Markdown supported languages for syntax highlighting
@@ -1384,7 +1384,7 @@
 - [dlundqvist/xone](https://github.com/dlundqvist/xone) - Linux kernel driver for Xbox One and Xbox Series X|S accessories
 - [batocera-linux/batocera.linux](https://github.com/batocera-linux/batocera.linux) - batocera.linux
 - [EnergyNeumann/Bot-Que-Pula-Os-Episodios-de-One-Piece](https://github.com/EnergyNeumann/Bot-Que-Pula-Os-Episodios-de-One-Piece) - Você já pensou em pular os episódios de One Piece, mas por estar deitado e relaxado, ficou com preguiça de levantar e pular? Aqui está a solução! Esse bot irá pular a quantidade de episódios que você 
-- [thiagofrnk/consulta-clima](https://github.com/thiagofrnk/consulta-clima) - 
+- [thgfrnk/consulta-clima](https://github.com/thgfrnk/consulta-clima) - 
 - [AndrehRicardo/Bleach-Heat-the-Soul-7-traducao-PT-BR](https://github.com/AndrehRicardo/Bleach-Heat-the-Soul-7-traducao-PT-BR) - Uma tradução feita por mim do jogo de Playstation Portable (PSP) em Português do Brasil.
 - [PeterTh/dsfix](https://github.com/PeterTh/dsfix) - Interceptor dll for the improvement of Dark Souls PC
 - [Paulo-D2000/FUKompiler](https://github.com/Paulo-D2000/FUKompiler) - FUKompiler is a basic C compiler written in C++
@@ -1436,7 +1436,7 @@
 - [fork-maintainers/iceraven-browser](https://github.com/fork-maintainers/iceraven-browser) - Iceraven Browser
 - [aristidesneto/modelo-contratos](https://github.com/aristidesneto/modelo-contratos) - Contratos de sites, prestação de serviços, etc
 - [vinerz/websitedocaralho](https://github.com/vinerz/websitedocaralho) - Um website do caralho.
-- [thiagofrnk/CALCULADORA-DE-IMC](https://github.com/thiagofrnk/CALCULADORA-DE-IMC) - Calculadora de IMC responsiva
+- [thgfrnk/CALCULADORA-DE-IMC](https://github.com/thgfrnk/CALCULADORA-DE-IMC) - Calculadora de IMC responsiva
 - [TheSunBoys/calculadora-de-media-uern-js](https://github.com/TheSunBoys/calculadora-de-media-uern-js) - Site para calcular notas na UERN
 - [Novik/ruTorrent](https://github.com/Novik/ruTorrent) - Yet another web front-end for rTorrent
 - [max-mapper/torrent](https://github.com/max-mapper/torrent) - download torrents with node from the CLI
