@@ -1064,6 +1064,7 @@
 
 ## linux 
 
+- [daquino94/linux-path](https://github.com/daquino94/linux-path) - An interactive learning platform that has helped thousands of people take their first steps into the world of Linux.
 - [th-ch/youtube-music](https://github.com/th-ch/youtube-music) - YouTube Music Desktop App bundled with custom plugins (and built-in ad blocker / downloader)
 - [angristan/openvpn-install](https://github.com/angristan/openvpn-install) - Set up your own OpenVPN server on Debian, Ubuntu, Fedora, CentOS, Arch Linux and more
 - [korvahannu/arch-nvidia-drivers-installation-guide](https://github.com/korvahannu/arch-nvidia-drivers-installation-guide) - A repository that holds a simple guide on how you can install and configure proprietary NVIDIA drivers for Arch Linux.
@@ -1203,6 +1204,7 @@
 
 ## nextjs 
 
+- [daquino94/linux-path](https://github.com/daquino94/linux-path) - An interactive learning platform that has helped thousands of people take their first steps into the world of Linux.
 - [WeryZebra-Yue/Talk-Walk](https://github.com/WeryZebra-Yue/Talk-Walk) - It's a social media web app named Talk-Walk where you can post photo, gif, video and share stories
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 
@@ -1766,6 +1768,7 @@
 
 ## react 
 
+- [daquino94/linux-path](https://github.com/daquino94/linux-path) - An interactive learning platform that has helped thousands of people take their first steps into the world of Linux.
 - [Cosmicoppai/LiSA](https://github.com/Cosmicoppai/LiSA) - LiSA (Native App to stream/read and download Anime & Manga ❤️ )
 - [LNReader/lnreader](https://github.com/LNReader/lnreader) - Light novel reader for Android.
 - [jondot/awesome-react-native](https://github.com/jondot/awesome-react-native) - Awesome React Native components, news, tools, and learning material!
