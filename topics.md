@@ -588,6 +588,7 @@
 
 ## docker 
 
+- [IonelPopJara/moogle](https://github.com/IonelPopJara/moogle) - My very own search engine
 - [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine) - Self-hosted game stream host for Moonlight.
 
 ## documentation 
