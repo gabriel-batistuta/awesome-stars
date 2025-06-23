@@ -1450,7 +1450,7 @@
 - [max-mapper/torrent](https://github.com/max-mapper/torrent) - download torrents with node from the CLI
 - [Ryuk-me/Torrent-Api-py](https://github.com/Ryuk-me/Torrent-Api-py) - An Unofficial API for 1337x, Piratebay, Nyaasi, Torlock, Torrent Galaxy, Zooqle, Kickass, Bitsearch, MagnetDL,Libgen, YTS, Limetorrent, TorrentFunk, Glodls, TorrentProject and YourBittorrent
 - [0xCyberY/Sequential-allocation](https://github.com/0xCyberY/Sequential-allocation) - a C program to simulate Sequential file allocation strategy.
-- [sosolidkk/sigaa-api](https://github.com/sosolidkk/sigaa-api) - API feita a partir do scraping do sistema sigaa da UFPI
+- [jpechaves/sigaa-api](https://github.com/jpechaves/sigaa-api) - API feita a partir do scraping do sistema sigaa da UFPI
 - [tody411/MemoryAllocationSimulator](https://github.com/tody411/MemoryAllocationSimulator) - Simple Memory Allocation Simulator. (Python)
 - [scrapinghub/portia](https://github.com/scrapinghub/portia) - Visual scraping for Scrapy
 - [openai/generating-reviews-discovering-sentiment](https://github.com/openai/generating-reviews-discovering-sentiment) - Code for "Learning to Generate Reviews and Discovering Sentiment"
