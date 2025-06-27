@@ -703,7 +703,7 @@
 
 ## Smarty 
 
-- [leomontenegro6/mmbn4-traducao-ptbr](https://github.com/leomontenegro6/mmbn4-traducao-ptbr) - Projeto de tradução do jogo MegaMan Battle Network 4, para GBA
+- [leomontenegro6/mmbn-4-traducao-ptbr](https://github.com/leomontenegro6/mmbn-4-traducao-ptbr) - Projeto de tradução do jogo MegaMan Battle Network 4, para GBA
 - [hansenhahn/mmbn-2](https://github.com/hansenhahn/mmbn-2) - Projeto de tradução do jogo MegaMan Battle Network 2, para GBA
 
 ## Svelte 
@@ -716,6 +716,7 @@
 
 ## TypeScript 
 
+- [chrismaltby/gb-studio](https://github.com/chrismaltby/gb-studio) - A quick and easy to use drag and drop retro game creator for your favourite handheld video game system
 - [daquino94/linux-path](https://github.com/daquino94/linux-path) - An interactive learning platform that has helped thousands of people take their first steps into the world of Linux.
 - [mendableai/firecrawl](https://github.com/mendableai/firecrawl) - 🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API.
 - [th-ch/youtube-music](https://github.com/th-ch/youtube-music) - YouTube Music Desktop App bundled with custom plugins
