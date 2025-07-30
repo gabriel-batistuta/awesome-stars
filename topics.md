@@ -42,6 +42,7 @@
 - [css](#css)
 - [dart](#dart)
 - [data](#data)
+- [data-engineering](#data-engineering)
 - [data-science](#data-science)
 - [data-structures](#data-structures)
 - [data-visualization](#data-visualization)
@@ -532,6 +533,12 @@
 ## data 
 
 - [mendableai/firecrawl](https://github.com/mendableai/firecrawl) - 🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API.
+
+## data-engineering 
+
+- [gunnarmorling/awesome-opensource-data-engineering](https://github.com/gunnarmorling/awesome-opensource-data-engineering) - An Awesome List of Open-Source Data Engineering Projects
+- [adilkhash/Data-Engineering-HowTo](https://github.com/adilkhash/Data-Engineering-HowTo) - A list of useful resources to learn Data Engineering from scratch
+- [andkret/Cookbook](https://github.com/andkret/Cookbook) - The Data Engineering Cookbook
 
 ## data-science 
 
@@ -1515,7 +1522,6 @@
 - [MontFerret/pyfer](https://github.com/MontFerret/pyfer) - Python wrapper for Ferret
 - [calvinaquino/LNReader-Android](https://github.com/calvinaquino/LNReader-Android) - Light novel reader for android test project collab
 - [skwp/dotfiles](https://github.com/skwp/dotfiles) - YADR - The best vim,git,zsh plugins and the cleanest vimrc you've ever seen
-- [andkret/Cookbook](https://github.com/andkret/Cookbook) - The Data Engineering Cookbook
 - [RalphAlexander/Seasonal-Anime-Calendar](https://github.com/RalphAlexander/Seasonal-Anime-Calendar) - A Web App that tracks currently airing Animes. Users can make and edit their owns lists as well as display them in order of time, date and filter all Animes that aren't airing in a certain amount of t
 - [twitter-archive/flockdb](https://github.com/twitter-archive/flockdb) - A distributed, fault-tolerant graph database
 - [twitter/cassovary](https://github.com/twitter/cassovary) - Cassovary is a simple big graph processing library for the JVM
