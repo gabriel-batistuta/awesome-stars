@@ -210,7 +210,6 @@
 - [website](#website)
 - [windows](#windows)
 - [xml](#xml)
-- [zsh](#zsh)
 
 ## ai 
 
@@ -1306,7 +1305,6 @@
 ## opencv 
 
 - [vietnh1009/ASCII-generator](https://github.com/vietnh1009/ASCII-generator) - ASCII generator (image to text, image to image, video to video)
-- [soruly/trace.moe](https://github.com/soruly/trace.moe) - Anime Scene Search by Image
 
 ## opengl 
 
@@ -1495,6 +1493,8 @@
 - [James-Yu/LaTeX-Workshop](https://github.com/James-Yu/LaTeX-Workshop) - Boost LaTeX typesetting efficiency with preview, compile, autocomplete, colorize, and more.
 - [hikaruAi/FacebookBot](https://github.com/hikaruAi/FacebookBot) - A facebook bot to scrap, post, spam and more without the facebook API
 - [EniasCailliau/GirlfriendGPT](https://github.com/EniasCailliau/GirlfriendGPT) - OSS AI Companion Chatbot - Build your own AI companion in Python using ChatGPT.
+- [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
+- [soruly/trace.moe](https://github.com/soruly/trace.moe) - Anime Scene Search by Image
 - [dbisu/pico-ducky](https://github.com/dbisu/pico-ducky) - Create a USB Rubber Ducky like device using a Raspberry PI Pico
 - [flipperdevices/flipperzero-firmware](https://github.com/flipperdevices/flipperzero-firmware) - Flipper Zero firmware source code
 - [penegui/Get-Chrome80Dump](https://github.com/penegui/Get-Chrome80Dump) - Demonstração de um Rubber Duck que captura algumas informações do navegador.
@@ -2087,15 +2087,6 @@
 ## xml 
 
 - [sparklemotion/nokogiri](https://github.com/sparklemotion/nokogiri) - Nokogiri (鋸) makes it easy and painless to work with XML and HTML from Ruby.
-
-## zsh 
-
-- [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
-- [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
-- [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
-- [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
-- [marcosfnsc/setups](https://github.com/marcosfnsc/setups) - my dotfiles and other configs
 
 
 ## License
