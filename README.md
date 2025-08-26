@@ -517,7 +517,7 @@
 - [pyppeteer/pyppeteer](https://github.com/pyppeteer/pyppeteer) - Headless chrome/chromium automation library (unofficial port of puppeteer)
 - [fake-useragent/fake-useragent](https://github.com/fake-useragent/fake-useragent) - Up-to-date simple useragent faker with real world database
 - [react-native-skia/react-native-skia](https://github.com/react-native-skia/react-native-skia) - Cross platform React Native solution to draw graphics based on Skia
-- [0xAX/linux-insides](https://github.com/0xAX/linux-insides) - A little bit about a linux kernel
+- [0xAX/linux-insides](https://github.com/0xAX/linux-insides) - A book-in-progress about the Linux kernel and its insides.
 - [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
 - [RekhuGopal/PythonHacks](https://github.com/RekhuGopal/PythonHacks) - This repo contains some solved python hacker codes
 - [Adastra-thw/pyHacks](https://github.com/Adastra-thw/pyHacks) - Python Scripts for Hacking .
@@ -525,7 +525,6 @@
 - [fastapi/fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [jsvine/waybackpack](https://github.com/jsvine/waybackpack) - Download the entire Wayback Machine archive for a given URL.
 - [psf/requests-html](https://github.com/psf/requests-html) - Pythonic HTML Parsing for Humans™
-- [pythontester192/Upload-Movie-Clips-On-Youtube-Without-Copyright](https://github.com/pythontester192/Upload-Movie-Clips-On-Youtube-Without-Copyright) - Use This FREE PYTHON BOT to Upload Movie Clips On Youtube Without Copyright
 - [jeffshee/hidamari](https://github.com/jeffshee/hidamari) - Video wallpaper for Linux. Written in Python. 🐍
 - [emersonrafaels/extract_text_infos](https://github.com/emersonrafaels/extract_text_infos) - Microserviço para extração de informações (Nomes, CPFS, CNPJS, Datas, IMEI, Objetos (Bens)). Possui a funcionalidade de receber um valor a ser verificado e dado percentual de match esperado, validar s
 - [Znunu/EzMudae](https://github.com/Znunu/EzMudae) - Discord.py module for parsing messages and handling claim/roll resets from the Mudae bot
