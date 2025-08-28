@@ -681,7 +681,7 @@
 - [MatMoul/archdi](https://github.com/MatMoul/archdi) - Arch Linux Desktop Installer : tutorial installer
 - [MatMoul/archfi](https://github.com/MatMoul/archfi) - Arch Linux Fast Installer : tutorial installer
 - [BlackArch/blackarch](https://github.com/BlackArch/blackarch) - An ArchLinux based distribution for penetration testers and security researchers.
-- [polkaulfield/ubuntu-debullshit](https://github.com/polkaulfield/ubuntu-debullshit) - Purges snaps, installs flatpaks, and restores vanilla GNOME
+- [polhdez/ubuntu-debullshit](https://github.com/polhdez/ubuntu-debullshit) - Purges snaps, installs flatpaks, and restores vanilla GNOME
 - [makifdb/lenopow](https://github.com/makifdb/lenopow) - A script to enable/disable battery conservation mode in Lenovo Ideapad/LEGION notebooks.
 - [dstettler/authy-deb-generator](https://github.com/dstettler/authy-deb-generator) - A shell utility that generates a .deb installer for Authy from the snap package.
 - [zerobyte-id-bak/Bashter](https://github.com/zerobyte-id-bak/Bashter) - Web Crawler, Scanner, and Analyzer Framework (Shell-Script based)
