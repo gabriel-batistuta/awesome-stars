@@ -243,6 +243,7 @@
 
 ## JavaScript 
 
+- [manga-download/hakuneko](https://github.com/manga-download/hakuneko) - Manga & Anime Downloader for Linux, Windows & MacOS
 - [overleaf/overleaf](https://github.com/overleaf/overleaf) - A web-based collaborative LaTeX editor
 - [node-red/node-red](https://github.com/node-red/node-red) - Low-code programming for event-driven applications
 - [davigledson/portfolio_django](https://github.com/davigledson/portfolio_django) - Portfolio feito em Django
