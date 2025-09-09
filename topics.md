@@ -20,6 +20,7 @@
 - [azure](#azure)
 - [backend](#backend)
 - [bash](#bash)
+- [beginner-project](#beginner-project)
 - [bioinformatics](#bioinformatics)
 - [bootstrap](#bootstrap)
 - [bot](#bot)
@@ -369,6 +370,10 @@
 - [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
 - [rbenv/rbenv](https://github.com/rbenv/rbenv) - Manage your app's Ruby environment
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
+
+## beginner-project 
+
+- [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
 
 ## bioinformatics 
 
@@ -1567,7 +1572,7 @@
 - [Y-Matos/MangaLivre-Downloader](https://github.com/Y-Matos/MangaLivre-Downloader) - API e Downloader para o site mangalivre.net
 - [JFryy/MAL-API-Client](https://github.com/JFryy/MAL-API-Client) - An third party object oriented python client library for My Anime List's newly released official REST API
 - [domechn/jojogif](https://github.com/domechn/jojogif) - Convert video to GIF with Jojo's end
-- [twitter/the-algorithm](https://github.com/twitter/the-algorithm) - Source code for Twitter's Recommendation Algorithm
+- [twitter/the-algorithm](https://github.com/twitter/the-algorithm) - Source code for the X Recommendation Algorithm
 - [jsvine/pdfplumber](https://github.com/jsvine/pdfplumber) - Plumb a PDF for detailed information about each char, rectangle, line, et cetera — and easily extract text and tables.
 - [chaquo/chaquopy-matplotlib](https://github.com/chaquo/chaquopy-matplotlib) - Chaquopy Matplotlib example
 - [cosarara/red-alien](https://github.com/cosarara/red-alien) - A compiler/decompiler for the script system found in GBA pokemon games, to be used by ROM-Hackers. Formerly ASC.
