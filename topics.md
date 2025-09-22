@@ -165,6 +165,7 @@
 - [privacy](#privacy)
 - [productivity](#productivity)
 - [programming](#programming)
+- [programming-language](#programming-language)
 - [project-management](#project-management)
 - [pwa](#pwa)
 - [python](#python)
@@ -1688,6 +1689,15 @@
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 - [gdcmarinho/awesome-project](https://github.com/gdcmarinho/awesome-project) - A curated list of awesome project development links
+
+## programming-language 
+
+- [odin-lang/Odin](https://github.com/odin-lang/Odin) - Odin Programming Language
+- [FrancisBFTC/KiddieOS_Development](https://github.com/FrancisBFTC/KiddieOS_Development) - O KiddieOS é um sistema operacional open-source básico em desenvolvimento pelo curso gratuito D.S.O.S [Desenvolvendo Sistemas Operacionais Simples]. A intenção deste sistema será: Criar, editar ou exc
+- [JuliaLang/julia](https://github.com/JuliaLang/julia) - The Julia Programming Language
+- [ruby/ruby](https://github.com/ruby/ruby) - The Ruby Programming Language
+- [golang/go](https://github.com/golang/go) - The Go programming language
+- [JetBrains/kotlin](https://github.com/JetBrains/kotlin) - The Kotlin Programming Language.
 
 ## project-management 
 
