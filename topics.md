@@ -33,6 +33,7 @@
 - [chrome](#chrome)
 - [chrome-extension](#chrome-extension)
 - [cli](#cli)
+- [cloud](#cloud)
 - [code](#code)
 - [coding](#coding)
 - [compiler](#compiler)
@@ -473,6 +474,10 @@
 - [aQaTL/MAL](https://github.com/aQaTL/MAL) - Yet another myanimelist/anilist client. This time a console one, with CLI.
 - [ryukinix/mal](https://github.com/ryukinix/mal) - MAL: A MyAnimeList Command Line Interface [BROKEN: BLAME MyAnimeList]
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
+
+## cloud 
+
+- [ErdemOzgen/Data-Engineering-Roadmap](https://github.com/ErdemOzgen/Data-Engineering-Roadmap) - Roadmap for Data Engineering
 
 ## code 
 
