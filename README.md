@@ -310,7 +310,6 @@
 ## Jupyter Notebook 
 
 - [timescale/private-rag-example](https://github.com/timescale/private-rag-example) - Private RAG app sample using Llama3, Ollama and PostgreSQL
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
 - [Santostang/PythonScraping](https://github.com/Santostang/PythonScraping) - The code of book: Python Scraping
 - [rainyear/python3-in-one-pic](https://github.com/rainyear/python3-in-one-pic) - Learn python3 in one picture.
 - [google-research/google-research](https://github.com/google-research/google-research) - Google Research
@@ -442,6 +441,7 @@
 
 ## Python 
 
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
 - [wsvincent/awesome-django](https://github.com/wsvincent/awesome-django) - A curated list of awesome things related to Django
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 - [Stability-AI/stablediffusion](https://github.com/Stability-AI/stablediffusion) - High-Resolution Image Synthesis with Latent Diffusion Models
@@ -725,7 +725,7 @@
 - [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data 🔥
 - [ytmd-devs/ytmd](https://github.com/ytmd-devs/ytmd) - YouTube Music Desktop App bundled with custom plugins
 - [ViniciosLugli/hackathon-capes](https://github.com/ViniciosLugli/hackathon-capes) - 
-- [Moebits/Waifu2x-GUI](https://github.com/Moebits/Waifu2x-GUI) - An app that upscales images, gifs, videos, and pdfs with waifu2x.
+- [Moebytes/Waifu2x-GUI](https://github.com/Moebytes/Waifu2x-GUI) - An app that upscales images, gifs, videos, and pdfs with waifu2x.
 - [ocodista/trampar-de-casa](https://github.com/ocodista/trampar-de-casa) - Apoiamos o trabalho remoto e divulgamos vagas semanalmente para inscritos.
 - [LNReader/lnreader-plugins](https://github.com/LNReader/lnreader-plugins) - Repository to host source related issues, and requests for LNReader
 - [joao-victor-costa-gomes/Rick-And-Morty-Characters-App](https://github.com/joao-victor-costa-gomes/Rick-And-Morty-Characters-App) - An application powered by an API where the user can see various information about Rick & Morty characters and also add them to a list of favorites.
