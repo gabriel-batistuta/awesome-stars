@@ -214,6 +214,7 @@
 - [website](#website)
 - [windows](#windows)
 - [xml](#xml)
+- [youtube](#youtube)
 - [zsh](#zsh)
 
 ## ai 
@@ -1405,7 +1406,6 @@
 - [joao-victor-costa-gomes/Rick-And-Morty-Characters-App](https://github.com/joao-victor-costa-gomes/Rick-And-Morty-Characters-App) - An application powered by an API where the user can see various information about Rick & Morty characters and also add them to a list of favorites.
 - [pycountry/pycountry](https://github.com/pycountry/pycountry) - A Python library to access ISO country, subdivision, language, currency and script definitions and their translations.
 - [haicaumuoi/Mushoku-Tensei-English-Landing-Page](https://github.com/haicaumuoi/Mushoku-Tensei-English-Landing-Page) - 
-- [TheRealJoelmatic/RemoveAdblockThing](https://github.com/TheRealJoelmatic/RemoveAdblockThing) - The intrusive "Ad blocker are not allowed on YouTube"  message is annoying. This open-source project aims to address this issue by providing a solution to bypass YouTube's ad blocker detection
 - [GoogleChromeLabs/chrome-for-testing](https://github.com/GoogleChromeLabs/chrome-for-testing) - 
 - [kono100/Formatador-para-fazer-INSERT](https://github.com/kono100/Formatador-para-fazer-INSERT) - 
 - [joao-victor-costa-gomes/projetos-pequenos-front-end](https://github.com/joao-victor-costa-gomes/projetos-pequenos-front-end) - Repositório onde vou postar alguns projetos pequenos que fiz usando HTML, CSS e JavaScript
@@ -2119,6 +2119,12 @@
 ## xml 
 
 - [sparklemotion/nokogiri](https://github.com/sparklemotion/nokogiri) - Nokogiri (鋸) makes it easy and painless to work with XML and HTML from Ruby.
+
+## youtube 
+
+- [jdepoix/youtube-transcript-api](https://github.com/jdepoix/youtube-transcript-api) - This is a python API which allows you to get the transcript/subtitles for a given YouTube video. It also works for automatically generated subtitles and it does not require an API key nor a headless b
+- [TheRealJoelmatic/RemoveAdblockThing](https://github.com/TheRealJoelmatic/RemoveAdblockThing) - The intrusive "Ad blocker are not allowed on YouTube"  message is annoying. This open-source project aims to address this issue by providing a solution to bypass YouTube's ad blocker detection
+- [pytube/pytube](https://github.com/pytube/pytube) - A lightweight, dependency-free Python library (and command-line utility) for downloading YouTube Videos.
 
 ## zsh 
 
