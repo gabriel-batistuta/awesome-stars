@@ -123,6 +123,7 @@
 
 ## C++ 
 
+- [aseprite/aseprite](https://github.com/aseprite/aseprite) - Animated sprite editor & pixel art tool (Windows, macOS, Linux)
 - [love2d/love](https://github.com/love2d/love) - LÖVE is an awesome 2D game framework for Lua.
 - [zealdocs/zeal](https://github.com/zealdocs/zeal) - Offline documentation browser inspired by Dash
 - [id-Software/DOOM](https://github.com/id-Software/DOOM) - DOOM Open Source Release
