@@ -6,6 +6,7 @@
 ## Contents
 
 - [ai](#ai)
+- [ai-agents](#ai-agents)
 - [algorithm](#algorithm)
 - [android](#android)
 - [angular](#angular)
@@ -226,6 +227,11 @@
 - [s0md3v/roop](https://github.com/s0md3v/roop) - one-click face swap
 - [google-research/google-research](https://github.com/google-research/google-research) - Google Research
 - [recommenders-team/recommenders](https://github.com/recommenders-team/recommenders) - Best Practices on Recommendation Systems
+
+## ai-agents 
+
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data
 
 ## algorithm 
 
