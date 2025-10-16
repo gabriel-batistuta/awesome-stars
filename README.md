@@ -292,7 +292,6 @@
 - [ryanmcdermott/clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) - Clean Code concepts adapted for JavaScript
 - [felipe-augusto/clean-code-javascript](https://github.com/felipe-augusto/clean-code-javascript) - Conceitos de Código Limpo adaptados em JavaScript (Tradução PT-BR)
 - [maierfelix/pokemon-emerald-rom-hacking](https://github.com/maierfelix/pokemon-emerald-rom-hacking) - ROM hacking kit for Pokemon Emerald
-- [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) - 🚀 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI.
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 - [phoboslab/Impact](https://github.com/phoboslab/Impact) - HTML5 Game Engine
 - [lukas102000/chatbot-conversation-v1.5](https://github.com/lukas102000/chatbot-conversation-v1.5) - 
@@ -758,6 +757,7 @@
 - [github/docs](https://github.com/github/docs) - The open-source repo for docs.github.com
 - [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 - [AniList/docs](https://github.com/AniList/docs) - AniList API documentation
+- [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) - 🚀 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI.
 - [wei/pull](https://github.com/wei/pull) - 🤖 Keep your forks up-to-date via automated PRs
 - [firebase/firebase-js-sdk](https://github.com/firebase/firebase-js-sdk) - Firebase Javascript SDK
 - [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab) - JupyterLab computational environment.
