@@ -231,6 +231,7 @@
 - [dermotte/liresolr](https://github.com/dermotte/liresolr) - Putting LIRE into Solr - an ongoing project
 - [zaproxy/zaproxy](https://github.com/zaproxy/zaproxy) - The ZAP by Checkmarx Core project
 - [huishun98/cron](https://github.com/huishun98/cron) - A simple Android app to create and manage cron jobs
+- [akullpp/awesome-java](https://github.com/akullpp/awesome-java) - A curated list of awesome frameworks, libraries and software for the Java programming language.
 - [iBotPeaches/Apktool](https://github.com/iBotPeaches/Apktool) - A tool for reverse engineering Android apk files
 - [antlr/antlr4](https://github.com/antlr/antlr4) - ANTLR (ANother Tool for Language Recognition) is a powerful parser generator for reading, processing, executing, or translating structured text or binary files.
 - [code4craft/webmagic](https://github.com/code4craft/webmagic) - A scalable web crawler framework for Java.
@@ -391,7 +392,6 @@
 - [aristidesneto/modelo-contratos](https://github.com/aristidesneto/modelo-contratos) - Contratos de sites, prestação de serviços, etc
 - [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
 - [romhackersbr/romhackersbr-db](https://github.com/romhackersbr/romhackersbr-db) - Banco de Dados do PO.B.R.E
-- [akullpp/awesome-java](https://github.com/akullpp/awesome-java) - A curated list of awesome frameworks, libraries and software for the Java programming language.
 - [soruly/trace.moe](https://github.com/soruly/trace.moe) - Anime Scene Search by Image
 - [Flutterando/roadmap](https://github.com/Flutterando/roadmap) - Flutter roadmap pt-BR
 - [Kotlin/kotlin-examples](https://github.com/Kotlin/kotlin-examples) - Various examples for Kotlin
