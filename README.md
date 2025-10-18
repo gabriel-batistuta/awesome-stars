@@ -646,7 +646,7 @@
 - [github/brasil](https://github.com/github/brasil) - Recursos e informações do GitHub para a comunidade tech do Brasil.
 - [skwp/dotfiles](https://github.com/skwp/dotfiles) - YADR - The best vim,git,zsh plugins and the cleanest vimrc you've ever seen
 - [github-linguist/linguist](https://github.com/github-linguist/linguist) - Language Savant. If your repository's language is being reported incorrectly, send us a pull request!
-- [rubygems/rubygems](https://github.com/rubygems/rubygems) - Library packaging and distribution for Ruby.
+- [ruby/rubygems](https://github.com/ruby/rubygems) - Library packaging and distribution for Ruby.
 - [rails/rails](https://github.com/rails/rails) - Ruby on Rails
 - [ruby/ruby](https://github.com/ruby/ruby) - The Ruby Programming Language
 
