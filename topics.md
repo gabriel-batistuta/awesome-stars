@@ -1629,7 +1629,7 @@
 
 ## package-manager 
 
-- [rubygems/rubygems](https://github.com/rubygems/rubygems) - Library packaging and distribution for Ruby.
+- [ruby/rubygems](https://github.com/ruby/rubygems) - Library packaging and distribution for Ruby.
 - [npm/cli](https://github.com/npm/cli) - the package manager for JavaScript
 
 ## parsing 
@@ -1894,7 +1894,7 @@
 - [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
 - [sparklemotion/nokogiri](https://github.com/sparklemotion/nokogiri) - Nokogiri (鋸) makes it easy and painless to work with XML and HTML from Ruby.
 - [rbenv/rbenv](https://github.com/rbenv/rbenv) - Manage your app's Ruby environment
-- [rubygems/rubygems](https://github.com/rubygems/rubygems) - Library packaging and distribution for Ruby.
+- [ruby/rubygems](https://github.com/ruby/rubygems) - Library packaging and distribution for Ruby.
 - [rails/rails](https://github.com/rails/rails) - Ruby on Rails
 - [ruby/ruby](https://github.com/ruby/ruby) - The Ruby Programming Language
 
