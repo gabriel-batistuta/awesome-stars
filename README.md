@@ -335,7 +335,7 @@
 - [JetBrains/kotlin](https://github.com/JetBrains/kotlin) - The Kotlin Programming Language.
 - [duckduckgo/Android](https://github.com/duckduckgo/Android) - DuckDuckGo Android App
 - [TeamVanced/VancedManager](https://github.com/TeamVanced/VancedManager) - Vanced Installer
-- [az4521/TachiyomiAZ](https://github.com/az4521/TachiyomiAZ) - Free and open source manga reader for Android
+- [az4521/TachiyomiAZ](https://github.com/az4521/TachiyomiAZ) - Free and open source EMAIL AND FREE DOUJIN reader for Android
 - [jobobby04/TachiyomiSY](https://github.com/jobobby04/TachiyomiSY) - Free and open source manga reader for Android
 
 ## Latte 
