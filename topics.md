@@ -8,6 +8,7 @@
 - [ai](#ai)
 - [ai-agents](#ai-agents)
 - [algorithm](#algorithm)
+- [algorithms](#algorithms)
 - [android](#android)
 - [angular](#angular)
 - [api](#api)
@@ -37,6 +38,7 @@
 - [cloud](#cloud)
 - [code](#code)
 - [coding](#coding)
+- [command-line](#command-line)
 - [compiler](#compiler)
 - [computer-science](#computer-science)
 - [cpp](#cpp)
@@ -240,6 +242,12 @@
 - [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
 - [loiane/javascript-datastructures-algorithms](https://github.com/loiane/javascript-datastructures-algorithms) - :books: collection of JavaScript and TypeScript data structures and algorithms for education purposes. Source code bundle of JavaScript algorithms and data structures book
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
+
+## algorithms 
+
+- [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
+- [kelvins/algorithms-and-data-structures](https://github.com/kelvins/algorithms-and-data-structures) - :abacus: Algorithms and Data Structures in several Programming Languages
+- [TheAlgorithms/Go](https://github.com/TheAlgorithms/Go) - Algorithms and Data Structures implemented in Go for beginners, following best practices.
 
 ## android 
 
@@ -498,6 +506,14 @@
 
 - [qrac/minista](https://github.com/qrac/minista) - Static site generator with 100% static export from React and Vite.
 - [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas) - A Collection of application ideas which can be used to improve your coding skills.
+
+## command-line 
+
+- [danielgatis/imgcat](https://github.com/danielgatis/imgcat) - Display images and gifs in your terminal.
+- [hengyoush/kyanos](https://github.com/hengyoush/kyanos) - Kyanos is a networking analysis tool using eBPF. It can visualize the time packets spend in the kernel, capture requests/responses, makes troubleshooting more efficient.
+- [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
+- [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
+- [eza-community/eza](https://github.com/eza-community/eza) - A modern alternative to ls
 
 ## compiler 
 
@@ -1388,7 +1404,6 @@
 - [mikeroyal/PipeWire-Guide](https://github.com/mikeroyal/PipeWire-Guide) - PipeWire Guide. Learn about how PipeWire gives your Linux system a Professional Audio/Video Processing workflow.
 - [virtio-win/virtio-win-pkg-scripts](https://github.com/virtio-win/virtio-win-pkg-scripts) - Scripts for packaging virtio-win drivers
 - [joshrandall8478/kde-rice](https://github.com/joshrandall8478/kde-rice) - 
-- [hengyoush/kyanos](https://github.com/hengyoush/kyanos) - Kyanos is a networking analysis tool using eBPF. It can visualize the time packets spend in the kernel, capture requests/responses, makes troubleshooting more efficient.
 - [lawfx/YoutubeNonStop](https://github.com/lawfx/YoutubeNonStop) - Autoclicker for Youtube's latest "feature" - Video paused. Continue watching?
 - [ViniciosLugli/hackathon-capes](https://github.com/ViniciosLugli/hackathon-capes) - 
 - [mateusclira/gcp-workflow-trino-superset](https://github.com/mateusclira/gcp-workflow-trino-superset) - Desafio Final do Bootcamp - Engenharia de Dados Cloud
