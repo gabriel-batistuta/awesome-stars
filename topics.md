@@ -1393,6 +1393,7 @@
 
 ## others 
 
+- [Eduardo-Marinho-Paiva/pipeline_pyspark_cpd](https://github.com/Eduardo-Marinho-Paiva/pipeline_pyspark_cpd) - 
 - [manga-download/hakuneko](https://github.com/manga-download/hakuneko) - Manga & Anime Downloader for Linux, Windows & MacOS
 - [timescale/private-rag-example](https://github.com/timescale/private-rag-example) - Private RAG app sample using Llama3, Ollama and PostgreSQL
 - [JonasNilson/idle_master_extended](https://github.com/JonasNilson/idle_master_extended) - 🃏 Get your Steam Trading Cards the Fast Way (Fast Mode Extension 🚀)
