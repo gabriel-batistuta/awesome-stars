@@ -344,6 +344,7 @@
 
 ## Lua 
 
+- [LnxFCA/balatro-mods](https://github.com/LnxFCA/balatro-mods) - Collection of my hand-made mods for Balatro.
 - [nagadomi/waifu2x](https://github.com/nagadomi/waifu2x) - Image Super-Resolution for Anime-Style Art
 - [itlgrim/roblox-demos](https://github.com/itlgrim/roblox-demos) - Various Roblox experiences
 - [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim) - 🌙 LunarVim is an IDE layer for Neovim. Completely free and community driven.
@@ -728,7 +729,7 @@
 - [ViniciosLugli/hackathon-capes](https://github.com/ViniciosLugli/hackathon-capes) - 
 - [Moebytes/Waifu2x-GUI](https://github.com/Moebytes/Waifu2x-GUI) - An app that upscales images, gifs, videos, and pdfs with waifu2x.
 - [ocodista/trampar-de-casa](https://github.com/ocodista/trampar-de-casa) - Apoiamos o trabalho remoto e divulgamos vagas semanalmente para inscritos.
-- [LNReader/lnreader-plugins](https://github.com/LNReader/lnreader-plugins) - Repository to host source related issues, and requests for LNReader
+- [lnreader/lnreader-plugins](https://github.com/lnreader/lnreader-plugins) - Repository to host plugin related issues, and requests for LNReader
 - [joao-victor-costa-gomes/Rick-And-Morty-Characters-App](https://github.com/joao-victor-costa-gomes/Rick-And-Morty-Characters-App) - An application powered by an API where the user can see various information about Rick & Morty characters and also add them to a list of favorites.
 - [haicaumuoi/Mushoku-Tensei-English-Landing-Page](https://github.com/haicaumuoi/Mushoku-Tensei-English-Landing-Page) - 
 - [artiefellype/gonin](https://github.com/artiefellype/gonin) - Gonin é um projeto de uma comunidade online de código aberto inspirada em diversos fóruns online diferentes, mas com uma abordagem mais amigável. Participe de discussões e compartilhe interesses nesse
@@ -740,7 +741,7 @@
 - [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - JavaScript API for Chrome and Firefox
 - [apify/crawlee](https://github.com/apify/crawlee) - Crawlee—A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and o
 - [Cosmicoppai/LiSA](https://github.com/Cosmicoppai/LiSA) - LiSA (Native App to stream/read and download Anime & Manga ❤️ )
-- [LNReader/lnreader](https://github.com/LNReader/lnreader) - Light novel reader for Android.
+- [lnreader/lnreader](https://github.com/lnreader/lnreader) - Light novel reader for Android.
 - [consumet/api.consumet.org](https://github.com/consumet/api.consumet.org) - A Modern Search Engine API for Anime, Movies/TVShows, Books, Light Novels, Manga, etc.
 - [GeovaneSchmitz/sigaa-api](https://github.com/GeovaneSchmitz/sigaa-api) - Unofficial high performance API for SIGAA (Sistema Integrado de Gestão de Atividades Acadêmicas) using web scraping.
 - [James-Yu/LaTeX-Workshop](https://github.com/James-Yu/LaTeX-Workshop) - Boost LaTeX typesetting efficiency with preview, compile, autocomplete, colorize, and more.
