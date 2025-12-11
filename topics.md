@@ -86,6 +86,7 @@
 - [gamedev](#gamedev)
 - [games](#games)
 - [gaming](#gaming)
+- [generative-ai](#generative-ai)
 - [git](#git)
 - [github](#github)
 - [github-api](#github-api)
@@ -825,6 +826,10 @@
 ## gaming 
 
 - [ecalder6/azure-gaming](https://github.com/ecalder6/azure-gaming) - Cloud Gaming Made Easy
+
+## generative-ai 
+
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 The platform for reliable agents.
 
 ## git 
 
