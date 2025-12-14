@@ -1400,6 +1400,7 @@
 
 ## others 
 
+- [leomontenegro6/gbatroids-dialog-previewer](https://github.com/leomontenegro6/gbatroids-dialog-previewer) - Prévisualizador de diálogos para jogos de Metroid de Gameboy Advance
 - [Eduardo-Marinho-Paiva/pipeline_pyspark_cpd](https://github.com/Eduardo-Marinho-Paiva/pipeline_pyspark_cpd) - 
 - [manga-download/hakuneko](https://github.com/manga-download/hakuneko) - Manga & Anime Downloader for Linux, Windows & MacOS
 - [JonasNilson/idle_master_extended](https://github.com/JonasNilson/idle_master_extended) - 🃏 Get your Steam Trading Cards the Fast Way (Fast Mode Extension 🚀)
