@@ -1231,6 +1231,7 @@
 
 - [okfn-brasil/serenata-de-amor](https://github.com/okfn-brasil/serenata-de-amor) - 🕵 Artificial Intelligence for social control of public administration | **This repository does not receive frequent updates. Check out the README**
 - [k4yt3x/video2x](https://github.com/k4yt3x/video2x) - A machine learning-based video super resolution and frame interpolation framework. Est. Hack the Valley II, 2018.
+- [cleanlab/cleanlab](https://github.com/cleanlab/cleanlab) - Cleanlab's open-source library is the standard data-centric AI package for data quality and machine learning with messy, real-world data and labels.
 - [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
 - [google-research/google-research](https://github.com/google-research/google-research) - Google Research
 - [ErdemOzgen/Data-Engineering-Roadmap](https://github.com/ErdemOzgen/Data-Engineering-Roadmap) - Roadmap for Data Engineering
@@ -1400,6 +1401,7 @@
 
 ## others 
 
+- [benjamimgois/goverlay](https://github.com/benjamimgois/goverlay) - Goverlay is an easy graphical interface to configure MangoHud, vkBasalt, and OptiScaler
 - [leomontenegro6/gbatroids-dialog-previewer](https://github.com/leomontenegro6/gbatroids-dialog-previewer) - Prévisualizador de diálogos para jogos de Metroid de Gameboy Advance
 - [Eduardo-Marinho-Paiva/pipeline_pyspark_cpd](https://github.com/Eduardo-Marinho-Paiva/pipeline_pyspark_cpd) - 
 - [manga-download/hakuneko](https://github.com/manga-download/hakuneko) - Manga & Anime Downloader for Linux, Windows & MacOS
