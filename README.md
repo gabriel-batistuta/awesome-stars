@@ -34,6 +34,7 @@
 - [Odin](#odin)
 - [Others](#others)
 - [PHP](#php)
+- [Pascal](#pascal)
 - [Perl](#perl)
 - [PowerShell](#powershell)
 - [Python](#python)
@@ -429,6 +430,10 @@
 - [danielmiessler/SecLists](https://github.com/danielmiessler/SecLists) - SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensi
 - [skoro/php-tkui](https://github.com/skoro/php-tkui) - Build native desktop applications with PHP only
 - [WordPress/WordPress](https://github.com/WordPress/WordPress) - WordPress, Git-ified. This repository is just a mirror of the WordPress subversion repository. Please do not send pull requests. Submit pull requests to https://github.com/WordPress/wordpress-develop 
+
+## Pascal 
+
+- [benjamimgois/goverlay](https://github.com/benjamimgois/goverlay) - Goverlay is an easy graphical interface to configure MangoHud, vkBasalt, and OptiScaler
 
 ## Perl 
 
