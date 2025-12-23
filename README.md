@@ -345,6 +345,9 @@
 
 ## Lua 
 
+- [DivvyCr/Balatro-History](https://github.com/DivvyCr/Balatro-History) - View the history of your played hands and shop purchases! Save and load any number of runs!
+- [Toeler/Balatro-HandPreview](https://github.com/Toeler/Balatro-HandPreview) - A mod for Balatro which adds a window showing the possible poker hands that you can make with your current hand
+- [OceanRamen/Brainstorm](https://github.com/OceanRamen/Brainstorm) - A Balatro Quality-of-Life Mod
 - [LnxFCA/balatro-mods](https://github.com/LnxFCA/balatro-mods) - Collection of my hand-made mods for Balatro.
 - [nagadomi/waifu2x](https://github.com/nagadomi/waifu2x) - Image Super-Resolution for Anime-Style Art
 - [itlgrim/roblox-demos](https://github.com/itlgrim/roblox-demos) - Various Roblox experiences
@@ -367,6 +370,7 @@
 
 ## Others 
 
+- [jie65535/awesome-balatro](https://github.com/jie65535/awesome-balatro) - A list of Balatro Mods and Tools
 - [avtzis/awesome-linux-ricing](https://github.com/avtzis/awesome-linux-ricing) - 🎨 Curated list of awesome themes, tools and apps for customizing the Linux environment.
 - [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) - 
 - [Duarte-753/Traducao_SKES_2023](https://github.com/Duarte-753/Traducao_SKES_2023) - Tradução de skyrim special edition pc
