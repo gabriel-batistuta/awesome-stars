@@ -340,6 +340,7 @@
 
 ## awesome 
 
+- [jie65535/awesome-balatro](https://github.com/jie65535/awesome-balatro) - A list of Balatro Mods and Tools
 - [avtzis/awesome-linux-ricing](https://github.com/avtzis/awesome-linux-ricing) - 🎨 Curated list of awesome themes, tools and apps for customizing the Linux environment.
 - [wsvincent/awesome-django](https://github.com/wsvincent/awesome-django) - A curated list of awesome things related to Django
 - [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats) - This GitHub action helps to add cool dev metrics to your github profile Readme
@@ -1407,6 +1408,9 @@
 
 ## others 
 
+- [DivvyCr/Balatro-History](https://github.com/DivvyCr/Balatro-History) - View the history of your played hands and shop purchases! Save and load any number of runs!
+- [Toeler/Balatro-HandPreview](https://github.com/Toeler/Balatro-HandPreview) - A mod for Balatro which adds a window showing the possible poker hands that you can make with your current hand
+- [OceanRamen/Brainstorm](https://github.com/OceanRamen/Brainstorm) - A Balatro Quality-of-Life Mod
 - [benjamimgois/goverlay](https://github.com/benjamimgois/goverlay) - Goverlay is an easy graphical interface to configure MangoHud, vkBasalt, and OptiScaler
 - [leomontenegro6/gbatroids-dialog-previewer](https://github.com/leomontenegro6/gbatroids-dialog-previewer) - Prévisualizador de diálogos para jogos de Metroid de Gameboy Advance
 - [Eduardo-Marinho-Paiva/pipeline_pyspark_cpd](https://github.com/Eduardo-Marinho-Paiva/pipeline_pyspark_cpd) - 
