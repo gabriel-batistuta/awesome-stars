@@ -345,6 +345,8 @@
 
 ## Lua 
 
+- [OceanRamen/Saturn](https://github.com/OceanRamen/Saturn) - Quality of life mod for Balatro
+- [SleepyG11/HandyBalatro](https://github.com/SleepyG11/HandyBalatro) - A mod for Balatro which adds new Quality of Life controls and keybinds.
 - [DivvyCr/Balatro-History](https://github.com/DivvyCr/Balatro-History) - View the history of your played hands and shop purchases! Save and load any number of runs!
 - [Toeler/Balatro-HandPreview](https://github.com/Toeler/Balatro-HandPreview) - A mod for Balatro which adds a window showing the possible poker hands that you can make with your current hand
 - [OceanRamen/Brainstorm](https://github.com/OceanRamen/Brainstorm) - A Balatro Quality-of-Life Mod
@@ -737,7 +739,7 @@
 - [pear-devs/pear-desktop](https://github.com/pear-devs/pear-desktop) - Pear 🍐 is extension for music player
 - [ViniciosLugli/hackathon-capes](https://github.com/ViniciosLugli/hackathon-capes) - 
 - [Moebytes/Waifu2x-GUI](https://github.com/Moebytes/Waifu2x-GUI) - An app that upscales images, gifs, videos, and pdfs with waifu2x.
-- [ocodista/trampar-de-casa](https://github.com/ocodista/trampar-de-casa) - Apoiamos o trabalho remoto e divulgamos vagas semanalmente para inscritos.
+- [ocodista/trampar-de-casa](https://github.com/ocodista/trampar-de-casa) - Apoio o trabalho remoto divulgando vagas semanalmente para +30.000 inscritos.
 - [lnreader/lnreader-plugins](https://github.com/lnreader/lnreader-plugins) - Repository to host plugin related issues, and requests for LNReader
 - [joao-victor-costa-gomes/Rick-And-Morty-Characters-App](https://github.com/joao-victor-costa-gomes/Rick-And-Morty-Characters-App) - An application powered by an API where the user can see various information about Rick & Morty characters and also add them to a list of favorites.
 - [haicaumuoi/Mushoku-Tensei-English-Landing-Page](https://github.com/haicaumuoi/Mushoku-Tensei-English-Landing-Page) - 
