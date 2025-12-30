@@ -1408,6 +1408,10 @@
 
 ## others 
 
+- [danitsdev/Lost_Edition](https://github.com/danitsdev/Lost_Edition) - Lost Edition is a fan-made Balatro expansion with 70+ Jokers, new Blinds, Decks, Stakes, challenges, themes, and original music (Steamodded + Lovely).
+- [SirMaiquis/Balatro-Baldatro](https://github.com/SirMaiquis/Balatro-Baldatro) - Baldatro is a mod that makes all the jokers bald, thats it, enjoy!
+- [Sparktimus/Balatro95](https://github.com/Sparktimus/Balatro95) - A visual Balatro mod that replicates the look and feel of a Windows 95 game!
+- [luuumine/BalaQuints](https://github.com/luuumine/BalaQuints) - Retexture mod for Balatro featuring the Quintessential Quintuplets.
 - [OceanRamen/Saturn](https://github.com/OceanRamen/Saturn) - Quality of life mod for Balatro
 - [SleepyG11/HandyBalatro](https://github.com/SleepyG11/HandyBalatro) - A mod for Balatro which adds new Quality of Life controls and keybinds.
 - [DivvyCr/Balatro-History](https://github.com/DivvyCr/Balatro-History) - View the history of your played hands and shop purchases! Save and load any number of runs!
