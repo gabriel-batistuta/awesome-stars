@@ -1409,6 +1409,7 @@
 
 ## others 
 
+- [GBALATRO/balatro-gba](https://github.com/GBALATRO/balatro-gba) - 
 - [danitsdev/Lost_Edition](https://github.com/danitsdev/Lost_Edition) - Lost Edition is a fan-made Balatro expansion with 70+ Jokers, new Blinds, Decks, Stakes, challenges, themes, and original music (Steamodded + Lovely).
 - [SirMaiquis/Balatro-Baldatro](https://github.com/SirMaiquis/Balatro-Baldatro) - Baldatro is a mod that makes all the jokers bald, thats it, enjoy!
 - [Sparktimus/Balatro95](https://github.com/Sparktimus/Balatro95) - A visual Balatro mod that replicates the look and feel of a Windows 95 game!
