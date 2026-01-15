@@ -1410,6 +1410,7 @@
 
 ## others 
 
+- [ksasao/anime-character-detector](https://github.com/ksasao/anime-character-detector) - YOLOX-based anime character detector running in browser with ONNX Runtime Web (WebGPU/WASM)
 - [GBALATRO/balatro-gba](https://github.com/GBALATRO/balatro-gba) - 
 - [danitsdev/Lost_Edition](https://github.com/danitsdev/Lost_Edition) - Lost Edition is a fan-made Balatro expansion with 70+ Jokers, new Blinds, Decks, Stakes, challenges, themes, and original music (Steamodded + Lovely).
 - [SirMaiquis/Balatro-Baldatro](https://github.com/SirMaiquis/Balatro-Baldatro) - Baldatro is a mod that makes all the jokers bald, thats it, enjoy!
