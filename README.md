@@ -461,6 +461,7 @@
 
 ## Python 
 
+- [ksasao/anime-character-detector](https://github.com/ksasao/anime-character-detector) - YOLOX-based anime character detector running in browser with ONNX Runtime Web (WebGPU/WASM)
 - [Eduardo-Marinho-Paiva/pipeline_pyspark_cpd](https://github.com/Eduardo-Marinho-Paiva/pipeline_pyspark_cpd) - 
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 The platform for reliable agents.
 - [wsvincent/awesome-django](https://github.com/wsvincent/awesome-django) - A curated list of awesome things related to Django
