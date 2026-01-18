@@ -32,6 +32,7 @@
 - [Lua](#lua)
 - [MDX](#mdx)
 - [Markdown](#markdown)
+- [Nunjucks](#nunjucks)
 - [Odin](#odin)
 - [Others](#others)
 - [PHP](#php)
@@ -288,7 +289,6 @@
 - [iamcco/markdown-preview.nvim](https://github.com/iamcco/markdown-preview.nvim) - markdown preview plugin for (neo)vim
 - [romhackersbr/romhackersbr.github.io](https://github.com/romhackersbr/romhackersbr.github.io) - Site do PO.BR.E - Portal Brasileiro de ROMHacking e Emulação
 - [dreampuf/GraphvizOnline](https://github.com/dreampuf/GraphvizOnline) - Let's Graphviz it online
-- [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) - A list of semi to fully remote-friendly companies (jobs) in tech.
 - [egonSchiele/grokking_algorithms](https://github.com/egonSchiele/grokking_algorithms) - Code for the book Grokking Algorithms (https://www.amazon.com/dp/1633438538)
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 - [RalphAlexander/Seasonal-Anime-Calendar](https://github.com/RalphAlexander/Seasonal-Anime-Calendar) - A Web App that tracks currently airing Animes. Users can make and edit their owns lists as well as display them in order of time, date and filter all Animes that aren't airing in a certain amount of t
@@ -372,6 +372,10 @@
 - [docker/docs](https://github.com/docker/docs) - Source repo for Docker's Documentation
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 - [microsoft/vscode-docs](https://github.com/microsoft/vscode-docs) - Public documentation for Visual Studio Code
+
+## Nunjucks 
+
+- [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) - A list of semi to fully remote-friendly companies (jobs) in tech.
 
 ## Odin 
 
