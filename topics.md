@@ -1523,7 +1523,6 @@
 - [ValveSoftware/Proton](https://github.com/ValveSoftware/Proton) - Compatibility tool for Steam Play based on Wine and additional components
 - [moonlight-stream/moonlight-docs](https://github.com/moonlight-stream/moonlight-docs) - Moonlight Documentation
 - [keiyoushi/extensions](https://github.com/keiyoushi/extensions) - Extension repository for Mihon and variants
-- [rjricken/monkey-moore](https://github.com/rjricken/monkey-moore) - Relative searcher tool based on the Boyer-Moore string search algorithm
 - [GNOME/ghex](https://github.com/GNOME/ghex) - Read-only mirror of https://gitlab.gnome.org/GNOME/ghex
 - [pret/ds_disassembly_tools](https://github.com/pret/ds_disassembly_tools) - A small collection of scripts designed to assist with the initial setup of a DS disassembly project
 - [zerobyte-id-bak/Bashter](https://github.com/zerobyte-id-bak/Bashter) - Web Crawler, Scanner, and Analyzer Framework (Shell-Script based)
@@ -1952,6 +1951,7 @@
 
 ## reverse-engineering 
 
+- [rjricken/monkey-moore](https://github.com/rjricken/monkey-moore) - A high-performance relative searcher for ROM hacking. Features multi-threaded Boyer-Moore pattern matching, wildcard support, and 8/16-bit endianness control for discovering non-standard text encoding
 - [Luca1991/NDSFactory](https://github.com/Luca1991/NDSFactory) - Unpack & Repack Nintendo DS Roms (.nds)
 - [iBotPeaches/Apktool](https://github.com/iBotPeaches/Apktool) - A tool for reverse engineering Android apk files
 - [pret/pokeemerald](https://github.com/pret/pokeemerald) - Decompilation of Pokémon Emerald
