@@ -752,7 +752,7 @@
 - [ocodista/trampar-de-casa](https://github.com/ocodista/trampar-de-casa) - Apoio o trabalho remoto divulgando vagas semanalmente para +30.000 inscritos.
 - [soruly/trace.moe-api](https://github.com/soruly/trace.moe-api) - API server for serving backend requests for trace.moe
 - [lnreader/lnreader-plugins](https://github.com/lnreader/lnreader-plugins) - Repository to host plugin related issues, and requests for LNReader
-- [joao-victor-costa-gomes/Rick-And-Morty-Characters-App](https://github.com/joao-victor-costa-gomes/Rick-And-Morty-Characters-App) - An application powered by an API where the user can see various information about Rick & Morty characters and also add them to a list of favorites.
+- [joao-victor-costa-gomes/Rick_And_Morty_Characters_App](https://github.com/joao-victor-costa-gomes/Rick_And_Morty_Characters_App) - An application powered by an API where the user can see various information about Rick & Morty characters and also add them to a list of favorites.
 - [haicaumuoi/Mushoku-Tensei-English-Landing-Page](https://github.com/haicaumuoi/Mushoku-Tensei-English-Landing-Page) - 
 - [soruly/anilist-crawler](https://github.com/soruly/anilist-crawler) - Crawl data from anilist API and store as JSON file
 - [artiefellype/gonin](https://github.com/artiefellype/gonin) - Gonin é um projeto de uma comunidade online de código aberto inspirada em diversos fóruns online diferentes, mas com uma abordagem mais amigável. Participe de discussões e compartilhe interesses nesse
