@@ -122,7 +122,7 @@
 
 - [JonasNilson/idle_master_extended](https://github.com/JonasNilson/idle_master_extended) - 🃏 Get your Steam Trading Cards the Fast Way (Fast Mode Extension 🚀)
 - [gibbed/SteamAchievementManager](https://github.com/gibbed/SteamAchievementManager) - A manager for game achievements in Steam.
-- [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline everyday tasks
+- [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows
 - [pixeltris/YgoMaster](https://github.com/pixeltris/YgoMaster) - Offline Yu-Gi-Oh! Master Duel
 
 ## C++ 
@@ -347,6 +347,7 @@
 
 ## Lua 
 
+- [Steamodded/smods](https://github.com/Steamodded/smods) - A Balatro Modding Framework
 - [danitsdev/Lost_Edition](https://github.com/danitsdev/Lost_Edition) - Lost Edition is a fan-made Balatro expansion with 70+ Jokers, new Blinds, Decks, Stakes, challenges, themes, and original music (Steamodded + Lovely).
 - [luuumine/BalaQuints](https://github.com/luuumine/BalaQuints) - Retexture mod for Balatro featuring the Quintessential Quintuplets.
 - [OceanRamen/Saturn](https://github.com/OceanRamen/Saturn) - Quality of life mod for Balatro
