@@ -1416,6 +1416,7 @@
 
 ## others 
 
+- [Steamodded/smods](https://github.com/Steamodded/smods) - A Balatro Modding Framework
 - [ksasao/anime-character-detector](https://github.com/ksasao/anime-character-detector) - YOLOX-based anime character detector running in browser with ONNX Runtime Web (WebGPU/WASM)
 - [GBALATRO/balatro-gba](https://github.com/GBALATRO/balatro-gba) - 
 - [danitsdev/Lost_Edition](https://github.com/danitsdev/Lost_Edition) - Lost Edition is a fan-made Balatro expansion with 70+ Jokers, new Blinds, Decks, Stakes, challenges, themes, and original music (Steamodded + Lovely).
@@ -2210,7 +2211,7 @@
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 - [webtorrent/webtorrent-desktop](https://github.com/webtorrent/webtorrent-desktop) - ❤️ Streaming torrent app for Mac, Windows, and Linux
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
-- [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline everyday tasks
+- [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows
 - [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
 - [Suwayomi/Tachidesk-Sorayomi](https://github.com/Suwayomi/Tachidesk-Sorayomi) - A free and open source manga reader app to read manga from a Tachidesk-Server instance.
 - [enieber/open-avd](https://github.com/enieber/open-avd) - cli to open emulator without open android studio
