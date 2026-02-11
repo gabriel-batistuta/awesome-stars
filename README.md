@@ -20,6 +20,7 @@
 - [Dockerfile](#dockerfile)
 - [Elixir](#elixir)
 - [Go](#go)
+- [Go Template](#go-template)
 - [HLSL](#hlsl)
 - [HTML](#html)
 - [Haskell](#haskell)
@@ -205,6 +206,10 @@
 - [giongto35/cloud-game](https://github.com/giongto35/cloud-game) - Web-based Cloud Gaming service for Retro Game
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
 - [akitaonrails/nes](https://github.com/akitaonrails/nes) - NES emulator written in Go.
+
+## Go Template 
+
+- [leomontenegro6/mmbn-4-traducao-ptbr](https://github.com/leomontenegro6/mmbn-4-traducao-ptbr) - Projeto de tradução do jogo MegaMan Battle Network 4, para GBA
 
 ## HLSL 
 
@@ -729,7 +734,6 @@
 
 ## Smarty 
 
-- [leomontenegro6/mmbn-4-traducao-ptbr](https://github.com/leomontenegro6/mmbn-4-traducao-ptbr) - Projeto de tradução do jogo MegaMan Battle Network 4, para GBA
 - [hansenhahn/mmbn-2](https://github.com/hansenhahn/mmbn-2) - Projeto de tradução do jogo MegaMan Battle Network 2, para GBA
 
 ## Svelte 
