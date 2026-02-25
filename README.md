@@ -468,6 +468,7 @@
 
 ## Python 
 
+- [anderson-ufrj/cidadao.ai-backend](https://github.com/anderson-ufrj/cidadao.ai-backend) - Sistema multi-agente de IA que transforma dados brutos do Portal da Transparência em investigações inteligentes, democratizando o acesso à informação pública através de processamento de linguagem natu
 - [rtr46/meikipop](https://github.com/rtr46/meikipop) - meikipop - universal japanese ocr popup dictionary for windows, linux and macos
 - [ksasao/anime-character-detector](https://github.com/ksasao/anime-character-detector) - YOLOX-based anime character detector running in browser with ONNX Runtime Web (WebGPU/WASM)
 - [Eduardo-Marinho-Paiva/pipeline_pyspark_cpd](https://github.com/Eduardo-Marinho-Paiva/pipeline_pyspark_cpd) - 
