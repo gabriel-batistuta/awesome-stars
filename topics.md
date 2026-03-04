@@ -73,6 +73,7 @@
 - [eslint](#eslint)
 - [express](#express)
 - [facebook](#facebook)
+- [fastapi](#fastapi)
 - [finance](#finance)
 - [firebase](#firebase)
 - [firefox](#firefox)
@@ -745,6 +746,11 @@
 ## facebook 
 
 - [mobolic/facebook-sdk](https://github.com/mobolic/facebook-sdk) - Python SDK for Facebook's Graph API
+
+## fastapi 
+
+- [anderson-ufrj/cidadao.ai-backend](https://github.com/anderson-ufrj/cidadao.ai-backend) - Sistema multi-agente de IA que transforma dados brutos do Portal da Transparência em investigações inteligentes, democratizando o acesso à informação pública através de processamento de linguagem natu
+- [fastapi/fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 
 ## finance 
 
@@ -1432,6 +1438,7 @@
 
 ## others 
 
+- [armadasvc/armada](https://github.com/armadasvc/armada) - Kubernetes-native framework for bot and scraper orchestration
 - [World-Open-Graph/br-acc](https://github.com/World-Open-Graph/br-acc) - World Transparency Graph public codebase (🚧 website in progress)
 - [Steamodded/smods](https://github.com/Steamodded/smods) - A Balatro Modding Framework
 - [ksasao/anime-character-detector](https://github.com/ksasao/anime-character-detector) - YOLOX-based anime character detector running in browser with ONNX Runtime Web (WebGPU/WASM)
