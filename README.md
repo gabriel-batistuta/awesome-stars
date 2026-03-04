@@ -469,6 +469,7 @@
 
 ## Python 
 
+- [armadasvc/armada](https://github.com/armadasvc/armada) - Kubernetes-native framework for bot and scraper orchestration
 - [World-Open-Graph/br-acc](https://github.com/World-Open-Graph/br-acc) - World Transparency Graph public codebase (🚧 website in progress)
 - [anderson-ufrj/cidadao.ai-backend](https://github.com/anderson-ufrj/cidadao.ai-backend) - Sistema multi-agente de IA que transforma dados brutos do Portal da Transparência em investigações inteligentes, democratizando o acesso à informação pública através de processamento de linguagem natu
 - [rtr46/meikipop](https://github.com/rtr46/meikipop) - meikipop - universal japanese ocr popup dictionary for windows, linux and macos
