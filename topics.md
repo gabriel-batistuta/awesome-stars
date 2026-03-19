@@ -1434,8 +1434,9 @@
 
 ## others 
 
+- [Afonso017/ontologia_alergenicos](https://github.com/Afonso017/ontologia_alergenicos) - Repositório com finalidade de abrigar documentação, modelagem e construção de uma ontologia de referência para descrever alergênicos alimentares.
 - [armadasvc/armada](https://github.com/armadasvc/armada) - Kubernetes-native framework for bot and scraper orchestration
-- [World-Open-Graph/br-acc](https://github.com/World-Open-Graph/br-acc) - World Transparency Graph public codebase (🚧 website in progress)
+- [brunoclz/br-acc](https://github.com/brunoclz/br-acc) - World Transparency Graph public codebase (🚧 website in progress)
 - [Steamodded/smods](https://github.com/Steamodded/smods) - A Balatro Modding Framework
 - [ksasao/anime-character-detector](https://github.com/ksasao/anime-character-detector) - YOLOX-based anime character detector running in browser with ONNX Runtime Web (WebGPU/WASM)
 - [GBALATRO/balatro-gba](https://github.com/GBALATRO/balatro-gba) - 
