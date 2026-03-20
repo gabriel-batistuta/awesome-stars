@@ -47,6 +47,7 @@
 - [Shell](#shell)
 - [Smarty](#smarty)
 - [Svelte](#svelte)
+- [Swift](#swift)
 - [SystemVerilog](#systemverilog)
 - [TypeScript](#typescript)
 - [Vala](#vala)
@@ -149,7 +150,6 @@
 - [mkleehammer/pyodbc](https://github.com/mkleehammer/pyodbc) - Python ODBC bridge
 - [WebAssembly/wabt](https://github.com/WebAssembly/wabt) - The WebAssembly Binary Toolkit
 - [cemu-project/Cemu](https://github.com/cemu-project/Cemu) - Cemu - Wii U emulator
-- [swiftlang/swift](https://github.com/swiftlang/swift) - The Swift Programming Language
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
 - [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “KeePass Password Safe”.
 - [PCSX2/pcsx2](https://github.com/PCSX2/pcsx2) - PCSX2 - The Playstation 2 Emulator
@@ -538,7 +538,7 @@
 - [NExT-GPT/NExT-GPT](https://github.com/NExT-GPT/NExT-GPT) - Code and models for ICML 2024 paper, NExT-GPT: Any-to-Any Multimodal Large Language Model
 - [Animenosekai/translate](https://github.com/Animenosekai/translate) - A module grouping multiple translation APIs
 - [josephmisiti/hadoop-examples](https://github.com/josephmisiti/hadoop-examples) - You wanna learn how to use Hadoop, start here!
-- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - 📊 Browser automation for testing, scraping, and stealth. Works with Playwright. Lots of examples.
+- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - 📊 Python APIs for web automation, testing, and bypassing bot-detection.
 - [luxuriant777/Handwritten-Text-Generator](https://github.com/luxuriant777/Handwritten-Text-Generator) - This project offers a simple and intuitive interface for users to input text and generate images that showcase the text in a handwritten style. The generator supports several stylistic modifications i
 - [batocera-linux/batocera.linux](https://github.com/batocera-linux/batocera.linux) - batocera.linux
 - [EnergyNeumann/Bot-Que-Pula-Os-Episodios-de-One-Piece](https://github.com/EnergyNeumann/Bot-Que-Pula-Os-Episodios-de-One-Piece) - Você já pensou em pular os episódios de One Piece, mas por estar deitado e relaxado, ficou com preguiça de levantar e pular? Aqui está a solução! Esse bot irá pular a quantidade de episódios que você 
@@ -747,6 +747,10 @@
 
 - [Figma-Linux/figma-linux](https://github.com/Figma-Linux/figma-linux) - Figma is the first interface design tool based in the browser, making it easier for teams to create software. Join us in https://t.me/figma_linux
 
+## Swift 
+
+- [swiftlang/swift](https://github.com/swiftlang/swift) - The Swift Programming Language
+
 ## SystemVerilog 
 
 - [adam-maj/tiny-gpu](https://github.com/adam-maj/tiny-gpu) - A minimal GPU design in Verilog to learn how GPUs work from the ground up
@@ -768,7 +772,6 @@
 - [haicaumuoi/Mushoku-Tensei-English-Landing-Page](https://github.com/haicaumuoi/Mushoku-Tensei-English-Landing-Page) - 
 - [soruly/anilist-crawler](https://github.com/soruly/anilist-crawler) - Crawl data from anilist API and store as JSON file
 - [artiefellype/gonin](https://github.com/artiefellype/gonin) - Gonin é um projeto de uma comunidade online de código aberto inspirada em diversos fóruns online diferentes, mas com uma abordagem mais amigável. Participe de discussões e compartilhe interesses nesse
-- [consumet/consumet.ts](https://github.com/consumet/consumet.ts) - Nodejs library that provides high-level APIs for obtaining information on various entertainment media such as books, movies, comic books, anime, manga, and so on.
 - [samueldurantes/susi](https://github.com/samueldurantes/susi) - A simple viewer of the cutoff scores for all Brazilian universities participating in SISU
 - [vuejs/core](https://github.com/vuejs/core) - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
 - [hydralauncher/hydra](https://github.com/hydralauncher/hydra) - Hydra Launcher is an open-source gaming platform created to be the single tool that you need
@@ -777,7 +780,6 @@
 - [apify/crawlee](https://github.com/apify/crawlee) - Crawlee—A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and o
 - [Cosmicoppai/LiSA](https://github.com/Cosmicoppai/LiSA) - LiSA (Native App to stream/read and download Anime & Manga ❤️ )
 - [lnreader/lnreader](https://github.com/lnreader/lnreader) - Light novel reader for Android.
-- [consumet/api.consumet.org](https://github.com/consumet/api.consumet.org) - A Modern Search Engine API for Anime, Movies/TVShows, Books, Light Novels, Manga, etc.
 - [GeovaneSchmitz/sigaa-api](https://github.com/GeovaneSchmitz/sigaa-api) - Unofficial high performance API for SIGAA (Sistema Integrado de Gestão de Atividades Acadêmicas) using web scraping.
 - [James-Yu/LaTeX-Workshop](https://github.com/James-Yu/LaTeX-Workshop) - Boost LaTeX typesetting efficiency with preview, compile, autocomplete, colorize, and more.
 - [AdguardTeam/AdguardBrowserExtension](https://github.com/AdguardTeam/AdguardBrowserExtension) - AdGuard browser extension
