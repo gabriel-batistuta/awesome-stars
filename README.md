@@ -115,7 +115,7 @@
 - [Sierraffinity/CrystalDust](https://github.com/Sierraffinity/CrystalDust) - A ROM hack of Pokémon Emerald that aims to recreate Pokémon Crystal on the GBA.
 - [GNOME/gimp](https://github.com/GNOME/gimp) - Read-only mirror of https://gitlab.gnome.org/GNOME/gimp
 - [acidanthera/OpenCorePkg](https://github.com/acidanthera/OpenCorePkg) - OpenCore bootloader
-- [openssl/openssl](https://github.com/openssl/openssl) - TLS/SSL and crypto library
+- [openssl/openssl](https://github.com/openssl/openssl) - General purpose TLS and crypto library
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
 - [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
 - [Faria13/URI-Problem](https://github.com/Faria13/URI-Problem) - Some online programming solution
