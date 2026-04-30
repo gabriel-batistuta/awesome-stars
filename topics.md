@@ -285,7 +285,7 @@
 - [iBotPeaches/Apktool](https://github.com/iBotPeaches/Apktool) - A tool for reverse engineering Android apk files
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
 - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
-- [flet-dev/flet](https://github.com/flet-dev/flet) - Flet enables developers to easily build realtime web, mobile and desktop apps in Python. No frontend experience required.
+- [flet-dev/flet](https://github.com/flet-dev/flet) - Build realtime web, mobile and desktop apps in Python only. No frontend experience required.
 - [termux/termux-packages](https://github.com/termux/termux-packages) - A package build system for Termux.
 - [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers
 - [androiddevbr/materiais-de-estudo](https://github.com/androiddevbr/materiais-de-estudo) - Livros, cursos, links úteis e outros materiais de estudo para quem quer aprender a criar aplicações Android! 🤖
@@ -789,7 +789,7 @@
 - [Solido/awesome-flutter](https://github.com/Solido/awesome-flutter) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
 - [Suwayomi/Tachidesk-Sorayomi](https://github.com/Suwayomi/Tachidesk-Sorayomi) - A free and open source manga reader app to read manga from a Tachidesk-Server instance.
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
-- [flet-dev/flet](https://github.com/flet-dev/flet) - Flet enables developers to easily build realtime web, mobile and desktop apps in Python. No frontend experience required.
+- [flet-dev/flet](https://github.com/flet-dev/flet) - Build realtime web, mobile and desktop apps in Python only. No frontend experience required.
 - [olmps/memo](https://github.com/olmps/memo) - Memo is an open-source, programming-oriented spaced repetition software (SRS) written in Flutter.
 
 ## flutter-apps 
@@ -1088,7 +1088,7 @@
 - [Solido/awesome-flutter](https://github.com/Solido/awesome-flutter) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
 - [Suwayomi/Tachidesk-Sorayomi](https://github.com/Suwayomi/Tachidesk-Sorayomi) - A free and open source manga reader app to read manga from a Tachidesk-Server instance.
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
-- [flet-dev/flet](https://github.com/flet-dev/flet) - Flet enables developers to easily build realtime web, mobile and desktop apps in Python. No frontend experience required.
+- [flet-dev/flet](https://github.com/flet-dev/flet) - Build realtime web, mobile and desktop apps in Python only. No frontend experience required.
 - [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native applications using React
 
 ## java 
@@ -1902,7 +1902,7 @@
 - [nltk/nltk](https://github.com/nltk/nltk) - NLTK Source
 - [Chaffelson/nipyapi](https://github.com/Chaffelson/nipyapi) - A convenient Python wrapper for Apache NiFi
 - [pytube/pytube](https://github.com/pytube/pytube) - Lightweight, dependency-free Python library and CLI for downloading YouTube videos, playlists, and captions.
-- [flet-dev/flet](https://github.com/flet-dev/flet) - Flet enables developers to easily build realtime web, mobile and desktop apps in Python. No frontend experience required.
+- [flet-dev/flet](https://github.com/flet-dev/flet) - Build realtime web, mobile and desktop apps in Python only. No frontend experience required.
 - [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
 - [vmeazevedo/myFII_B3](https://github.com/vmeazevedo/myFII_B3) - Aplicação de monitoramento de valores de Fundos Imobiliários e ações.
 - [Vitcesar/plugin.video.anitube](https://github.com/Vitcesar/plugin.video.anitube) - Add-on para AniTube, famoso site que ofereceu uma gigantesca biblioteca de animes para assistir online e de graça.
@@ -2222,7 +2222,7 @@
 - [django/django](https://github.com/django/django) - The Web framework for perfectionists with deadlines.
 - [Suwayomi/Tachidesk-Sorayomi](https://github.com/Suwayomi/Tachidesk-Sorayomi) - A free and open source manga reader app to read manga from a Tachidesk-Server instance.
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
-- [flet-dev/flet](https://github.com/flet-dev/flet) - Flet enables developers to easily build realtime web, mobile and desktop apps in Python. No frontend experience required.
+- [flet-dev/flet](https://github.com/flet-dev/flet) - Build realtime web, mobile and desktop apps in Python only. No frontend experience required.
 - [Xonshiz/anime-dl](https://github.com/Xonshiz/anime-dl) - Anime-dl is a command-line program to download anime from CrunchyRoll and Funimation.
 - [angular/angular](https://github.com/angular/angular) - Deliver web apps with confidence 🚀
 - [google/WebFundamentals](https://github.com/google/WebFundamentals) - Former git repo for WebFundamentals on developers.google.com
