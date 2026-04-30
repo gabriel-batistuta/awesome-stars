@@ -649,7 +649,7 @@
 - [nltk/nltk](https://github.com/nltk/nltk) - NLTK Source
 - [Chaffelson/nipyapi](https://github.com/Chaffelson/nipyapi) - A convenient Python wrapper for Apache NiFi
 - [pytube/pytube](https://github.com/pytube/pytube) - Lightweight, dependency-free Python library and CLI for downloading YouTube videos, playlists, and captions.
-- [flet-dev/flet](https://github.com/flet-dev/flet) - Flet enables developers to easily build realtime web, mobile and desktop apps in Python. No frontend experience required.
+- [flet-dev/flet](https://github.com/flet-dev/flet) - Build realtime web, mobile and desktop apps in Python only. No frontend experience required.
 - [vmeazevedo/myFII_B3](https://github.com/vmeazevedo/myFII_B3) - Aplicação de monitoramento de valores de Fundos Imobiliários e ações.
 - [Xonshiz/anime-dl](https://github.com/Xonshiz/anime-dl) - Anime-dl is a command-line program to download anime from CrunchyRoll and Funimation.
 - [cosarara/red-alien](https://github.com/cosarara/red-alien) - A compiler/decompiler for the script system found in GBA pokemon games, to be used by ROM-Hackers. Formerly ASC.
