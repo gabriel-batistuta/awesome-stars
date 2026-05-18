@@ -357,7 +357,7 @@
 
 - [Steamodded/smods](https://github.com/Steamodded/smods) - A Balatro Modding Framework
 - [danitsdev/Lost_Edition](https://github.com/danitsdev/Lost_Edition) - Lost Edition is a fan-made Balatro expansion with 70+ Jokers, new Blinds, Decks, Stakes, challenges, themes, and original music (Steamodded + Lovely).
-- [luuumine/BalaQuints](https://github.com/luuumine/BalaQuints) - Retexture mod for Balatro featuring the Quintessential Quintuplets.
+- [luuumine/BalaQuints](https://github.com/luuumine/BalaQuints) - Mirror from https://git.luuumine.com/luuumine/BalaQuints
 - [OceanRamen/Saturn](https://github.com/OceanRamen/Saturn) - Quality of life mod for Balatro
 - [SleepyG11/HandyBalatro](https://github.com/SleepyG11/HandyBalatro) - A mod for Balatro which adds new Quality of Life controls and keybinds.
 - [DivvyCr/Balatro-History](https://github.com/DivvyCr/Balatro-History) - View the history of your played hands and shop purchases! Save and load any number of runs!
@@ -584,7 +584,6 @@
 - [EniasCailliau/GirlfriendGPT](https://github.com/EniasCailliau/GirlfriendGPT) - OSS AI Companion Chatbot - Build your own AI companion in Python using ChatGPT.
 - [pdfminer/pdfminer.six](https://github.com/pdfminer/pdfminer.six) - Community maintained fork of pdfminer - we fathom PDF
 - [jstockwin/py-pdf-parser](https://github.com/jstockwin/py-pdf-parser) - A Python tool to help extracting information from structured PDFs.
-- [s0md3v/roop](https://github.com/s0md3v/roop) - 
 - [Pycord-Development/pycord](https://github.com/Pycord-Development/pycord) - Pycord is a modern, easy to use, feature-rich, and async ready API wrapper for Discord written in Python
 - [3ddelano/gogoanime-batch-downloader](https://github.com/3ddelano/gogoanime-batch-downloader) - A python program to download anime episode in any quality from Gogoanime.
 - [Nachtalb/reverse_image_search_bot](https://github.com/Nachtalb/reverse_image_search_bot) - Image Reverse Search Bot🕵️‍♂️🔍: A handy Telegram bot for reverse image searches on images, videos, and GIFs, supporting multiple search engines. Unleash the power of reverse searching! 🚀🤖
