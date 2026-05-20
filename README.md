@@ -242,7 +242,7 @@
 - [soruly/liresolr](https://github.com/soruly/liresolr) - Putting LIRE into Solr - an ongoing project
 - [dermotte/liresolr](https://github.com/dermotte/liresolr) - Putting LIRE into Solr - an ongoing project
 - [zaproxy/zaproxy](https://github.com/zaproxy/zaproxy) - The ZAP by Checkmarx Core project
-- [happyhuishun/cron](https://github.com/happyhuishun/cron) - A simple Android app to create and manage cron jobs
+- [happydugong/cron](https://github.com/happydugong/cron) - A simple Android app to create and manage cron jobs
 - [iBotPeaches/Apktool](https://github.com/iBotPeaches/Apktool) - A tool for reverse engineering Android apk files
 - [antlr/antlr4](https://github.com/antlr/antlr4) - ANTLR (ANother Tool for Language Recognition) is a powerful parser generator for reading, processing, executing, or translating structured text or binary files.
 - [code4craft/webmagic](https://github.com/code4craft/webmagic) - A scalable web crawler framework for Java.
