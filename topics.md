@@ -1600,7 +1600,7 @@
 - [cescaa/SadSongsForSummer](https://github.com/cescaa/SadSongsForSummer) - I created a webpage dedicated to my favourite song of 2022 (and my sad summer).
 - [cescaa/WhereAreYou](https://github.com/cescaa/WhereAreYou) - The search for a long-lost friend—told through a website and other media forms.
 - [tmux/tmux](https://github.com/tmux/tmux) - tmux source code
-- [happyhuishun/cron](https://github.com/happyhuishun/cron) - A simple Android app to create and manage cron jobs
+- [happydugong/cron](https://github.com/happydugong/cron) - A simple Android app to create and manage cron jobs
 - [toticavalcanti/django_ecommerce](https://github.com/toticavalcanti/django_ecommerce) - Criação de um e-commerce utilizando django
 - [jqlang/jq](https://github.com/jqlang/jq) - Command-line JSON processor
 - [cantalupo555/qbittorrent-backup-linux](https://github.com/cantalupo555/qbittorrent-backup-linux) - Script - Backup your qBitorrent client on linux and restore anytime.
