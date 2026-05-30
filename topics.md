@@ -1472,7 +1472,7 @@
 - [DivvyCr/Balatro-History](https://github.com/DivvyCr/Balatro-History) - View the history of your played hands and shop purchases! Save and load any number of runs!
 - [Toeler/Balatro-HandPreview](https://github.com/Toeler/Balatro-HandPreview) - A mod for Balatro which adds a window showing the possible poker hands that you can make with your current hand
 - [OceanRamen/Brainstorm](https://github.com/OceanRamen/Brainstorm) - A Balatro Quality-of-Life Mod
-- [benjamimgois/goverlay](https://github.com/benjamimgois/goverlay) - Goverlay is an easy graphical interface to configure MangoHud, vkBasalt, and OptiScaler
+- [benjamimgois/goverlay](https://github.com/benjamimgois/goverlay) - Goverlay is an easy graphical interface to configure linux gaming applications
 - [leomontenegro6/gbatroids-dialog-previewer](https://github.com/leomontenegro6/gbatroids-dialog-previewer) - Prévisualizador de diálogos para jogos de Metroid de Gameboy Advance
 - [Eduardo-Marinho-Paiva/pipeline_pyspark_cpd](https://github.com/Eduardo-Marinho-Paiva/pipeline_pyspark_cpd) - 
 - [manga-download/hakuneko](https://github.com/manga-download/hakuneko) - Manga & Anime Downloader for Linux, Windows & MacOS
@@ -1851,7 +1851,7 @@
 - [maurosoria/dirsearch](https://github.com/maurosoria/dirsearch) - Web path scanner
 - [ranaroussi/yfinance](https://github.com/ranaroussi/yfinance) - Download market data from Yahoo! Finance's API
 - [Animenosekai/translate](https://github.com/Animenosekai/translate) - A module grouping multiple translation APIs
-- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - APIs for browser automation, testing, and bypassing bot-detection. Works with Selenium, Playwright, and CDP.
+- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - Python APIs for web automation, E2E testing, and bypassing bot-detection.
 - [luxuriant777/Handwritten-Text-Generator](https://github.com/luxuriant777/Handwritten-Text-Generator) - This project offers a simple and intuitive interface for users to input text and generate images that showcase the text in a handwritten style. The generator supports several stylistic modifications i
 - [megadose/holehe](https://github.com/megadose/holehe) - holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.
 - [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine) - Self-hosted game stream host for Moonlight.
