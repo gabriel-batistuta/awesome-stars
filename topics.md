@@ -196,6 +196,7 @@
 - [react](#react)
 - [react-native](#react-native)
 - [reactjs](#reactjs)
+- [redteam](#redteam)
 - [rest-api](#rest-api)
 - [reverse-engineering](#reverse-engineering)
 - [ruby](#ruby)
@@ -1999,6 +2000,10 @@
 
 - [sonnylazuardi/reactriot2017-dotamania](https://github.com/sonnylazuardi/reactriot2017-dotamania) - 🌐 Web scraping made easy with the visual 🗺  mind map editor to JSON
 - [WeryZebra-Yue/Talk-Walk](https://github.com/WeryZebra-Yue/Talk-Walk) - It's a social media web app named Talk-Walk where you can post photo, gif, video and share stories
+
+## redteam 
+
+- [maurosoria/dirsearch](https://github.com/maurosoria/dirsearch) - Web path scanner
 
 ## rest-api 
 
