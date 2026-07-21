@@ -174,6 +174,7 @@
 - [penetration-testing](#penetration-testing)
 - [pentesting](#pentesting)
 - [perl](#perl)
+- [phishing](#phishing)
 - [php](#php)
 - [pico-8](#pico-8)
 - [pixel-art](#pixel-art)
@@ -1774,6 +1775,10 @@
 ## perl 
 
 - [smxi/inxi](https://github.com/smxi/inxi) - inxi is a full featured CLI system information tool. It is available in most Linux distribution repositories, and does its best to support the BSDs.
+
+## phishing 
+
+- [htr-tech/nexphisher](https://github.com/htr-tech/nexphisher) - Advanced Phishing tool
 
 ## php 
 
