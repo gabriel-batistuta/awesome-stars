@@ -664,7 +664,7 @@
 - [B-Salinas/YGO-Duel-Academy-Deck-Builder](https://github.com/B-Salinas/YGO-Duel-Academy-Deck-Builder) - YGO Duel Academy Deck Builder is a clone of Yu-Gi-Oh! GX: Duel Academy's in-game Deck Builder for the Gameboy Advanced.
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [cursoemvideo/cursoemvideo-python](https://github.com/cursoemvideo/cursoemvideo-python) - Curso de Python do CursoemVideo
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of Python frameworks, libraries, tools, and resources
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) - The definitive list that answers "I want to do X in Python, which tool should I use?"
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
 - [raspberrypi/documentation](https://github.com/raspberrypi/documentation) - The official documentation for Raspberry Pi computers and microcontrollers
 
@@ -766,7 +766,7 @@
 - [haicaumuoi/Mushoku-Tensei-English-Landing-Page](https://github.com/haicaumuoi/Mushoku-Tensei-English-Landing-Page) - 
 - [soruly/anilist-crawler](https://github.com/soruly/anilist-crawler) - Crawl data from anilist API and store as JSON file
 - [artiefellype/gonin](https://github.com/artiefellype/gonin) - Gonin é um projeto de uma comunidade online de código aberto inspirada em diversos fóruns online diferentes, mas com uma abordagem mais amigável. Participe de discussões e compartilhe interesses nesse
-- [samueldurantes/susi](https://github.com/samueldurantes/susi) - A simple viewer of the cutoff scores for all Brazilian universities participating in SISU
+- [ssdurante/susi](https://github.com/ssdurante/susi) - A simple viewer of the cutoff scores for all Brazilian universities participating in SISU
 - [vuejs/core](https://github.com/vuejs/core) - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
 - [hydralauncher/hydra](https://github.com/hydralauncher/hydra) - Hydra Launcher is an open-source gaming platform created to be the single tool that you need
 - [thgfrnk/consulta-clima](https://github.com/thgfrnk/consulta-clima) - 
