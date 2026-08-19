@@ -1522,7 +1522,7 @@
 - [itlgrim/roblox-demos](https://github.com/itlgrim/roblox-demos) - Various Roblox experiences
 - [ocodista/trampar-de-casa](https://github.com/ocodista/trampar-de-casa) - Apoio o trabalho remoto divulgando vagas semanalmente para +30.000 inscritos.
 - [password123456/setup-selenium-with-chrome-driver-on-ubuntu_debian](https://github.com/password123456/setup-selenium-with-chrome-driver-on-ubuntu_debian) - Setup Selenium and Chrome driver on ubuntu/debian
-- [yufifi/SSHTuneling_PuTTY](https://github.com/yufifi/SSHTuneling_PuTTY) - Um passo-a-passo rápido para conectar-se à sua VM na Oracle Cloud Infrastructure através de um túnel SSH para navegar na web de forma segura e privada utilizando FoxyProxy.
+- [yufifi/SSHTuneling_PuTTY-DEPRECATED](https://github.com/yufifi/SSHTuneling_PuTTY-DEPRECATED) - Um passo-a-passo rápido para conectar-se à sua VM na Oracle Cloud Infrastructure através de um túnel SSH para navegar na web de forma segura e privada utilizando FoxyProxy.
 - [pythonbrasil/pyBusinesses-BR](https://github.com/pythonbrasil/pyBusinesses-BR) - Esse repositório contém informações de contato das empresas de tecnologia do Brasil que utilizam a linguagem de programação Python.
 - [soruly/slides](https://github.com/soruly/slides) - 
 - [soruly/trace.moe-worker](https://github.com/soruly/trace.moe-worker) - background worker nodes for trace.moe
