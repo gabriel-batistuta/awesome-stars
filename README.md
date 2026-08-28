@@ -359,7 +359,7 @@
 - [danitsdev/Lost_Edition](https://github.com/danitsdev/Lost_Edition) - Lost Edition is a fan-made Balatro expansion with 70+ Jokers, new Blinds, Decks, Stakes, challenges, themes, and original music (Steamodded + Lovely).
 - [luuumine/BalaQuints](https://github.com/luuumine/BalaQuints) - Mirror from https://git.luuumine.com/luuumine/BalaQuints
 - [OceanRamen/Saturn](https://github.com/OceanRamen/Saturn) - Quality of life mod for Balatro
-- [SleepyG11/HandyBalatro](https://github.com/SleepyG11/HandyBalatro) - A mod for Balatro which adds new Quality of Life controls and keybinds.
+- [SleepyG11/HandyBalatro](https://github.com/SleepyG11/HandyBalatro) - Quality of Life controls and keybinds for Balatro
 - [DivvyCr/Balatro-History](https://github.com/DivvyCr/Balatro-History) - View the history of your played hands and shop purchases! Save and load any number of runs!
 - [Toeler/Balatro-HandPreview](https://github.com/Toeler/Balatro-HandPreview) - A mod for Balatro which adds a window showing the possible poker hands that you can make with your current hand
 - [OceanRamen/Brainstorm](https://github.com/OceanRamen/Brainstorm) - A Balatro Quality-of-Life Mod
