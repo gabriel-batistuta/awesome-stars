@@ -622,7 +622,7 @@
 
 ## data 
 
-- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - APIs for browser automation, testing, and bypassing bot-detection. Includes CDP Mode: A stealthy configuration for chromium that passes every bot detection test.
+- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - Browser automation, web scraping, and testing. CDP Mode provides a Stealthy Chromium instance that bypasses bot-detection systems. Includes an MCP server.
 
 ## data-engineering 
 
@@ -1611,6 +1611,7 @@
 - [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
 - [RekhuGopal/PythonHacks](https://github.com/RekhuGopal/PythonHacks) - This repo contains some solved python hacker codes
 - [Adastra-thw/pyHacks](https://github.com/Adastra-thw/pyHacks) - Python Scripts for Hacking .
+- [JoasASantos/Awesome-Malware-and-Reverse-Engineering](https://github.com/JoasASantos/Awesome-Malware-and-Reverse-Engineering) - 
 - [Dump-GUY/Malware-analysis-and-Reverse-engineering](https://github.com/Dump-GUY/Malware-analysis-and-Reverse-engineering) - Some of my publicly available Malware analysis and Reverse engineering.
 - [RapidAPI/DevRel-Examples-External](https://github.com/RapidAPI/DevRel-Examples-External) - RapidAPI Examples by external developers — curated as is.
 - [KDE/krita](https://github.com/KDE/krita) - Krita is a free and open source cross-platform application that offers an end-to-end solution for creating digital art files from scratch built on the KDE and Qt frameworks.
@@ -1878,7 +1879,7 @@
 - [maurosoria/dirsearch](https://github.com/maurosoria/dirsearch) - Web path scanner
 - [ranaroussi/yfinance](https://github.com/ranaroussi/yfinance) - Download market data from Yahoo! Finance's API
 - [Animenosekai/translate](https://github.com/Animenosekai/translate) - A module grouping multiple translation APIs
-- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - APIs for browser automation, testing, and bypassing bot-detection. Includes CDP Mode: A stealthy configuration for chromium that passes every bot detection test.
+- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - Browser automation, web scraping, and testing. CDP Mode provides a Stealthy Chromium instance that bypasses bot-detection systems. Includes an MCP server.
 - [luxuriant777/Handwritten-Text-Generator](https://github.com/luxuriant777/Handwritten-Text-Generator) - This project offers a simple and intuitive interface for users to input text and generate images that showcase the text in a handwritten style. The generator supports several stylistic modifications i
 - [megadose/holehe](https://github.com/megadose/holehe) - holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.
 - [IAmPara0x/Yuno](https://github.com/IAmPara0x/Yuno) - Yuno is context based search engine for anime.
