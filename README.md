@@ -396,7 +396,6 @@
 - [yufifi/SSHTuneling_PuTTY-DEPRECATED](https://github.com/yufifi/SSHTuneling_PuTTY-DEPRECATED) - Um passo-a-passo rápido para conectar-se à sua VM na Oracle Cloud Infrastructure através de um túnel SSH para navegar na web de forma segura e privada utilizando FoxyProxy.
 - [soruly/slides](https://github.com/soruly/slides) - 
 - [fadadoc/NOTES-DEFEAT](https://github.com/fadadoc/NOTES-DEFEAT) - Este repositório foi criado para fazer relação das menores notas de turma do curso de CC turma 2023.
-- [bendlang/bend](https://github.com/bendlang/bend) - Bend 2: a fast language that blocks AI mistakes via proof. Coming soon.
 - [ulid/spec](https://github.com/ulid/spec) - The canonical spec for ulid
 - [thgfrnk/polyglopet-japones](https://github.com/thgfrnk/polyglopet-japones) - Documentação de uma linguagem de programação em Japonês
 - [jincheng9/markdown_supported_languages](https://github.com/jincheng9/markdown_supported_languages) - Markdown supported languages for syntax highlighting
@@ -768,6 +767,7 @@
 - [soruly/anilist-crawler](https://github.com/soruly/anilist-crawler) - Crawl data from anilist API and store as JSON file
 - [artiefellype/gonin](https://github.com/artiefellype/gonin) - Gonin é um projeto de uma comunidade online de código aberto inspirada em diversos fóruns online diferentes, mas com uma abordagem mais amigável. Participe de discussões e compartilhe interesses nesse
 - [ssdurante/susi](https://github.com/ssdurante/susi) - A simple viewer of the cutoff scores for all Brazilian universities participating in SISU
+- [bendlang/bend](https://github.com/bendlang/bend) - Bend 2: a fast language that blocks AI mistakes via proof. Install: curl -fsSL https://bend-lang.com/install.sh | sh
 - [vuejs/core](https://github.com/vuejs/core) - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
 - [hydralauncher/hydra](https://github.com/hydralauncher/hydra) - Hydra Launcher is an open-source gaming platform created to be the single tool that you need
 - [thgfrnk/consulta-clima](https://github.com/thgfrnk/consulta-clima) - 
