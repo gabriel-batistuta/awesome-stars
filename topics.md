@@ -1656,7 +1656,7 @@
 - [romhackersbr/romhackersbr-db](https://github.com/romhackersbr/romhackersbr-db) - Banco de Dados do PO.B.R.E
 - [hansenhahn/mmbn-2](https://github.com/hansenhahn/mmbn-2) - Projeto de tradução do jogo MegaMan Battle Network 2, para GBA
 - [James-Yu/LaTeX-Workshop](https://github.com/James-Yu/LaTeX-Workshop) - Boost LaTeX typesetting efficiency with preview, compile, autocomplete, colorize, and more.
-- [hikaruAi/FacebookBot](https://github.com/hikaruAi/FacebookBot) - A facebook bot to scrap, post, spam and more without the facebook API
+- [miaru3d/FacebookBot](https://github.com/miaru3d/FacebookBot) - A facebook bot to scrap, post, spam and more without the facebook API
 - [EniasCailliau/GirlfriendGPT](https://github.com/EniasCailliau/GirlfriendGPT) - OSS AI Companion Chatbot - Build your own AI companion in Python using ChatGPT.
 - [soruly/trace.moe](https://github.com/soruly/trace.moe) - Timestamp Retrieval for Anime Clips Everywhere
 - [dbisu/pico-ducky](https://github.com/dbisu/pico-ducky) - Create a USB Rubber Ducky like device using a Raspberry PI Pico
