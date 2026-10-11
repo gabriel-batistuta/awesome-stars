@@ -185,7 +185,7 @@
 
 ## Go 
 
-- [alvarorichard/GoAnime](https://github.com/alvarorichard/GoAnime) - A TUI tool to browse, stream, and download anime in PT-BR and EN
+- [alvarorichard/GoAnime](https://github.com/alvarorichard/GoAnime) - Search, stream and download anime, movies and TV shows from the terminal, in English and Brazilian Portuguese.
 - [danielgatis/imgcat](https://github.com/danielgatis/imgcat) - Display images and gifs in your terminal.
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
@@ -533,7 +533,7 @@
 - [NExT-GPT/NExT-GPT](https://github.com/NExT-GPT/NExT-GPT) - Code and models for ICML 2024 paper, NExT-GPT: Any-to-Any Multimodal Large Language Model
 - [Animenosekai/translate](https://github.com/Animenosekai/translate) - A module grouping multiple translation APIs
 - [josephmisiti/hadoop-examples](https://github.com/josephmisiti/hadoop-examples) - You wanna learn how to use Hadoop, start here!
-- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - 📊 Python APIs for Web Automation, E2E Testing, and Data Scraping. UC & CDP modes bypass bot-detection and handle CAPTCHAs. Includes a Stealth mode for Playwright.
+- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - Framework for Browser Automation, Web Scraping, and Testing. CDP Mode is undetectable to anti-bot systems and adds stealth to stock Playwright.
 - [luxuriant777/Handwritten-Text-Generator](https://github.com/luxuriant777/Handwritten-Text-Generator) - This project offers a simple and intuitive interface for users to input text and generate images that showcase the text in a handwritten style. The generator supports several stylistic modifications i
 - [batocera-linux/batocera.linux](https://github.com/batocera-linux/batocera.linux) - batocera.linux
 - [RichNeumann/Bot-Que-Pula-Os-Episodios-de-One-Piece](https://github.com/RichNeumann/Bot-Que-Pula-Os-Episodios-de-One-Piece) - Você já pensou em pular os episódios de One Piece, mas por estar deitado e relaxado, ficou com preguiça de levantar e pular? Aqui está a solução! Esse bot irá pular a quantidade de episódios que você 
