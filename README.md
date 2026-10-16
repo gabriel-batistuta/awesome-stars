@@ -652,7 +652,6 @@
 - [senko/python-video-converter](https://github.com/senko/python-video-converter) - Python Video Converter (ffmpeg wrapper)
 - [satwikkansal/wtfpython](https://github.com/satwikkansal/wtfpython) - What the f*ck Python? 😱
 - [archlinux/archinstall](https://github.com/archlinux/archinstall) - Arch Linux installer - guided, templates etc.
-- [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) - ALL IN ONE Hacking Tool For Hackers
 - [PySimpleGUI/PySimpleGUI](https://github.com/PySimpleGUI/PySimpleGUI) - Python GUIs for Humans! Create any GUI simple or complicated in a way that's intuitive.  Launched in 2018. NEW for 2026 - the LGPL3 Version 6.  Transforms tkinter, Qt, WxPython, and Remi into a simple
 - [grupyrn/jararaca](https://github.com/grupyrn/jararaca) - GruPy-RN Event and Check-in System
 - [firebase/firebase-admin-python](https://github.com/firebase/firebase-admin-python) - Firebase Admin Python SDK
