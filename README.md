@@ -230,7 +230,6 @@
 - [filipedeschamps/tabnews.com.br](https://github.com/filipedeschamps/tabnews.com.br) - Conteúdos para quem trabalha com Programação e Tecnologia.
 - [720kb/angular-datepicker](https://github.com/720kb/angular-datepicker) - Angularjs datepicker module, generate a datepicker on your input element -  https://720kb.github.io/angular-datepicker
 - [SergioPereira79/Curso-Front-End](https://github.com/SergioPereira79/Curso-Front-End) - Um projeto de Front End.
-- [iuricode/recursos-gratuitos](https://github.com/iuricode/recursos-gratuitos) - Coleção com links para desenvolvimento
 - [gustavoguanabara/javascript](https://github.com/gustavoguanabara/javascript) - Curso de JavaScript
 - [gustavoguanabara/html-css](https://github.com/gustavoguanabara/html-css) - Curso de HTML5 e CSS3
 
@@ -433,6 +432,7 @@
 - [apsantos-dev/modelo-de-contrato](https://github.com/apsantos-dev/modelo-de-contrato) - Modelo de contrato de prestação de serviços [ Desenvolvedor Freelancer ].
 - [arthurspk/guiadobackend](https://github.com/arthurspk/guiadobackend) - Guia de Back-end: trilhas, cursos, livros, canais, ferramentas e comunidades para você entrar e evoluir na área.
 - [iuricode/readme-template](https://github.com/iuricode/readme-template) - Modelos readmes
+- [iuricode/recursos-gratuitos](https://github.com/iuricode/recursos-gratuitos) - Coleção com links para desenvolvimento
 - [jsitor/jsitor](https://github.com/jsitor/jsitor) - Online JS, CSS and HTML editor
 - [rafaballerini/rafaballerini](https://github.com/rafaballerini/rafaballerini) - 
 - [arthurspk/guiadofrontend](https://github.com/arthurspk/guiadofrontend) - Guia de Front-end: trilhas, cursos, livros, canais, ferramentas e comunidades para você entrar e evoluir na área.
@@ -533,7 +533,7 @@
 - [NExT-GPT/NExT-GPT](https://github.com/NExT-GPT/NExT-GPT) - Code and models for ICML 2024 paper, NExT-GPT: Any-to-Any Multimodal Large Language Model
 - [Animenosekai/translate](https://github.com/Animenosekai/translate) - A module grouping multiple translation APIs
 - [josephmisiti/hadoop-examples](https://github.com/josephmisiti/hadoop-examples) - You wanna learn how to use Hadoop, start here!
-- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - 📊 Python APIs for Web Automation, E2E Testing, and Data Scraping. CDP Mode bypasses bot-detection and handles CAPTCHAs. Includes a Stealth mode for Playwright.
+- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - 📊 Python APIs for Web Automation, Testing, and Scraping. CDP Mode launches a stealth browser that bypasses bot-detection/CAPTCHAs. Has a stealth mode for Playwright. Includes an MCP server for AI agen
 - [luxuriant777/Handwritten-Text-Generator](https://github.com/luxuriant777/Handwritten-Text-Generator) - This project offers a simple and intuitive interface for users to input text and generate images that showcase the text in a handwritten style. The generator supports several stylistic modifications i
 - [batocera-linux/batocera.linux](https://github.com/batocera-linux/batocera.linux) - batocera.linux
 - [RichNeumann/Bot-Que-Pula-Os-Episodios-de-One-Piece](https://github.com/RichNeumann/Bot-Que-Pula-Os-Episodios-de-One-Piece) - Você já pensou em pular os episódios de One Piece, mas por estar deitado e relaxado, ficou com preguiça de levantar e pular? Aqui está a solução! Esse bot irá pular a quantidade de episódios que você 
