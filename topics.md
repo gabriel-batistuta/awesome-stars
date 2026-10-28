@@ -1483,6 +1483,7 @@
 
 ## others 
 
+- [arantes-gabs/fora-de-cena](https://github.com/arantes-gabs/fora-de-cena) - Saídas criativas para chamadas de vídeo no Windows, com processamento local. Instalador e executável único.
 - [Afonso017/ontologia_alergenicos](https://github.com/Afonso017/ontologia_alergenicos) - Repositório com finalidade de abrigar documentação, modelagem e construção de uma ontologia de referência para descrever alergênicos alimentares.
 - [armadasvc/armada](https://github.com/armadasvc/armada) - Kubernetes-native framework for bot and scraper orchestration
 - [Steamodded/smods](https://github.com/Steamodded/smods) - A Balatro Modding Framework
@@ -1883,7 +1884,7 @@
 - [maurosoria/dirsearch](https://github.com/maurosoria/dirsearch) - Web path scanner
 - [ranaroussi/yfinance](https://github.com/ranaroussi/yfinance) - Download market data from Yahoo! Finance's API
 - [Animenosekai/translate](https://github.com/Animenosekai/translate) - A module grouping multiple translation APIs
-- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - 📊 Python APIs for Web Automation, Testing, and Scraping. CDP Mode launches a stealth browser that bypasses bot-detection/CAPTCHAs. Adds stealth to Playwright and has an MCP server for AI agents.
+- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - 📊 The best API for Web Automation, Testing, and Scraping. CDP Mode launches a stealth browser that bypasses bot-detection/CAPTCHAs. Adds stealth to Playwright. Includes an MCP server for AI agents.
 - [luxuriant777/Handwritten-Text-Generator](https://github.com/luxuriant777/Handwritten-Text-Generator) - This project offers a simple and intuitive interface for users to input text and generate images that showcase the text in a handwritten style. The generator supports several stylistic modifications i
 - [megadose/holehe](https://github.com/megadose/holehe) - holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.
 - [IAmPara0x/Yuno](https://github.com/IAmPara0x/Yuno) - Yuno is context based search engine for anime.
