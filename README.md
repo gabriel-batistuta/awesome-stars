@@ -436,9 +436,9 @@
 - [jsitor/jsitor](https://github.com/jsitor/jsitor) - Online JS, CSS and HTML editor
 - [rafaballerini/rafaballerini](https://github.com/rafaballerini/rafaballerini) - 
 - [arthurspk/guiadofrontend](https://github.com/arthurspk/guiadofrontend) - Guia de Front-end: trilhas, cursos, livros, canais, ferramentas e comunidades para você entrar e evoluir na área.
-- [backend-br/opensource-br](https://github.com/backend-br/opensource-br) - Espaço para divulgação de projetos open-source brasileiros.
+- [backend-br/opensource-br](https://github.com/backend-br/opensource-br) - Divulgação de projetos open source brasileiros.
 - [gdcmarinho/awesome-project](https://github.com/gdcmarinho/awesome-project) - A curated list of awesome project development links
-- [backend-br/vagas](https://github.com/backend-br/vagas) - Espaço para a divulgação de vagas para desenvolvedores backend via issues do Github.
+- [backend-br/vagas](https://github.com/backend-br/vagas) - Divulgação de vagas para pessoas desenvolvedoras backend, via issues do GitHub.
 - [frontendbr/vagas](https://github.com/frontendbr/vagas) - Espaço para divulgação de vagas para front-enders
 - [Universidade-Livre/ciencia-da-computacao](https://github.com/Universidade-Livre/ciencia-da-computacao) - 🎓 Um caminho para a educação autodidata em Ciência da Computação!
 - [arthurspk/guiadevbrasil](https://github.com/arthurspk/guiadevbrasil) - Um guia extenso de informações com um vasto conteúdo de várias áreas para ajudar, agregar conhecimento e retirar dúvidas, nesse guia você encontrará tudo que necessário para qualquer carreira relacion
