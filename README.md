@@ -520,7 +520,7 @@
 - [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats) - This GitHub action helps to add cool dev metrics to your github profile Readme
 - [maurosoria/dirsearch](https://github.com/maurosoria/dirsearch) - Web path scanner
 - [Doubiiu/ToonCrafter](https://github.com/Doubiiu/ToonCrafter) - [SIGGRAPH Asia 2024, Journal Track] ToonCrafter: Generative Cartoon Interpolation
-- [google/pica](https://github.com/google/pica) - UWB hardware simulator written in Rust
+- [google/pica](https://github.com/google/pica) - Ultra-Wideband (UWB) and FiRa UCI spatial simulator in Rust
 - [yurisalesc/optimizing-your-django-orm-queries-talk](https://github.com/yurisalesc/optimizing-your-django-orm-queries-talk) - Palestra dada no 12º Meetup GruPy-RN Mossoró
 - [mwaskom/seaborn-data](https://github.com/mwaskom/seaborn-data) - Data repository for seaborn examples
 - [vd2org/snowflake](https://github.com/vd2org/snowflake) - The Snowflake generator done right.
@@ -534,7 +534,7 @@
 - [NExT-GPT/NExT-GPT](https://github.com/NExT-GPT/NExT-GPT) - Code and models for ICML 2024 paper, NExT-GPT: Any-to-Any Multimodal Large Language Model
 - [Animenosekai/translate](https://github.com/Animenosekai/translate) - A module grouping multiple translation APIs
 - [josephmisiti/hadoop-examples](https://github.com/josephmisiti/hadoop-examples) - You wanna learn how to use Hadoop, start here!
-- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - 📊 APIs for Web Scraping, Browser Automation, and E2E Testing. CDP Mode bypasses bot-detection and handles CAPTCHAs. Adds stealth to Playwright. Includes an MCP server.
+- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - Browser automation and testing without limits. SeleniumBase's CDP Mode bypasses bot-detection with ease. Check out the examples!
 - [luxuriant777/Handwritten-Text-Generator](https://github.com/luxuriant777/Handwritten-Text-Generator) - This project offers a simple and intuitive interface for users to input text and generate images that showcase the text in a handwritten style. The generator supports several stylistic modifications i
 - [batocera-linux/batocera.linux](https://github.com/batocera-linux/batocera.linux) - batocera.linux
 - [RichNeumann/Bot-Que-Pula-Os-Episodios-de-One-Piece](https://github.com/RichNeumann/Bot-Que-Pula-Os-Episodios-de-One-Piece) - Você já pensou em pular os episódios de One Piece, mas por estar deitado e relaxado, ficou com preguiça de levantar e pular? Aqui está a solução! Esse bot irá pular a quantidade de episódios que você 
