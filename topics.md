@@ -582,7 +582,6 @@
 ## cpp 
 
 - [aseprite/aseprite](https://github.com/aseprite/aseprite) - Animated sprite editor & pixel art tool (Windows, macOS, Linux)
-- [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine) - Self-hosted game stream host for Moonlight.
 - [RPCS3/rpcs3](https://github.com/RPCS3/rpcs3) - PlayStation 3 emulator and debugger
 - [antlr/antlr4](https://github.com/antlr/antlr4) - ANTLR (ANother Tool for Language Recognition) is a powerful parser generator for reading, processing, executing, or translating structured text or binary files.
 - [cemu-project/Cemu](https://github.com/cemu-project/Cemu) - Cemu - Wii U emulator
@@ -719,7 +718,6 @@
 ## docker 
 
 - [IonelPopJara/moogle](https://github.com/IonelPopJara/moogle) - My very own search engine
-- [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine) - Self-hosted game stream host for Moonlight.
 
 ## documentation 
 
@@ -1606,6 +1604,7 @@
 - [PeterTh/dsfix](https://github.com/PeterTh/dsfix) - Interceptor dll for the improvement of Dark Souls PC
 - [Paulo-D2000/FUKompiler](https://github.com/Paulo-D2000/FUKompiler) - FUKompiler is a basic C compiler written in C++
 - [Genymobile/genymotion-kernel](https://github.com/Genymobile/genymotion-kernel) - 
+- [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine) - Self-hosted game stream host for Moonlight.
 - [ValveSoftware/Proton](https://github.com/ValveSoftware/Proton) - Compatibility tool for Steam Play based on Wine and additional components
 - [moonlight-stream/moonlight-docs](https://github.com/moonlight-stream/moonlight-docs) - Moonlight Documentation
 - [keiyoushi/extensions](https://github.com/keiyoushi/extensions) - Extension repository for Mihon and variants
